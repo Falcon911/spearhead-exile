@@ -35,3 +35,42 @@ CUP: http://www.armaholic.com/page.php?id=27489
 ASDG_JR: http://www.armaholic.com/page.php?id=23242
 
 
+----------------- Install These Mods -----------------
+
+CUP Weapon Pack: http://www.armaholic.com/page.php?id=27489
+ASDG: http://www.armaholic.com/page.php?id=23242
+
+Bornholm Map: http://www.armaholic.com/page.php?id=27056
+
+----------------- OPTIONAL Mods (not really a mod)  -----------------
+
+MARMA: http://marma.io/
+
+^ Really good, free alternative to managing your server.
+
+------------------ INSTALLING THE SERVER ---------------------
+
+1. Please disable MySQL Strict Mode or Exile will not work properly.
+   https://dev.mysql.com/doc/refman/5.1/en/sql-mode.html#sql-mode-strict
+
+2. Import mysql/exile.sql
+
+3. Place @Exile and @ExileServer in your server mod directory
+
+4. Copy over our mission file
+
+5. Copy over our .bisign keys
+
+7. Configure basic.cfg
+
+8. Configure config.cfg
+
+9. Replace "<Your RCON Password here>", "<Your MySQL User here>", " <Your MySQL PW here>" in extdb-conf.ini
+
+10. Place tbb.dll and tbbmalloc.dll next to your extDB2.dll
+
+11. Install this if not already done:
+    http://www.microsoft.com/en-ie/download/details.aspx?id=40784
+
+12. Be sure to empty your server at least two minutes before you restart the server. 
+
