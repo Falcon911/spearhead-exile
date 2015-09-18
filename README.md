@@ -21,9 +21,11 @@ Weapons from CUP such as the Lee Enfield, M16 and L85A2 are now new to Exile, ho
 
 AI Missions 
 Exile: Bornholm Edition features missions via VEMF, fight back for the towns that bandits have taken over and receive a hefty loot cache in return for your help.
-from VMEF dev it07 http://www.exilemod.com/topic/66-vemf-for-exile-by-it07/
+
+From VMEF dev it07 http://www.exilemod.com/topic/66-vemf-for-exile-by-it07/
 
 IgilLoad for Exile added- http://www.exilemod.com/topic/1018-exile-igiload/
+
 Badmin added- http://www.exilemod.com/topic/1146-badmin-in-game-admin-menu-from-a3w/?page=1
 
 CUPWeaposn ADDED:
@@ -37,9 +39,13 @@ Bornholm has three traders within its lands; Roenne Airport, The Country Side Tr
 Includes modified files for auto restart of the server from Bruiser : http://www.exilemod.com/topic/625-nevermind-went-another-routegood-script-editor-needed-should-be-easy-for-most-of-you/
 
 Download needed:
+
 Exile mod Server and Client files: http://www.exilemod.com/
+
 Bornholm Map: http://www.armaholic.com/page.php?id=27056
+
 CUP: http://www.armaholic.com/page.php?id=27489
+
 ASDG_JR: http://www.armaholic.com/page.php?id=23242
 
 
@@ -62,18 +68,11 @@ MARMA: http://marma.io/
 
 2. Copy over our mission file pbo
 
-5. Copy over our .bisign keys
+3. Copy over the .bisign keys
 
-7. Configure basic.cfg
+4. Configure basic.cfg
 
-8. Configure config.cfg
+5. Configure config.cfg
 
-9. Replace "<Your RCON Password here>", "<Your MySQL User here>", " <Your MySQL PW here>" in extdb-conf.ini
-
-10. Place tbb.dll and tbbmalloc.dll next to your extDB2.dll
-
-11. Install this if not already done:
-    http://www.microsoft.com/en-ie/download/details.aspx?id=40784
-
-12. Be sure to empty your server at least two minutes before you restart the server. 
+6. Be sure to empty your server at least two minutes before you restart the server. 
 
