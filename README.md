@@ -23,6 +23,14 @@ AI Missions
 Exile: Bornholm Edition features missions via VEMF, fight back for the towns that bandits have taken over and receive a hefty loot cache in return for your help.
 from VMEF dev it07 http://www.exilemod.com/topic/66-vemf-for-exile-by-it07/
 
+IgilLoad for Exile added- http://www.exilemod.com/topic/1018-exile-igiload/
+Badmin added- http://www.exilemod.com/topic/1146-badmin-in-game-admin-menu-from-a3w/?page=1
+
+CUPWeaposn ADDED:
+M136
+RPG_7V
+
+
 New Traders 
 Bornholm has three traders within its lands; Roenne Airport, The Country Side Trader and The Coastal Trader. The Airport and the Country Side offer what the Coastal Trader cannot however, the Coastal Trader also offers what the other two cannot.
 
