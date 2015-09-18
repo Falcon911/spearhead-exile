@@ -50,14 +50,9 @@ MARMA: http://marma.io/
 
 ------------------ INSTALLING THE SERVER ---------------------
 
-1. Please disable MySQL Strict Mode or Exile will not work properly.
-   https://dev.mysql.com/doc/refman/5.1/en/sql-mode.html#sql-mode-strict
+1. Follow the instructions from this link and instal your server. http://www.exilemod.com/topic/666-dedicated-server-package/
 
-2. Import mysql/exile.sql
-
-3. Place @Exile and @ExileServer in your server mod directory
-
-4. Copy over our mission file
+2. Copy over our mission file pbo
 
 5. Copy over our .bisign keys
 

@@ -1,0 +1,8 @@
+//new
+1 "" !="exilexm8isonline" !="bis_fnc_selectrespawntemplate_respawned" 
+1 "can_load"
+1 "attachedpos" 
+1 "attachTruck"
+1 "doors" 
+1 "slots" 
+1 "cargo_offset"
