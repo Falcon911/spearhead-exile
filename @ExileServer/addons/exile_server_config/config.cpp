@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Exile Mod
  * www.exilemod.com
  * © 2015 Exile Mod Team
@@ -23,6 +23,7 @@ class CfgPatches
 
 class CfgBuildings
 {
+	#include "CfgBuildings_Bornholm.h"
 	///////////////////////////////////////////////////////////////////////////
 	// Castles & Lighthouses & Life Guard Towers
 	///////////////////////////////////////////////////////////////////////////
@@ -2646,7 +2647,7 @@ class CfgSettings
 		*/
 
 		// This needs to match config.cfg serverCommandPassword
-		serverPassword = "";
+		serverPassword = "rconpassword";
 
 		// Autolocks server until its ready to accept players
 		useAutoLock = 1;
