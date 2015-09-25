@@ -22,25 +22,7 @@ class Header
 class RscTitles
 {
 	#include "addons\statusBar\statusBar.hpp"
-	#include "VEMFclient\hpp_mainVemfClient.hpp"
 };
-
-class cfgFunctions
-{
-	class VEMF
-	{
-		tag = "VEMF";
-		class functions
-		{
-			file = "VEMFclient";
-			class vemfClientMessage {};
-			class vemfClientInit { postInit = 1; };
-		};
-	};
-};
-
-
-
 
 // DO NOT CHANGE THIS! +
 showHUD = 0;
