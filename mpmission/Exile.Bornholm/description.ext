@@ -1,3 +1,4 @@
+
 // https://community.bistudio.com/wiki/Description.ext#forceRotorLibSimulation
 forceRotorLibSimulation = 2;
 
@@ -6,7 +7,7 @@ disableChannels[] = {0, 2};
 
 author = "Exile Mod Team";
 loadScreen = "exile_client\texture\mod\logo.paa"; 
-onLoadMission= "www.spearheadGaming.net";
+onLoadMission= "www.exilemod.com";
 OnLoadIntro = "";
 OnLoadIntroTime = false;
 OnLoadMissionTime = false;
@@ -16,30 +17,14 @@ class Header
 {
 	gameType = Sandbox;
 	minPlayers = 1;
-	maxPlayers = 100;
+	maxPlayers = 50;
 };
 
 class RscTitles
 {
 	#include "addons\statusBar\statusBar.hpp"
-	#include "VEMFclient\hpp_mainVemfClient.hpp"
+	
 };
-
-class cfgFunctions
-{
-	class VEMF
-	{
-		tag = "VEMF";
-		class functions
-		{
-			file = "VEMFclient";
-			class vemfClientMessage {};
-			class vemfClientInit { postInit = 1; };
-		};
-	};
-};
-
-
 
 
 // DO NOT CHANGE THIS! +
@@ -97,14 +82,6 @@ enableDebugConsole = 1; // 2 = dangerous in MP
 // NO NO NO
 allowFunctionsRecompile = 0;
 
-class CfgRemoteExecCommands {};
-
 #include "config.cpp"
-#include "badmin\client\gui_base.hpp"
-#include "badmin\client\systems\common.hpp"
-#include "badmin\client\systems\adminPanel\dialog\adminMenu.hpp"
-#include "badmin\client\systems\adminPanel\dialog\modMenu.hpp"
-#include "badmin\client\systems\adminPanel\dialog\serverAdminMenu.hpp"
-#include "badmin\client\systems\adminPanel\dialog\debugMenu.hpp"
-#include "badmin\client\systems\adminPanel\dialog\shopMenu.hpp"
-#include "badmin\client\systems\adminPanel\dialog\playerMenu.hpp"
+#include "infiSTAR_Exile_AdminMenu.hpp"
+#include "CfgRemoteExec.hpp"

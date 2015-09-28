@@ -1,0 +1,13 @@
+//new
+7 "" !="true" !="vehicle this land 'LAND'" !="exileserver_system_network_dispatchincomingmessage.*" !"fnc_AdminReq"
+7 "ExileClient_system_network_dispatchIncomingMessage"
+7 "FN_infiSTAR_C"
+1 "call"
+1 "spawn" !"createPlayerRequest"
+1 "compile"
+1 "exec"
+1 "config"
+1 "toString"
+1 "toArray"
+1 "loadFile"
+1 "preprocess"

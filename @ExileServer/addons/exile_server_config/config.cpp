@@ -1,4 +1,4 @@
-﻿/**
+/**
  * Exile Mod
  * www.exilemod.com
  * © 2015 Exile Mod Team
@@ -2647,7 +2647,7 @@ class CfgSettings
 		*/
 
 		// This needs to match config.cfg serverCommandPassword
-		serverPassword = "rconpassword";
+		serverPassword = "buttman";
 
 		// Autolocks server until its ready to accept players
 		useAutoLock = 1;

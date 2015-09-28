@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<Scheduler>
+
+-<job id="0">
+
+<start>011955</start>
+
+<runtime>000000</runtime>
+
+<day>1,2,3,4,5,6,7</day>
+
+<loop>0</loop>
+
+<cmd>Exilerestart.bat</cmd>
+
+</job>
+
+
+-<job id="1">
+
+<start>012000</start>
+
+<runtime>000000</runtime>
+
+<day>1,2,3,4,5,6,7</day>
+
+<loop>0</loop>
+
+<cmd>#shutdown</cmd>
+
+
+</job>
+
+</Scheduler>
