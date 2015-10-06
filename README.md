@@ -76,3 +76,7 @@ MARMA: http://marma.io/
 
 6. Be sure to empty your server at least two minutes before you restart the server. 
 
+
+Change log 
+Moidifed for 0.9.34
+

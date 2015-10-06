@@ -1,3 +1,4 @@
+[8,true,true,12] execFSM "addons\timeModule.fsm";
 _objects = 
 [
 	["Exile_Sign_Armory",[6518.21,17298.5,-0.0165343],14.0909,[[0.243461,0.969911,0],[0,0,1]],false],

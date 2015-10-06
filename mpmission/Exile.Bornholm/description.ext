@@ -1,3 +1,16 @@
+class cfgFunctions
+{
+	class VEMF
+	{
+		tag = "VEMF";
+		class functions
+		{
+			file = "VEMFclient";
+			class vemfClientMessage {};
+			class vemfClientInit { postInit = 1; };
+		};
+	};
+};;
 
 // https://community.bistudio.com/wiki/Description.ext#forceRotorLibSimulation
 forceRotorLibSimulation = 2;
@@ -20,15 +33,23 @@ class Header
 	maxPlayers = 50;
 };
 
+// DO NOT CHANGE THIS! +
+showHUD[] = 
+{
+    true,   // Scripted HUD (same as showHUD command)
+    true,   // Vehicle + soldier info
+    true,   // Vehicle radar 
+    true,   // Vehicle compass
+    true,   // Tank direction indicator
+    true,   // Commanding menu
+    false,   // Group Bar
+    true    // HUD Weapon Cursors
+};
 class RscTitles
 {
 	#include "addons\statusBar\statusBar.hpp"
-	
+	#include "VEMFclient\hpp_mainVemfClient.hpp"
 };
-
-
-// DO NOT CHANGE THIS! +
-showHUD = 0;
 
 respawn = "BASE";
 respawnDelay = 120;
@@ -36,7 +57,6 @@ respawnDialog = 0;
 respawnOnStart = 0;
 respawnButton = 1; 
 respawnTemplates[] = {"Exile"};
-
 
 // These are broken as fuck, do not use them!
 corpseManagerMode = 0;
@@ -47,9 +67,6 @@ wreckManagerMode = 0;
 wreckLimit = 2;
 wreckRemovalMinTime = 60;
 wreckRemovalMaxTime = 360;
-
-
-
 // DO NOT CHANGE THIS! -
 
 // When scripted player is enabled, game no longer shows "No player select" error message upon mission start when no player unit is present. 
@@ -77,7 +94,7 @@ allowFunctionsLog = 1;
 // 0 = Default behavior, available only in editor
 // 1 = Available in SP and for hosts / logged in admins
 // 2 = Available for everyone
-enableDebugConsole = 1; // 2 = dangerous in MP
+enableDebugConsole = 0; // 2 = dangerous in MP
 
 // NO NO NO
 allowFunctionsRecompile = 0;
