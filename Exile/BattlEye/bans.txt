@@ -1,9 +1,154 @@
-001358341547fa164d976d07d1de4e14 -1 Safe Glitching
-9504a5f1f1e09ecb036b59b615727d94 -1 Hacking
-9504a5f1f1e09ecb036b59b615727d94 -1 Temp.sqf
-892d21f6fa31e3d88b9ee6b7375b28cd -1 Duping
-74.67.184.56 1443458276 [BCP] Read Forum
-72.174.165.232 -1 Safe Glitching
-108.223.102.6 -1 Hacking
-108.223.102.6 -1 Temp.sqf
-67.168.167.56 -1 Duping
+9504a5f1f1e09ecb036b59b615727d94 -1 Hacking attenpt Anderson
+29066c644730e0e3cb3fb00d8c13ac1b 1444793014 Dayton Duping
+4cc0d12d326e100be821b4f888c4dbd2 1444793040 Dayton Duping
+d1a36fb8880b2c59cc1a318be01da707 -1 : DW : grief #0016
+9b4ae11f203679be03491fec8a16842f -1 : DW : grief #0015
+72c8deb7395bf22f36c64e2ff8b5bce9 -1 : DW : grief #0014
+2b31e6bce2fba4930c4e3c8e95385791 -1 : DW : grief #0013
+d93b4b93092497cdc6d9b71a478f8c54 -1 : DW : grief #0012
+3e3b87db9523f6638cdec6e450ac84f5 -1 : DW : grief #0011
+fa54e3344ed4a13f1cb418aee2b86141 -1 : DW : grief #0010
+2793bb4e2ed626f5488ba2a3e3e72432 -1 : DW : grief #0009
+9fdf20e0997daaaf2c35a00a59082474 -1 : DW : grief #0008
+568270699c758a1af27c6bdbe8605e3d -1 : DW : grief #0007
+f45f8484663cff0998b1385b7ad86c79 -1 : DW : grief #0006
+0e15d82d997915154beb8ecad4a58ff1 -1 : DW : grief #0005
+ddd234272286e0f4d27bb2ca016ec152 -1 : DW : grief #0004
+f8de7b4a5dbcc1934cfe1f7a70bb669c -1 : DW : grief #0002
+fc2046953db40b520f0cf34dcb37e7c5 -1 : DW : grief #0003
+6a3b51cac09231138886e6202ea176bc -1 : DW : grief #0001
+d80698744ade7d6717c29fa757ca792b -1 : by EPM
+04f7dcc108fd051642be1ed4ff101174 -1 : by BRG
+bac3191d7641a4217994bd3a4be4816c -1 : by BRG
+1150bfb1055f7152585eb5ca6bd8e247 -1 : by BRG
+375c47d76d5e38cb1d95976039423e12 -1 : by BRG
+4768d28321f75ff44af4fc38e7ad3f72 -1 : by BRG
+4c6af4485749111e2e2dd8e31b12e55e -1 : by BRG
+4fbc07fb4f370cd2ec1b52309f725755 -1 : by BRG
+83b90b40b1024e67906b95222d0918cd -1 : by BRG
+854746eae2a870b0ff31003076bb376e -1 : by BRG
+8f7554f2cc8cfedfccde30752da539ad -1 : by BRG
+9ffdece97525d3fc4a93475dee6a583d -1 : by BRG
+ac542b5480edddde4e4fa98ad14165b8 -1 : by BRG
+c4b3beb0d95eed1644f9b1b30ea01402 -1 : by BRG
+e9aa9b9eef8808571fb92ace72bfc55e -1 : by BRG
+f6dc1909a3df2b569d0b3711d8fb6293 -1 : by BRG
+a401d8d8c207dcefc831204974e5913a -1 : by BRG
+7c581bc4752d710df68d1dc6986f8be2 -1 : by BRG
+1358f614d2596e3f0d8081204c50bc37 -1 : by BRG
+9e90e7bc9f03410186c756e9488677bc -1 : by BRG
+a2f966571b06202a8f19a1f393045bdd -1 : by BRG
+4b79aa4a0d791ef9815213759b43b078 -1 : by BRG
+c5cf84b1cb504d737a4da9e9d77126a0 -1 : scr.ch. w.s. {fin infinite}
+d86b93ce59ca8254dd08877ad8532c1f -1 : scr.ch. w.s. {fin infinite}
+dc9db276c8efa7a49832fd711523c34b -1 : scr.ch. w.s. {fin infinite}
+59beceb8b48220997233344244149c9d -1 : scr.ch. w.s. {fin infinite}
+7e31a5525c4aad311ba34f799628162e -1 : scr.ch. w.s. {fin infinite}
+13e6776ce90272ef611eacd96d7f3dbe -1 : scr.ch. w.s. {fin infinite}
+a0f4a805851d172aaa5a902c1f33f792 -1 : scr.ch. w.s. {fin infinite}
+60d1b3a5f9691e1d7381c4c99ce8415e -1 : scr.ch. w.s. {fin infinite}
+638ca8ca7a4ce4c553ffe6ce78f2bdeb -1 : scr.ch. w.s. {fin infinite}
+fe628d5bc5f39794070468c2cfc43858 -1 : scr.ch. w.s. {fin infinite}
+cdd04b81b17718827fe07bea460eab73 -1 : scr.ch. w.s. {fin infinite}
+6eca819d8d431a849e0b54ff6edfe195 -1 : scr.ch. w.s. {fin infinite}
+5093e3457469a5bd37f1d2c86e079cb9 -1 : scr.ch. w.s. {fin infinite}
+326b3eaf4c3fc0b0c7ef9ba00416fe33 -1 : scr.ch. w.s. {fin infinite}
+cadd6bed8ad4506d6eb96916743ae824 -1 : scr.ch. w.s. {fin infinite}
+ba730c6831d215b83e2bb7302c66dac9 -1 : scr.ch. w.s. {fin infinite}
+1fb3d7975af75c000b808d60b6c7020d -1 : scr.ch. w.s. {fin infinite}
+25221e785ade69bc9f2566a5997e6915 -1 : scr.ch. w.s. {fin infinite}
+ac742d388d3db2f4f41788f40d242002 -1 : scr.ch. w.s. {fin infinite}
+01a767e2fee4a89f9fd4fb0df456bdb4 -1 : scr.ch. w.s. {fin infinite}
+bac9230d895f309482406d77d36eadd9 -1 : scr.ch. w.s. {fin infinite}
+406f0a1ee11f7b763f984a9e09c863f0 -1 : scr.ch. w.s. {fin infinite}
+157c8d774658de79f658f9d5227e18e4 -1 : scr.ch. w.s. {fin infinite}
+f793b730d6f4f836244d1604514eec61 -1 : scr.ch. w.s. {fin infinite}
+2e45fe9f1facaa17e9cc69ff69ef597f -1 : scr.ch. w.s. {fin infinite}
+84acf185e75d6c09e2de50907a95b248 -1 : GH #38 ban w.s. 
+2f6e3a25620518c869aa6d720987b21f -1 : GH #38 ban w.s. 
+740f1845f0fca4ff6239f1884205890b -1 : GH #38 ban w.s. 
+60b66161539e283a7ed9d2d8def6dd2e -1 : GH #38 ban w.s. 
+145dec85ee6a36f50802eb2f66053591 -1 : GH #38 ban w.s. 
+0b04b21c28c47e1f378eef1234d6aa25 -1 : GH #38 ban w.s. 
+8faa908f22adaa1f6a59013f769e8aa9 -1 : GH #38 ban w.s. 
+d6b127a97300be48b1a1b2e1a530bed4 -1 : GH #38 ban w.s. 
+3f75bb941e79e116b515466383fae601 -1 : GH #38 ban w.s. 
+b2d721ac77b95748ea2d97a30f75dd12 -1 : GH #38 ban w.s. 
+6a3d2d9eae0cfecf317e9ef7f6d9bde6 -1 : GH #26 ban w.s. 
+5ff8bf8d94b5691a462a917e8129310c -1 : GH #38 ban w.s. 
+cf6fa8fb573dd6e5da25216990babb4f -1 : GH #38 ban w.s. 
+4b61b538205818a70a3145b448a4428d -1 : GH #38 ban w.s. 
+15eda64c60211194165273cef129a369 -1 : GH #38 ban w.s. 
+c64cbb66849a9c88a7793f9dcc46f00c -1 : GH #34 ban w.s. 
+13b300553b0c2cf8aa298a189c520a0f -1 : GH #38 ban w.s. 
+02bdb749e045629aa798e2a543295c1b -1 : GH #38 ban w.s. 
+511ad43b9559f079a3ac1a6638c9910a -1 : GH #38 ban w.s. 
+116499f394f3e65af82faf6138dc3e17 -1 : GH #38 ban w.s. 
+cff93c03029b1b4a960143bef52247da -1 : GH #28 ban w.s. 
+2015e87e6d5bae61367653ba803fd658 -1 : GH #38 ban w.s. 
+c6b26f13f3e231dcd1d27e5774fd5663 -1 : GH #38 ban w.s. 
+3c409bdbda07b4d5ac85f1211c4b7b71 -1 : GH #38 ban w.s. 
+07770e6cc2184e9293bd7c475939d806 -1 : GH #38 ban w.s. 
+a1e31f215c1676747bf913695dd9e27f -1 : GH #34 ban w.s. 
+9906b300afa9c4fc672a2d99b57ea958 -1 : GH #38 ban w.s. 
+a297e562785b9b23c9a9bb43d1ef2fd0 -1 : GH #34 ban w.s. 
+400d2d598d0a1c4d100233b0f2c17fd7 -1 : GH #38 ban w.s. 
+acf04967871516105c8837f29931cf91 -1 : GH #38 ban w.s. 
+100bad51ebd3cf9c5a6495cf3223273b -1 : GH #38 ban w.s. 
+ad35c9920539f41220e7a7b11f5a1673 -1 : GH #38 ban w.s. 
+9389230527ccc65318c3974e41896b95 -1 : GH #38 ban w.s. 
+0bb246757f03197a7070e8ae8e49c313 -1 : GH #38 ban w.s. 
+5ef51ac6a440d3658451b798c42daea1 -1 : GH #34 ban w.s. 
+3ba55dbe46350d4d17977f77ed5a4587 -1 : GH #38 ban w.s. 
+67ad84760a77fd0f81a74e55691722c2 -1 : GH #38 ban w.s. 
+bc598f4f6fa44b3e0ce73c35d13d79e9 -1 : GH #38 ban w.s. 
+25162047728cc94625da05eb77557441 -1 : GH #38 ban w.s. 
+2ff89c85224081d4704ae4bea441024c -1 : GH #38 ban w.s. 
+80d57e8816af8745c9ec39f62ec97dbf -1 : GH #38 ban w.s. 
+6560e9ae3223c9bec1da5f769151fc69 -1 : GH #38 ban w.s. 
+f58d0b51d132f067788e4c9dd643cbaf -1 : GH #38 ban w.s. 
+2f1d840bc9f0d2ca1e497c4e4e4682f2 -1 : GH #38 ban w.s. 
+e7e6302f1aec53e3caf86be59203eef1 -1 : GH #38 ban w.s. 
+04ab7644f2bd235692c49697d5e2d9ef -1 : GH #38 ban w.s. 
+ae8500517cb02e4c8186d09fc55a2a59 -1 : GH #38 ban w.s. 
+e70c1db16da6603a2500123f1b9c5f6d -1 : GH #38 ban w.s. 
+9b7ad045252a937e08d8e9a09d4d40db -1 : GH #38 ban w.s. 
+68fecd163a617b96287bfb424a5f3bab -1 : GH #38 ban w.s. 
+999f60535cf466cce8e2153f3add9675 -1 : GH #34 ban w.s. 
+fc4749b4463aa366547957c5ca2a5ae9 -1 : GH #38 ban w.s. 
+1c84e6133e8e8ec4447a7fec0b0e3008 -1 : GH #38 ban w.s. 
+0e035f9dee2ae6f3f0caf7fd74996b44 -1 : GH #38 ban w.s. 
+dd92c66d3ac9dbe9fbdf1bb754bba7fa -1 : GH #38 ban w.s. 
+29fe2ba0da174308da1dcaae5ef34a61 -1 : GH #28 ban w.s. 
+d7b416cbb8837ed40a7ea3e9866e633e -1 : GH #38 ban w.s. 
+f5d18dcac0d4b08a8a4c5a2d763dc85a -1 : GH #38 ban w.s. 
+aeb9c4e5bec1c5adf9662375f97db87e -1 : GH #38 ban w.s. 
+4e33a563a2ccc32586ca97fc27e06638 -1 : GH #38 ban w.s. 
+5996bae6e78762a4cdef7acf78e74e2e -1 : GH #28 ban w.s. 
+0759c27b8c74e5846f369b574a675217 -1 : GH #38 ban w.s. 
+c590f0a13ab2d51efb603e74516e4b1d -1 : GH #38 ban w.s. 
+8a2c63e21f5246e5883a7e41307e37db -1 : GH #38 ban w.s. 
+8eff674a5b4f16541ba5e8391ccde42a -1 : GH #38 ban w.s. 
+67feee7782de4d727f4f3e175d6f1f2f -1 : GH #34 ban w.s. 
+2dec16d748e56928c6bc9a7d2e064945 -1 : GH #38 ban w.s. 
+c72bdf9cf1d6cae03ce9d6e2b984b53f -1 : GH #34 ban w.s. 
+269095080c849b202770381f0e1b3ba1 -1 : GH #38 ban w.s. 
+ee3fb90744e6e2371f11b386698ba53b -1 : GH #37 ban w.s. 
+5c72f0368a4fe38feabf55520dd03a1f -1 : GH #38 ban w.s. 
+63ddce5f74e56181772df5bffc638dbe -1 : GH #38 ban w.s. 
+7848569db06e40dcb6c85463004d3e16 -1 : GH #38 ban w.s. 
+e8e5ff231dd0f4bcd099a8d7aa2fce11 -1 : GH #38 ban w.s. 
+b2a9cba768b90b08c3ccb07c3c45cae7 -1 : GH #38 ban w.s. 
+889bc24d6cfe506e4c5b175a3ce0a251 -1 : GH #38 ban w.s. 
+af9a49709875b1610af715dfdcbe704c -1 : GH #38 ban w.s. 
+281e5e630d7e6e261019742ca629a58a -1 : GH #38 ban w.s. 
+e58589fcde68eead9bc8467c5fa17b85 -1 : GH #38 ban w.s. 
+fed121d263b3772f2b10faaacb4ff05a -1 [BCP] Dupping
+1d5a8bc0587cbda5513c2589d5020d10 1444607251 Warned ya and now banned ya. Robinette
+e9d4cfbb2a90ab948736eacef773419d -1 [BCP] Spamming and calling admins cunts
+108.223.102.6 -1 Hacking attenpt Anderson
+77.99.188.131 -1 Feyzi
+70.115.226.163 1444793014 Dayton Duping
+70.115.226.163 1444793040 Dayton Duping
+85.167.35.251 -1 Rex Hacking
+71.79.92.45 1444607251 Warned ya and now banned ya. Robinette

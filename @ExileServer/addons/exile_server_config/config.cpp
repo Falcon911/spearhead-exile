@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Exile Mod
  * www.exilemod.com
  * © 2015 Exile Mod Team
@@ -1165,9 +1165,8 @@ class CfgLootTables
 			{62.0500000000001, "U_NikosBody"},
 			{62.1000000000001, "U_NikosAgedBody"},
 			{62.15, "U_OrestesBody"},
-			{62.2, "optic_NVS"},
-			{62.21, "optic_tws"},
-			{62.22, "optic_Nightstalker"}
+			{62.2, "optic_NVS"}
+			
 		};
 	};
 
@@ -1920,10 +1919,8 @@ class CfgLootTables
 			{93.85, "H_HelmetO_oucamo"},
 			{93.95, "V_PlateCarrierL_CTRG"},
 			{94.05, "V_PlateCarrierH_CTRG"},
-			{94.1, "optic_NVS"},
-			{94.11, "optic_tws_mg"},
-			{94.12, "optic_Nightstalker"},
-			{94.13, "optic_tws"}
+			{94.1, "optic_NVS"}
+			
 		};
 	};
 
@@ -2218,7 +2215,7 @@ class CfgSettings
 		class Corpses
 		{
 			despawnAfterMinutes = 15;
-			delayDespawnIfPlayerInRange = 40;
+			delayDespawnIfPlayerInRange = 11000;
 			forceDespawnAfterMinutes = 25;
 		};
 
@@ -2234,7 +2231,7 @@ class CfgSettings
 		class DroppedItems
 		{
 			despawnAfterMinutes = 15;
-			delayDespawnIfPlayerInRange = 20;
+			delayDespawnIfPlayerInRange = 11000;
 			forceDespawnAfterMinutes = 25;
 		};
 	};
@@ -2256,15 +2253,15 @@ class CfgSettings
 		*/
 		class Frags
 		{
-			bambi = -500;				// Bambi slayers
+			bambi = -3000;				// Bambi slayers
 			friendlyFire = -100;		// For party members
 			standard = 100;				// Normal kill
 			letItRain = 150;			// MG, also vehicle MGs
-			humiliation = 300;			// Axe
+			humiliation = 3000;			// Axe
 			passenger = 400;			// Out of car/chopper/boat
-			roadKill = 500;				// :)
-			bigBird = 600;				// Roadkill, but with chopper/plane
-			chuteGreaterChopper = 600; 	// Someone flies into chute and chopper/plane explodes 			
+			roadKill = -5000;				// :)
+			bigBird = 2500;				// Roadkill, but with chopper/plane
+			chuteGreaterChopper = 6000; 	// Someone flies into chute and chopper/plane explodes 			
 		};
 
 		class Bonus
@@ -2383,7 +2380,7 @@ class CfgSettings
 		/**
 		 * Chance in % to spawn loot in a building
 		 */
-		spawnChancePerBuilding = 70;
+		spawnChancePerBuilding = 100;
 
 		/**
 		 * Chance in % to spawn loot per loot spot per building.
@@ -2657,7 +2654,7 @@ class CfgSettings
 		*/
 
 		// This needs to match config.cfg serverCommandPassword
-		serverPassword = "rcon password";
+		serverPassword = "Password";
 
 		// Autolocks server until its ready to accept players
 		useAutoLock = 1;

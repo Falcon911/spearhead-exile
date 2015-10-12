@@ -1,5 +1,5 @@
 //new
-1 "" !="rhsusf_falconii" !="Exile_Unit_Player" !="M_NLAW_AT_F" !="I_UAV_01_backpack_F" !="M_Titan_AT" !="Exile_Unit_GhostPlayer" !="I_UAV_01_backpack_F" !="Steerable_Parachute_F" !"CMflare" !"I_UAV" !"LaserTarget" !"SLAM" !"SatchelCharge_Remote_Ammo" !"DemoCharge" !"ClaymoreDirectionalMine" !"IEDUrban" !"G_40mm_" !"F_40mm_" !="Exile_Ammo_Swing" !"F_Signal" !="I_IRStrobe" !="O_IRStrobe" !="NVG_TargetG" !"WeaponHolder" !"Supply" !"B_" !"SmokeShell" !"IEDLand" !"APERS" !="O_HMG_01_weapon_F" !="rhs_ammo_fakel" !="O_HMG_01_F" !="O_HMG_01_support_F" !"Chemlight" !="GrenadeHand" !="mini_Grenade" !="SmokeLauncherAmmo" !="CUP_R_M136_AT" !="CUP_R_PG7V_AT"
+1 "" !="rhs_ammo_fab250" !"I_UAV_AI" !="CUP_R_SMAW_HEAA_N" !"I_UAV_01_F" !="G_40mm_SmokePurple" !="SLAMDirectionalMine_Wire_Ammo" !="rhsusf_falconii" !="rhs_sidor" !="Exile_Unit_Player" !="M_NLAW_AT_F" !="I_UAV_01_backpack_F" !="M_Titan_AT" !="Exile_Unit_GhostPlayer" !="I_UAV_01_backpack_F" !="Steerable_Parachute_F" !"CMflare" !"I_UAV" !"LaserTarget" !"SLAM" !"SatchelCharge_Remote_Ammo" !"DemoCharge" !"ClaymoreDirectionalMine" !"IEDUrban" !"G_40mm_" !"F_40mm_" !="Exile_Ammo_Swing" !"F_Signal" !="I_IRStrobe" !="O_IRStrobe" !="NVG_TargetG" !"WeaponHolder" !"Supply" !"B_" !"SmokeShell" !"IEDLand" !"APERS" !="O_HMG_01_weapon_F" !="rhs_ammo_fakel" !="O_HMG_01_F" !="O_HMG_01_support_F" !"Chemlight" !="GrenadeHand" !="mini_Grenade" !="SmokeLauncherAmmo" !="CUP_R_M136_AT" !="CUP_R_PG7V_AT"
 1 "IEDLand"
 1 "IEDUrban"
 1 "APERS"
@@ -23,3 +23,5 @@
 1 "M_Titan_AT"
 1 "M_NLAW_AT_F"
 1 "Exile_Unit_Player"
+1 "B_Heli_Attack_01_F"
+1 "rhs_ammo_fab250"

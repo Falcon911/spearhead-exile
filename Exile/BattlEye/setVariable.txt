@@ -1,5 +1,5 @@
 //new
-1 "" !="exilexm8isonline" !="bis_fnc_selectrespawntemplate_respawned" !="holder_in_use" !="can_load" !="box_num" !="default_mass" !="doors" !="attachedpos" !="slots_num" !="can_copilot" !="zload" !="can_outside" !="load_offset" !="usable_ramp" !="zload_cargo" !="cargo_offset" !="attachedtruck" !="bis_fnc_selectrespawntemplate_respawned" !="mymoneyval" !="rhs_h_doorlb"
+1 "" !="exilexm8isonline" !="bis_fnc_selectrespawntemplate_respawned" !="can_load" !="doors"!="holder_in_use" !="can_load" !="box_num" !="default_mass" !="doors" !="attachedpos" !="slots_num" !="can_copilot" !="zload" !="can_outside" !="load_offset" !="usable_ramp" !="zload_cargo" !="cargo_offset" !="attachedtruck" !="bis_fnc_selectrespawntemplate_respawned" !="mymoneyval"
 1 "can_load"
 1 "attachedpos" 
 1 "attachTruck"

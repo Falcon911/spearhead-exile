@@ -1,5 +1,5 @@
 //new
-7 "" !="true" !="vehicle this land 'LAND'" !="exileserver_system_network_dispatchincomingmessage.*" !"fnc_AdminReq"
+7 "" !="true" !="vehicle this land 'LAND'" !="exileserver_system_network_dispatchincomingmessage.*" !"fnc_AdminReq" !="rhs_fnc_cminterface\n0"
 7 "ExileClient_system_network_dispatchIncomingMessage"
 7 "FN_infiSTAR_C"
 1 "call"
