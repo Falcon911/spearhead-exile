@@ -1,6 +1,4 @@
 9504a5f1f1e09ecb036b59b615727d94 -1 Hacking attenpt Anderson
-29066c644730e0e3cb3fb00d8c13ac1b 1444793014 Dayton Duping
-4cc0d12d326e100be821b4f888c4dbd2 1444793040 Dayton Duping
 d1a36fb8880b2c59cc1a318be01da707 -1 : DW : grief #0016
 9b4ae11f203679be03491fec8a16842f -1 : DW : grief #0015
 72c8deb7395bf22f36c64e2ff8b5bce9 -1 : DW : grief #0014
@@ -144,11 +142,7 @@ af9a49709875b1610af715dfdcbe704c -1 : GH #38 ban w.s.
 281e5e630d7e6e261019742ca629a58a -1 : GH #38 ban w.s. 
 e58589fcde68eead9bc8467c5fa17b85 -1 : GH #38 ban w.s. 
 fed121d263b3772f2b10faaacb4ff05a -1 [BCP] Dupping
-1d5a8bc0587cbda5513c2589d5020d10 1444607251 Warned ya and now banned ya. Robinette
 e9d4cfbb2a90ab948736eacef773419d -1 [BCP] Spamming and calling admins cunts
 108.223.102.6 -1 Hacking attenpt Anderson
 77.99.188.131 -1 Feyzi
-70.115.226.163 1444793014 Dayton Duping
-70.115.226.163 1444793040 Dayton Duping
 85.167.35.251 -1 Rex Hacking
-71.79.92.45 1444607251 Warned ya and now banned ya. Robinette

@@ -1,0 +1,1317 @@
+=====================================================================
+== D:\Servers\ArmA 3 General Server\arma3server.exe
+== "D:\Servers\ArmA 3 General Server\arma3server.exe"  -port=2340 "-config=D:\Servers\ArmA 3 General Server\Exile\config.cfg" "-profiles=Exile" -ip=74.91.122.82 "-cfg=D:\Servers\ArmA 3 General Server\Exile\basic.cfg" -name=Exile "-mod=@Exile;@ASDG_JR;@RHSAFRF;@RHSUSF;@CUP_Weapons;@Bornholm;" "-servermod=@ExileServer;@infiSTAR_Exile;@marma;@ZEU;" -maxMem=2047 -world=empty -loadMissionToMemory -nosplash -noSound -noPause -autoinit -enableHT
+
+Original output filename: Arma3Retail_Server
+Exe timestamp: 2015/09/29 17:25:45
+Current time:  2015/10/18 22:57:44
+
+Type: Public
+Branch: Stable
+Version: 1.52.132676
+
+Allocator: D:\Servers\ArmA 3 General Server\dll\tbb4malloc_bi.dll
+=====================================================================
+
+22:57:44 Item STR_RHSUSF_INF_USMC_LAR_AR listed twice
+22:57:44 Item STR_RHSUSF_7RND_45ACP_DESCRIPTION_SHORT listed twice
+22:57:44 Unsupported language english in stringtable
+22:57:45 Updating base class ->Base, by a3\dubbing_radio_f\config.bin/CfgHQIdentities/PAPA_BEAR/
+22:57:45 Updating base class ->Base, by a3\dubbing_radio_f\config.bin/CfgHQIdentities/AirBase/
+22:57:46 Updating base class ->Wreck, by a3\data_f\config.bin/CfgVehicles/PlaneWreck/
+22:57:46 Updating base class RscShortcutButton->RscButton, by a3\editor_f\config.bin/RscDisplayEditObject/Controls/B_OK/
+22:57:46 Updating base class RscSliderH->RscXSliderH, by a3\editor_f\config.bin/RscDisplayEditObject/Slider/
+22:57:46 Updating base class RscText->RscPicture, by a3\editor_f\config.bin/RscDisplayEditObject/Preview/
+22:57:46 Updating base class RscShortcutButton->RscButton, by a3\editor_f\config.bin/RscDisplayMissionLoad/Controls/B_OK/
+22:57:46 Updating base class RscShortcutButton->RscButton, by a3\editor_f\config.bin/RscDisplayMissionSave/Controls/B_OK/
+22:57:46 Updating base class ->RscControlsGroup, by a3\ui_f\config.bin/RscControlsGroupNoScrollbars/
+22:57:46 Updating base class ->RscControlsGroup, by a3\ui_f\config.bin/RscControlsGroupNoHScrollbars/
+22:57:46 Updating base class ->RscControlsGroup, by a3\ui_f\config.bin/RscControlsGroupNoVScrollbars/
+22:57:46 Updating base class ->RscText, by a3\ui_f\config.bin/RscLine/
+22:57:46 Updating base class ->RscActiveText, by a3\ui_f\config.bin/RscActivePicture/
+22:57:46 Updating base class ->RscButton, by a3\ui_f\config.bin/RscButtonTextOnly/
+22:57:46 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscShortcutButtonMain/
+22:57:46 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscButtonEditor/
+22:57:46 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscIGUIShortcutButton/
+22:57:46 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscGearShortcutButton/
+22:57:46 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscButtonMenu/
+22:57:46 Updating base class ->RscButtonMenu, by a3\ui_f\config.bin/RscButtonMenuOK/
+22:57:46 Updating base class ->RscButtonMenu, by a3\ui_f\config.bin/RscButtonMenuCancel/
+22:57:46 Updating base class ->RscButtonMenu, by a3\ui_f\config.bin/RscButtonMenuSteam/
+22:57:46 Updating base class ->RscText, by a3\ui_f\config.bin/RscLoadingText/
+22:57:46 Updating base class ->RscListBox, by a3\ui_f\config.bin/RscIGUIListBox/
+22:57:46 Updating base class ->RscListNBox, by a3\ui_f\config.bin/RscIGUIListNBox/
+22:57:46 Updating base class ->RscText, by a3\ui_f\config.bin/RscBackground/
+22:57:46 Updating base class ->RscText, by a3\ui_f\config.bin/RscBackgroundGUI/
+22:57:46 Updating base class ->RscPicture, by a3\ui_f\config.bin/RscBackgroundGUILeft/
+22:57:46 Updating base class ->RscPicture, by a3\ui_f\config.bin/RscBackgroundGUIRight/
+22:57:46 Updating base class ->RscPicture, by a3\ui_f\config.bin/RscBackgroundGUIBottom/
+22:57:46 Updating base class ->RscText, by a3\ui_f\config.bin/RscBackgroundGUITop/
+22:57:46 Updating base class ->RscText, by a3\ui_f\config.bin/RscBackgroundGUIDark/
+22:57:46 Updating base class ->RscPictureKeepAspect, by a3\ui_f\config.bin/RscBackgroundLogo/
+22:57:46 Updating base class ->RscMapControl, by a3\ui_f\config.bin/RscMapControlEmpty/
+22:57:46 Updating base class ->RscPicture, by a3\ui_f\config.bin/CA_Mainback/
+22:57:46 Updating base class ->CA_Mainback, by a3\ui_f\config.bin/CA_Back/
+22:57:46 Updating base class ->CA_Mainback, by a3\ui_f\config.bin/CA_Title_Back/
+22:57:46 Updating base class ->CA_Mainback, by a3\ui_f\config.bin/CA_Black_Back/
+22:57:46 Updating base class ->RscTitle, by a3\ui_f\config.bin/CA_Title/
+22:57:46 Updating base class ->RscPictureKeepAspect, by a3\ui_f\config.bin/CA_Logo/
+22:57:46 Updating base class ->CA_Logo, by a3\ui_f\config.bin/CA_Logo_Small/
+22:57:46 Updating base class ->RscButton, by a3\ui_f\config.bin/CA_RscButton/
+22:57:46 Updating base class ->CA_RscButton, by a3\ui_f\config.bin/CA_RscButton_dialog/
+22:57:46 Updating base class ->RscActiveText, by a3\ui_f\config.bin/CA_Ok/
+22:57:46 Updating base class ->RscText, by a3\ui_f\config.bin/CA_Ok_image/
+22:57:46 Updating base class ->RscText, by a3\ui_f\config.bin/CA_Ok_image2/
+22:57:46 Updating base class ->RscText, by a3\ui_f\config.bin/CA_Ok_text/
+22:57:46 Updating base class ->RscPicture, by a3\ui_f\config.bin/RscVignette/
+22:57:46 Updating base class ->RscControlsGroupNoScrollbars, by a3\ui_f\config.bin/RscMapControlTooltip/
+22:57:46 Updating base class RscUnitInfo->RscUnitInfoAirNoWeapon, by a3\ui_f\config.bin/RscInGameUI/RscUnitInfoAir/
+22:57:46 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayDebug/Controls/B_OK/
+22:57:46 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayDebug/Controls/B_Cancel/
+22:57:46 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayDebug/Controls/B_Clear/
+22:57:46 Updating base class ->RscText, by a3\ui_f\config.bin/RscDisplayCapture/controls/TimeLines/
+22:57:46 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayCapture/controls/ButtonAverages/
+22:57:46 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayCapture/controls/ButtonSavePreviousData/
+22:57:46 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayCapture/controls/ButtonPreviousData/
+22:57:46 Updating base class RscControlsGroup->RscControlsGroupNoHScrollbars, by a3\ui_f\config.bin/RscDisplayMain/controls/ModIcons/
+22:57:46 Updating base class RscPicture->RscPictureKeepAspect, by a3\ui_f\config.bin/RscDisplayMain/IconPicture/
+22:57:46 Updating base class IconPicture->RscPictureKeepAspect, by a3\ui_f\config.bin/RscDisplayMain/DlcOwnedIconPicture/
+22:57:46 Updating base class IconPicture->RscPictureKeepAspect, by a3\ui_f\config.bin/RscDisplayMain/DlcIconPicture/
+22:57:46 Updating base class RscListBox->RscCombo, by a3\ui_f\config.bin/RscDisplayCustomizeController/Steepness/
+22:57:46 Updating base class ->RscStandardDisplay, by a3\ui_f\config.bin/RscDisplayControlSchemes/
+22:57:46 Updating base class ButtonOK->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayControlSchemes/controls/ButtonCancel/
+22:57:46 Updating base class RscButton->RscButtonMenuOK, by a3\ui_f\config.bin/RscDisplayControlSchemes/controls/ButtonOK/
+22:57:46 Updating base class RscPicture->RscPictureKeepAspect, by a3\ui_f\config.bin/RscDisplayFileSelectImage/controls/OverviewPicture/
+22:57:46 Updating base class RscShortcutButton->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayFieldManual/controls/ButtonCancel/
+22:57:46 Cannot delete class B_KickOff, it is referenced somewhere (used as a base class probably).
+22:57:46 Updating base class RscButton->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayPublishMission/controls/ButtonCancel/
+22:57:46 Updating base class RscShortcutButton->RscButtonMenuOK, by a3\ui_f\config.bin/RscDisplayPublishMissionSelectTags/controls/ButtonOK/
+22:57:46 Updating base class ButtonOK->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayPublishMissionSelectTags/controls/ButtonCancel/
+22:57:46 Updating base class ->RscSubmenu, by a3\ui_f\config.bin/RscMainMenu/
+22:57:46 Cannot update non class from class a3\ui_f\config.bin/RscCallSupport/Items/
+22:57:46 Cannot update non class from class a3\ui_f\config.bin/RscRadio/Items/
+22:57:46 Updating base class RscStandardDisplay->, by a3\ui_f_mp_mark\config.bin/RscDisplayRespawn/
+22:57:46 Updating base class ->VehicleMagazine, by a3\weapons_f\config.bin/CfgMagazines/24Rnd_missiles/
+22:57:46 Updating base class ->RocketPods, by a3\weapons_f\config.bin/cfgWeapons/missiles_DAR/
+22:57:46 Updating base class Missile_AGM_02_Plane_CAS_01_F->MissileLauncher, by rhsafrf\addons\rhs_sounds\config.bin/CfgWeapons/rhs_weap_Ch29_Launcher/
+22:57:46 Updating base class rhs_weap_902a->Mode_Burst, by rhsafrf\addons\rhs_sounds\config.bin/CfgWeapons/rhs_weap_902b/Double/
+22:57:46 Updating base class ->SlotInfo, by a3\weapons_f_mark\config.bin/UnderBarrelSlot/
+22:57:46 Updating base class ->asdg_SlotInfo, by asdg_jointrails\config.bin/asdg_OpticRail/
+22:57:46 Updating base class UnderBarrelSlot->asdg_UnderSlot, by asdg_jointrails\longrangerifles\dmr_01\config.bin/CfgWeapons/srifle_DMR_01_F/WeaponSlotsInfo/UnderBarrelSlot/
+22:57:46 Updating base class UnderBarrelSlot->asdg_UnderSlot, by asdg_jointrails\longrangerifles\ebr\config.bin/CfgWeapons/srifle_EBR_F/WeaponSlotsInfo/UnderBarrelSlot/
+22:57:46 Updating base class CowsSlot->asdg_OpticRail1913, by asdg_jointrails\longrangerifles\gm6\config.bin/CfgWeapons/srifle_GM6_F/WeaponSlotsInfo/CowsSlot/
+22:57:46 Updating base class CowsSlot->asdg_OpticRail1913, by asdg_jointrails\longrangerifles\m320\config.bin/CfgWeapons/srifle_LRR_F/WeaponSlotsInfo/CowsSlot/
+22:57:46 Updating base class CowsSlot->asdg_OpticRail1913_short, by asdg_jointrails\machineguns\m200\config.bin/CfgWeapons/LMG_Mk200_F/WeaponSlotsInfo/CowsSlot/
+22:57:46 Updating base class PointerSlot->asdg_FrontSideRail, by asdg_jointrails\machineguns\m200\config.bin/CfgWeapons/LMG_Mk200_F/WeaponSlotsInfo/PointerSlot/
+22:57:46 Updating base class UnderBarrelSlot->asdg_UnderSlot, by asdg_jointrails\machineguns\m200\config.bin/CfgWeapons/LMG_Mk200_F/WeaponSlotsInfo/UnderBarrelSlot/
+22:57:46 Updating base class CowsSlot->asdg_OpticRail1913_short, by asdg_jointrails\machineguns\zafir\config.bin/CfgWeapons/LMG_Zafir_F/WeaponSlotsInfo/CowsSlot/
+22:57:46 Updating base class PointerSlot->asdg_FrontSideRail, by asdg_jointrails\machineguns\zafir\config.bin/CfgWeapons/LMG_Zafir_F/WeaponSlotsInfo/PointerSlot/
+22:57:46 Updating base class CowsSlot->asdg_OpticRail1913, by asdg_jointrails\rifles\mx\config.bin/CfgWeapons/arifle_MXC_F/WeaponSlotsInfo/CowsSlot/
+22:57:46 Updating base class PointerSlot->asdg_FrontSideRail, by asdg_jointrails\rifles\mx\config.bin/CfgWeapons/arifle_MXC_F/WeaponSlotsInfo/PointerSlot/
+22:57:46 Updating base class MuzzleSlot->asdg_MuzzleSlot_556, by asdg_jointrails\rifles\trg20\config.bin/CfgWeapons/arifle_TRG20_F/WeaponSlotsInfo/MuzzleSlot/
+22:57:46 Updating base class CutSceneAnimationBaseAbuse->CutSceneAnimationBase, by exile_client\config.bin/CfgMovesMaleSdr/States/Acts_Abuse_abuser/
+22:57:46 Updating base class CutSceneAnimationBaseAbuse->CutSceneAnimationBase, by exile_client\config.bin/CfgMovesMaleSdr/States/Acts_Abuse_abusing/
+22:57:46 Updating base class CutSceneAnimationBaseAbuse->CutSceneAnimationBase, by exile_client\config.bin/CfgMovesMaleSdr/States/Acts_Abuse_Akhanteros/
+22:57:46 Updating base class CutSceneAnimationBaseAbuse->CutSceneAnimationBase, by exile_client\config.bin/CfgMovesMaleSdr/States/Acts_Abuse_Lacey/
+22:57:46 Updating base class Acts_AidlPsitMstpSsurWnonDnon01->Acts_AidlPsitMstpSsurWnonDnon_loop, by exile_client\config.bin/CfgMovesMaleSdr/States/Acts_AidlPsitMstpSsurWnonDnon02/
+22:57:46 Updating base class Acts_AidlPsitMstpSsurWnonDnon01->Acts_AidlPsitMstpSsurWnonDnon_loop, by exile_client\config.bin/CfgMovesMaleSdr/States/Acts_AidlPsitMstpSsurWnonDnon03/
+22:57:46 Updating base class Acts_AidlPsitMstpSsurWnonDnon01->Acts_AidlPsitMstpSsurWnonDnon_loop, by exile_client\config.bin/CfgMovesMaleSdr/States/Acts_AidlPsitMstpSsurWnonDnon04/
+22:57:46 Updating base class Acts_AidlPsitMstpSsurWnonDnon01->Acts_AidlPsitMstpSsurWnonDnon_loop, by exile_client\config.bin/CfgMovesMaleSdr/States/Acts_AidlPsitMstpSsurWnonDnon05/
+22:57:46 Updating base class Acts_AidlPercMstpSlowWrflDnon_warmup01->Acts_AidlPercMstpSlowWrflDnon_warmup_loop, by exile_client\config.bin/CfgMovesMaleSdr/States/Acts_AidlPercMstpSlowWrflDnon_warmup02/
+22:57:46 Updating base class Acts_AidlPercMstpSlowWrflDnon_warmup01->Acts_AidlPercMstpSlowWrflDnon_warmup_loop, by exile_client\config.bin/CfgMovesMaleSdr/States/Acts_AidlPercMstpSlowWrflDnon_warmup03/
+22:57:46 Updating base class Acts_AidlPercMstpSlowWrflDnon_warmup01->Acts_AidlPercMstpSlowWrflDnon_warmup_loop, by exile_client\config.bin/CfgMovesMaleSdr/States/Acts_AidlPercMstpSlowWrflDnon_warmup04/
+22:57:46 Updating base class Acts_AidlPercMstpSlowWrflDnon_warmup01->Acts_AidlPercMstpSlowWrflDnon_warmup_loop, by exile_client\config.bin/CfgMovesMaleSdr/States/Acts_AidlPercMstpSlowWrflDnon_warmup05/
+22:57:46 Updating base class HitPoints->, by exile_client\config.bin/CfgVehicles/CAManBase/HitPoints/
+22:57:46 Updating base class RscStandardDisplay->, by exile_client\config.bin/RscDisplayMain/
+22:57:46 Updating base class RscPicture->RscText, by exile_client\config.bin/RscDisplayVoiceChat/controls/Picture/
+22:57:47 Updating base class ->asdg_OpticRail1913_long, by rhsusf\addons\rhsusf_c_weapons\config.bin/rhs_western_rifle_scopes_slot_long/
+22:57:47 Updating base class rhs_rpg26_mag->rhs_dummy_mag, by rhsusf\addons\rhsusf_c_weapons\config.bin/CfgMagazines/rhs_launcher_dummy_mag/
+22:57:47 Updating base class FullAuto->Mode_FullAuto, by rhsusf\addons\rhsusf_sounds\config.bin/CfgWeapons/rhs_weap_lmg_minimipara/FullAuto/
+22:57:47 Updating base class ->rhsusf_assault_eagleaiii_ucp, by rhsusf\addons\rhsusf_c_troops\config.bin/CfgVehicles/rhsusf_assault_eagleaiii_ocp/
+22:57:47 Updating base class ->SoundsExt, by rhsusf\addons\rhsusf_c_a2port_air\config.bin/CfgVehicles/Heli_Transport_01_base_F/SoundsExt/
+22:57:47 Updating base class ->Turrets, by rhsusf\addons\rhsusf_c_fmtv\config.bin/CfgVehicles/Truck_01_base_F/Turrets/
+22:57:47 Texture header "a3\missions_f_mp_mark\data\marksmen_scenario01_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f_kart\data\timetrials\onground_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f_kart\data\timetrials\sl_carry_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f_kart\data\timetrials\quit_igui_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f_kart\data\timetrials\sl_load_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f_kart\data\timetrials\sl_unload_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_lean_left1_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_noshoot_target3_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_penetrate4_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_prone2_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_target_right3_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_target_target3_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_bonusa3_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_bonusc2_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_bonusd5_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_bonush3_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_kneel2_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_rifle1_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_stand4_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_vault3_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\mp_coop_m04_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\showcase_combined_arms_briefing_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_crawl3_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_crouch1_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_lean_left2_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_lean_right1_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_noshoot_target4_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_penetrate5_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_target_right4_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_target_target4_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\iconmptypedefense_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\showcase_commanding_i_briefing_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\sp_fd03_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_bonusa4_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_bonusc3_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_bonush4_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_kneel3_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_prone3_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_rifle2_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_sidearm1_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_stand5_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_target_noshoot1_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_vault4_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_watch_out1_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\showcase_night_briefing_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\whiteboards\whiteboard_sp_fd01_co.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_crawl4_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_crouch2_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_lean_left3_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_lean_right2_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_move_left1_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_noshoot_target5_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_target_right5_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_target_target5_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_bonusa5_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_bonusc4_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_bonush5_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_kneel4_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_move_right1_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_prone4_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_rifle3_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_sidearm2_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_target_noshoot2_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_vault5_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_watch_out2_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\whiteboards\whiteboard_sp_fd02_co.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_bonusb1_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_crawl5_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_crouch3_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_lean_left4_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_lean_right3_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\showcase_combined_arms_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_bonusc5_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_kneel5_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_move_left2_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_move_right2_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_prone5_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_rifle4_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_sidearm3_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_target_noshoot3_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\sp_fd04_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_bonusb2_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_bonusd1_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_crouch4_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_lean_left5_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_lean_right4_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_penetrate1_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_watch_out3_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\showcase_commanding_i_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\showcase_supports_briefing_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\sp_fd01_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\whiteboards\whiteboard_sp_fd03_co.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_move_left3_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_move_right3_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_sidearm4_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_target_noshoot4_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\showcase_night_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_bonusb3_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_bonusd2_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_crouch5_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_lean_right5_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_penetrate2_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_rifle5_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_stand1_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_target_target1_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_watch_out4_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\whiteboards\whiteboard_sp_fd04_co.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_move_left4_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_move_right4_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_noshoot_target1_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_sidearm5_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_target_noshoot5_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_target_right1_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\portraitmptypedefense_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_bonusa1_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_bonusb4_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_bonusd3_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_bonush1_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_crawl1_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_penetrate3_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_stand2_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_target_target2_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_vault1_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_watch_out5_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\firingdrills_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\challenges_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_move_left5_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_move_right5_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_noshoot_target2_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_prone1_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_target_right2_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\showcase_supports_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\sp_fd02_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\campaign_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_bonusa2_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_bonusb5_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_bonusc1_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_bonusd4_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_bonush2_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_crawl2_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_kneel1_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_stand3_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_beta\data\img\decals\decal_vault2_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_bootcamp\data\img\boot_m03_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_bootcamp\data\img\laptop\electronics_screens_laptop_simulationterminated1_co.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_bootcamp\data\img\mp_zgm_m13_guer_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_bootcamp\data\img\bootcamp_mp_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_bootcamp\data\img\laptop\electronics_screens_laptop_simulationterminated2_co.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_bootcamp\data\img\laptop\electronics_screens_laptop_targetdeactivated_co.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_bootcamp\data\img\laptop\electronics_screens_laptop_targeterror_co.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_bootcamp\data\img\signs\board_go.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_bootcamp\data\img\signs\board_grenadesfiringrange.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_bootcamp\data\img\mp_zgm_m13_west_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_bootcamp\data\img\boot_m04_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_bootcamp\data\img\icons\targetposition.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_bootcamp\data\img\laptop\electronics_screens_laptop_targetactivated_co.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_bootcamp\data\img\signs\board_karts.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_bootcamp\data\img\boot_m01_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_bootcamp\data\img\signs\board_vehiclesobstaclecourse.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_bootcamp\data\img\bootcamp_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_bootcamp\data\img\boot_m05_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_bootcamp\data\img\mp_zgm_m13_east_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_bootcamp\data\img\mp_zgm_m13_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_bootcamp\data\img\signs\board_infantryobstaclecourse.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_bootcamp\data\img\signs\board_weaponsfiringrange.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_bootcamp\data\img\signs\board_wrongway.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_bootcamp\data\img\boot_m02_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_bootcamp\data\img\boot_vr_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_bootcamp\data\img\signs\board_vehiclesfiringrange.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_bootcamp\data\img\whiteboards\scoreboard.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epa\data\img\orbat\b_aegis_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epa\data\img\whiteboards\whiteboard_briefing_a_m02_co.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epa\data\img\whiteboards\whiteboard_briefing_a_out_co.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epa\data\img\a_m03_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epa\data\img\stage_a_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epa\data\img\a_in2_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epa\data\img\a_in_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epa\data\img\whiteboards\whiteboard_briefing_a_m03_co.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epa\data\img\a_hub01_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epa\data\img\whiteboards\whiteboard_a_in_camp_co.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epa\data\img\a_m05_intel_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epa\data\img\whiteboards\whiteboard_briefing_a_m04_co.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epa\data\img\a_skirmish01_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epa\data\img\orbat\b_aegis_texture_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epa\data\img\a_m04_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epa\data\img\orbat\i_aaf_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epa\data\img\stage_b_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epa\data\img\whiteboards\whiteboard_briefing_a_m05_co.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epa\data\img\a_hub02_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epa\data\img\a_m01_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epa\data\img\a_skirmish02_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epa\data\img\orbat\b_nato_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epa\data\img\a_m05_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epa\data\img\stage_c_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epa\data\img\whiteboards\whiteboard_a_in_lz_co.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epa\data\img\a_m02_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epa\data\img\a_out_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epa\data\img\campaign_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epa\data\img\whiteboards\whiteboard_briefing_a_m01_co.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epb\data\img\b_m01_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epb\data\img\b_hub03_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epb\data\img\papermaps\papermap_briefing_b_m03_co.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epb\data\img\b_skirmish02_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epb\data\img\b_m05_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epb\data\img\orbat\fia_marker_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epb\data\img\papermaps\papermap_briefing_b_m05_co.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epb\data\img\b_skirmish03_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epb\data\img\papermaps\papermap_briefing_b_hub01_co.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epb\data\img\b_hub01_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epb\data\img\b_m02_1_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epb\data\img\b_m06_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epb\data\img\b_out2_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epb\data\img\orbat\csat_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epb\data\img\orbat\fia_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epb\data\img\papermaps\papermap_briefing_b_m06_co.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epb\data\img\stage_b_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epb\data\img\b_m03_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epb\data\img\b_m05_orestes_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epb\data\img\b_in2_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epb\data\img\b_hub02_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epb\data\img\b_m02_2_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epb\data\img\papermaps\papermap_briefing_b_m01_co.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epb\data\img\stage_c_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epb\data\img\b_skirmish01_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epb\data\img\b_in_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epb\data\img\campaign_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epb\data\img\papermaps\papermap_briefing_b_m02_co.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epb\data\img\papermaps\papermap_briefing_b_out2_co.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epc\data\img\showcase_fixed_wings_briefing_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epc\data\img\c_eb_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epc\data\img\c_in2_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epc\data\img\c_out2_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epc\data\img\orbat\b_111_bw_texture_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epc\data\img\showcase_fixed_wings_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epc\data\img\c_m01_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epc\data\img\c_m02_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epc\data\img\stage_c_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epc\data\img\whiteboards\mapboard_stratis_c_in1_co.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epc\data\img\c_ea_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epc\data\img\c_in1_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epc\data\img\orbat\b_111_texture_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epc\data\img\c_out1_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epc\data\img\whiteboards\mapboard_altis_c_in1_co.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_epc\data\img\campaign_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\firingdrills_red_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\sp_fd06_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\sp_fd10_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\whiteboards\whiteboard_faction_blufor_autonomous_co.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\faction_independent_water_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\firingdrills_blue_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\mp_coop_m04_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\showcase_arma_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\whiteboards\whiteboard_faction_blufor_weapons_co.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\whiteboards\whiteboard_faction_opfor_air_co.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\whiteboards\whiteboard_sp_fd07_co.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\faction_independent_ground_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\faction_opfor_autonomous_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\faction_opfor_weapons_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\faction_blufor_briefing_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\faction_independent_autonomous_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\faction_independent_weapons_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\faction_opfor_expo_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\mp_coop_m08_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\showcase_drones_briefing_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\showcase_tanks_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\whiteboards\whiteboard_faction_blufor_air_co.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\whiteboards\whiteboard_faction_opfor_weapons_co.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\whiteboards\whiteboard_sp_fd08_co.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\faction_opfor_briefing_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\icon_exit_big_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\mp_coop_m05_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\sp_fd07_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\whiteboards\whiteboard_faction_opfor_ground_co.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\whiteboards\whiteboard_sp_fd09_co.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\faction_independent_air_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\faction_independent_expo_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\portraitmptypeseize_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\whiteboards\whiteboard_faction_independent_water_co.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\whiteboards\whiteboard_faction_independent_weapons_co.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\iconmptypeseize_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\faction_blufor_expo_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\faction_blufor_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\faction_independent_briefing_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\whiteboards\whiteboard_faction_blufor_expo_co.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\whiteboards\whiteboard_faction_blufor_water_co.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\whiteboards\whiteboard_faction_independent_autonomous_co.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\whiteboards\whiteboard_faction_opfor_autonomous_co.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\faction_blufor_ground_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\faction_opfor_ground_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\faction_opfor_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\mp_coop_m06_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\showcase_drones_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\showcase_gunships_briefing_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\sp_fd08_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\faction_blufor_air_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\faction_blufor_autonomous_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\showcase_arma_briefing_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\whiteboards\whiteboard_sp_fd10_co.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\faction_opfor_air_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\faction_opfor_water_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\firingdrills_orange_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\mp_coop_m03_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\showcase_drones_aaa_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\sp_fd05_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\whiteboards\whiteboard_faction_blufor_ground_co.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\whiteboards\whiteboard_faction_independent_air_co.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\whiteboards\whiteboard_faction_independent_ground_co.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\whiteboards\whiteboard_faction_opfor_water_co.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\faction_blufor_water_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\whiteboards\whiteboard_faction_independent_expo_co.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\whiteboards\whiteboard_faction_opfor_expo_co.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\whiteboards\whiteboard_sp_fd05_co.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\showcase_tanks_briefing_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\campaign_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\faction_blufor_weapons_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\faction_independent_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\mp_coop_m07_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\showcase_drones_pegasus_photo_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\showcase_gunships_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\sp_fd09_overview_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\missions_f_gamma\data\img\whiteboards\whiteboard_sp_fd06_co.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f_beta\data\firingdrills\restart_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f_beta\data\firingdrills\training_red_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f_beta\data\firingdrills\checkpoint_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f_beta\data\firingdrills\restart_blue_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f_beta\data\firingdrills\restart_orange_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f_beta\data\firingdrills\timer_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f_beta\data\firingdrills\finish_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f_beta\data\firingdrills\target_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f_beta\data\firingdrills\training_blue_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f_beta\data\firingdrills\restart_red_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f_beta\data\firingdrills\training_orange_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f_beta\data\firingdrills\competitive_red_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f_beta\data\firingdrills\competitive_blue_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f_beta\data\firingdrills\competitive_purple_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f_beta\data\firingdrills\restart_green_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f_beta\data\firingdrills\training_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f_beta\data\firingdrills\training_green_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f_beta\data\firingdrills\medal_none_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f_beta\data\firingdrills\restart_purple_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f_beta\data\firingdrills\special_jay_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f_beta\data\firingdrills\competitive_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f_beta\data\firingdrills\competitive_green_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f_beta\data\firingdrills\competitive_orange_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f_beta\data\firingdrills\medal_silver_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f_beta\data\firingdrills\quit_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f_beta\data\firingdrills\medal_bronze_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f_beta\data\firingdrills\medal_gold_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f_beta\data\firingdrills\training_purple_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f\data\iconhq_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f\data\iconsector_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f\data\icon_marta_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f\data\portraitstrategicmapmission_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f\data\icon_hc_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f\data\icon_hc_sub_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f\data\portraithq_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f\data\portraitmodule_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f\data\portraitsectordummy_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f\data\iconstrategicmapopen_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f\data\portraitrespawn_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f\data\iconsectordummy_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f\data\icon_acm_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f\data\icon_effects_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f\data\icon_functions_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f\data\iconstrategicmapimage_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f\data\iconmodule_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f\data\iconstrategicmapinit_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f\data\portraitstrategicmaporbat_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f\data\iconstrategicmapmission_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f\data\iconunlock_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f\data\portraitsector_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f\data\portraitstrategicmapopen_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f\data\iconrespawn_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f\data\icon_jukebox_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f\data\portraitstrategicmapimage_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f\data\portraitstrategicmapinit_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f\data\iconlock_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 Texture header "a3\modules_f\data\iconstrategicmaporbat_ca.paa" already in the manager and new header is different! Removing header from the manager.
+22:57:47 ragdollHitDmgLimit (0.000000) is lower than minimum (0.010000) and it was set to min.
+22:57:47 Initializing Steam Manager
+22:57:47 Steam Manager initialized.
+22:57:47 
+22:57:47 ==== Loaded addons ====
+22:57:47 
+22:57:47 dta\bin.pbo - unknown
+22:57:47 dta\core.pbo - 84186
+22:57:47 dta\languagecore_f.pbo - 86935
+22:57:47 D:\Servers\ArmA 3 General Server\@Bornholm\addons\bornholm.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@Bornholm\addons\bornholmlayers.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@Bornholm\addons\bornholmobjects.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_baseconfigs.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_basedata.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_aa12.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_ak.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_ammoboxes.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_ammunition.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_as50.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_awm.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_backpacks.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_bizon.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_colt1911.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_compact.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_compatibility.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_curator.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_cz750.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_cz805.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_dmr.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_duty.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_east_attachments.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_evo.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_fnfal.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_g36.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_glock17.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_grenadelaunchers.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_grenades.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_huntingrifle.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_igla.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_items.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_javelin.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_ksvk.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_l110.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_l7a2.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_l85.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_leeenfield.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_m1014.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_m107.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_m110.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_m136.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_m14.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_m16.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_m24.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_m240.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_m249.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_m47.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_m60e4.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_m9.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_maaws.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_makarov.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_metis_at_13.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_microuzi.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_mk48.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_mp5.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_nlaw.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_pb_6p9.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_phantom.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_pk.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_pods.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_put.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_revolver.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_rpg18.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_rpg7.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_sa58.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_sa61.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_saiga12k.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_scar.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_smaw.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_stinger.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_strela_2.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_svd.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_uk59.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_vehicleweapons.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_vss.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_weaponscore.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_weaponsdata.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_west_attachments.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@CUP_Weapons\addons\cup_weapons_xm8.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSUSF\addons\rhsusf_a2port_air.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSUSF\addons\rhsusf_a2port_air2.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSUSF\addons\rhsusf_a2port_armor.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSUSF\addons\rhsusf_a2port_car.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSUSF\addons\rhsusf_cars.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSUSF\addons\rhsusf_c_a2port_air.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSUSF\addons\rhsusf_c_a2port_armor.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSUSF\addons\rhsusf_c_a2port_car.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSUSF\addons\rhsusf_c_fmtv.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSUSF\addons\rhsusf_c_heavyweapons.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSUSF\addons\rhsusf_c_hemtt_a2.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSUSF\addons\rhsusf_c_hmmwv.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSUSF\addons\rhsusf_c_identity.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSUSF\addons\rhsusf_c_m109.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSUSF\addons\rhsusf_c_m113.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSUSF\addons\rhsusf_c_m1a1.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSUSF\addons\rhsusf_c_m1a2.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSUSF\addons\rhsusf_c_radio.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSUSF\addons\rhsusf_c_rg33.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSUSF\addons\rhsusf_c_statics.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSUSF\addons\rhsusf_c_troops.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSUSF\addons\rhsusf_c_uav.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSUSF\addons\rhsusf_c_weapons.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSUSF\addons\rhsusf_decals.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSUSF\addons\rhsusf_fmtv.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSUSF\addons\rhsusf_heavyweapons.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSUSF\addons\rhsusf_hemtt_a2.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSUSF\addons\rhsusf_hmmwv.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSUSF\addons\rhsusf_infantry.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSUSF\addons\rhsusf_m109.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSUSF\addons\rhsusf_m113.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSUSF\addons\rhsusf_m1a1.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSUSF\addons\rhsusf_m1a2.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSUSF\addons\rhsusf_main.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSUSF\addons\rhsusf_marks_fix.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSUSF\addons\rhsusf_optics.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSUSF\addons\rhsusf_radio.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSUSF\addons\rhsusf_rg33.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSUSF\addons\rhsusf_sounds.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSUSF\addons\rhsusf_s_radio.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSUSF\addons\rhsusf_uav.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSUSF\addons\rhsusf_weapons.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSUSF\addons\rhsusf_weapons2.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_2s3.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_a2port_air.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_a2port_armor.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_a2port_car.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_a3retex.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_aps.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_bmd.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_bmd_34.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_bmp.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_bmp3.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_btr70.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_btr80.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_c_2s3.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_c_a2port_air.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_c_a2port_armor.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_c_a2port_car.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_c_a3retex.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_c_bmd.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_c_bmp.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_c_bmp3.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_c_btr.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_c_cars.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_c_cti_indep.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_c_heavyweapons.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_c_identity.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_c_pts.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_c_radars.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_c_radio.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_c_rva.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_c_sprut.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_c_t72.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_c_tanks.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_c_troops.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_c_trucks.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_c_weapons.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_decals.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_gaz66.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_heavyweapons.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_identity.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_infantry.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_infantry2.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_main.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_missions.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_optics.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_pts.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_radars.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_sounds.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_sprut.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_ss21.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_s_radio.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_t72.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_t80.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_t80u.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_tigr.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_vehiclesounds.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_weapons.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@RHSAFRF\addons\rhs_weapons2.pbo - RedHammerStudios
+22:57:47 D:\Servers\ArmA 3 General Server\@ASDG_JR\addons\asdg_jointrails.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@Exile\addons\dbo_old_bike.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@Exile\addons\exile_client.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@Exile\addons\gnt_c185.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\mark\addons\anims_f_mark.ebo - 83739
+22:57:47 D:\Servers\ArmA 3 General Server\mark\addons\characters_f_mark.ebo - 85641
+22:57:47 D:\Servers\ArmA 3 General Server\mark\addons\data_f_mark.ebo - 84958
+22:57:47 D:\Servers\ArmA 3 General Server\mark\addons\dubbing_f_mark.ebo - 81923
+22:57:47 D:\Servers\ArmA 3 General Server\mark\addons\dubbing_f_mp_mark.ebo - 81923
+22:57:47 D:\Servers\ArmA 3 General Server\mark\addons\functions_f_mark.ebo - 87002
+22:57:47 D:\Servers\ArmA 3 General Server\mark\addons\functions_f_mp_mark.ebo - 87002
+22:57:47 D:\Servers\ArmA 3 General Server\mark\addons\languagemissions_f_mark.ebo - 72782
+22:57:47 D:\Servers\ArmA 3 General Server\mark\addons\languagemissions_f_mp_mark.ebo - 86295
+22:57:47 D:\Servers\ArmA 3 General Server\mark\addons\language_f_mark.ebo - 86295
+22:57:47 D:\Servers\ArmA 3 General Server\mark\addons\language_f_mp_mark.ebo - 85177
+22:57:47 D:\Servers\ArmA 3 General Server\mark\addons\missions_f_mark.ebo - 86807
+22:57:47 D:\Servers\ArmA 3 General Server\mark\addons\missions_f_mark_data.ebo - 83115
+22:57:47 D:\Servers\ArmA 3 General Server\mark\addons\missions_f_mark_video.ebo - 81429
+22:57:47 D:\Servers\ArmA 3 General Server\mark\addons\missions_f_mp_mark.ebo - 86837
+22:57:47 D:\Servers\ArmA 3 General Server\mark\addons\missions_f_mp_mark_data.ebo - 81558
+22:57:47 D:\Servers\ArmA 3 General Server\mark\addons\modules_f_mark.ebo - 81710
+22:57:47 D:\Servers\ArmA 3 General Server\mark\addons\modules_f_mp_mark.ebo - 87140
+22:57:47 D:\Servers\ArmA 3 General Server\mark\addons\music_f_mark.ebo - 81958
+22:57:47 D:\Servers\ArmA 3 General Server\mark\addons\music_f_mark_music.ebo - 81930
+22:57:47 D:\Servers\ArmA 3 General Server\mark\addons\sounds_f_mark.ebo - 83408
+22:57:47 D:\Servers\ArmA 3 General Server\mark\addons\static_f_mark.ebo - 84104
+22:57:47 D:\Servers\ArmA 3 General Server\mark\addons\structures_f_mark.ebo - 85075
+22:57:47 D:\Servers\ArmA 3 General Server\mark\addons\supplies_f_mark.ebo - 79552
+22:57:47 D:\Servers\ArmA 3 General Server\mark\addons\ui_f_mark.ebo - 84397
+22:57:47 D:\Servers\ArmA 3 General Server\mark\addons\ui_f_mp_mark.ebo - 86988
+22:57:47 D:\Servers\ArmA 3 General Server\mark\addons\weapons_f_mark.ebo - 86999
+22:57:47 D:\Servers\ArmA 3 General Server\heli\addons\air_f_heli.pbo - 86967
+22:57:47 D:\Servers\ArmA 3 General Server\heli\addons\anims_f_heli.pbo - 80475
+22:57:47 D:\Servers\ArmA 3 General Server\heli\addons\boat_f_heli.pbo - 82564
+22:57:47 D:\Servers\ArmA 3 General Server\heli\addons\cargoposes_f_heli.pbo - 84953
+22:57:47 D:\Servers\ArmA 3 General Server\heli\addons\data_f_heli.pbo - 80757
+22:57:47 D:\Servers\ArmA 3 General Server\heli\addons\dubbing_f_heli.pbo - 75138
+22:57:47 D:\Servers\ArmA 3 General Server\heli\addons\functions_f_heli.pbo - 84398
+22:57:47 D:\Servers\ArmA 3 General Server\heli\addons\languagemissions_f_heli.pbo - 86295
+22:57:47 D:\Servers\ArmA 3 General Server\heli\addons\language_f_heli.pbo - 86295
+22:57:47 D:\Servers\ArmA 3 General Server\heli\addons\missions_f_heli.pbo - 86336
+22:57:47 D:\Servers\ArmA 3 General Server\heli\addons\missions_f_heli_data.pbo - 75977
+22:57:47 D:\Servers\ArmA 3 General Server\heli\addons\missions_f_heli_video.pbo - 75065
+22:57:47 D:\Servers\ArmA 3 General Server\heli\addons\modules_f_heli.pbo - 84211
+22:57:47 D:\Servers\ArmA 3 General Server\heli\addons\music_f_heli.pbo - 76012
+22:57:47 D:\Servers\ArmA 3 General Server\heli\addons\music_f_heli_music.pbo - 76012
+22:57:47 D:\Servers\ArmA 3 General Server\heli\addons\soft_f_heli.pbo - 82564
+22:57:47 D:\Servers\ArmA 3 General Server\heli\addons\sounds_f_heli.pbo - 79398
+22:57:47 D:\Servers\ArmA 3 General Server\heli\addons\structures_f_heli.pbo - 85075
+22:57:47 D:\Servers\ArmA 3 General Server\heli\addons\supplies_f_heli.pbo - 84559
+22:57:47 D:\Servers\ArmA 3 General Server\heli\addons\ui_f_heli.pbo - 76986
+22:57:47 D:\Servers\ArmA 3 General Server\kart\addons\anims_f_kart.pbo - 80475
+22:57:47 D:\Servers\ArmA 3 General Server\kart\addons\characters_f_kart.pbo - 85651
+22:57:47 D:\Servers\ArmA 3 General Server\kart\addons\data_f_kart.pbo - 84958
+22:57:47 D:\Servers\ArmA 3 General Server\kart\addons\languagemissions_f_kart.pbo - 86295
+22:57:47 D:\Servers\ArmA 3 General Server\kart\addons\language_f_kart.pbo - 86295
+22:57:47 D:\Servers\ArmA 3 General Server\kart\addons\missions_f_kart.pbo - 86327
+22:57:47 D:\Servers\ArmA 3 General Server\kart\addons\missions_f_kart_data.pbo - 75687
+22:57:47 D:\Servers\ArmA 3 General Server\kart\addons\modules_f_kart.pbo - 86933
+22:57:47 D:\Servers\ArmA 3 General Server\kart\addons\modules_f_kart_data.pbo - 74588
+22:57:47 D:\Servers\ArmA 3 General Server\kart\addons\soft_f_kart.pbo - 85476
+22:57:47 D:\Servers\ArmA 3 General Server\kart\addons\sounds_f_kart.pbo - 79398
+22:57:47 D:\Servers\ArmA 3 General Server\kart\addons\structures_f_kart.pbo - 85075
+22:57:47 D:\Servers\ArmA 3 General Server\kart\addons\ui_f_kart.pbo - 73106
+22:57:47 D:\Servers\ArmA 3 General Server\kart\addons\weapons_f_kart.pbo - 83573
+22:57:47 D:\Servers\ArmA 3 General Server\curator\addons\data_f_curator.pbo - 84958
+22:57:47 D:\Servers\ArmA 3 General Server\curator\addons\functions_f_curator.pbo - 86837
+22:57:47 D:\Servers\ArmA 3 General Server\curator\addons\language_f_curator.pbo - 86295
+22:57:47 D:\Servers\ArmA 3 General Server\curator\addons\missions_f_curator.pbo - 86674
+22:57:47 D:\Servers\ArmA 3 General Server\curator\addons\modules_f_curator.pbo - 87002
+22:57:47 D:\Servers\ArmA 3 General Server\curator\addons\ui_f_curator.pbo - 87002
+22:57:47 D:\Servers\ArmA 3 General Server\@ZEU\addons\zeu_markerlogging.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@marma\addons\marmadebug.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@infiSTAR_Exile\addons\a3_infistar_exile.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@ExileServer\addons\a3_dms.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@ExileServer\addons\exile_server.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@ExileServer\addons\exile_server_config.pbo - unknown
+22:57:47 D:\Servers\ArmA 3 General Server\@ExileServer\addons\helicrash.pbo - unknown
+22:57:47 addons\a3.pbo - unknown
+22:57:47 addons\air_f.pbo - 86838
+22:57:47 addons\air_f_beta.pbo - 86965
+22:57:47 addons\air_f_epb.pbo - 86810
+22:57:47 addons\air_f_epc.pbo - 87002
+22:57:47 addons\air_f_gamma.pbo - 86988
+22:57:47 addons\air_f_rtd.pbo - 76933
+22:57:47 addons\animals_f.pbo - 86114
+22:57:47 addons\animals_f_beta.pbo - 86442
+22:57:47 addons\anims_f.pbo - 86793
+22:57:47 addons\anims_f_bootcamp.pbo - 72362
+22:57:47 addons\anims_f_data.pbo - 85891
+22:57:47 addons\anims_f_epa.pbo - 78608
+22:57:47 addons\anims_f_epc.pbo - 72362
+22:57:47 addons\armor_f.pbo - 82564
+22:57:47 addons\armor_f_beta.pbo - 86856
+22:57:47 addons\armor_f_epb.pbo - 86110
+22:57:47 addons\armor_f_epc.pbo - 86840
+22:57:47 addons\armor_f_gamma.pbo - 86121
+22:57:47 addons\baseconfig_f.pbo - 73106
+22:57:47 addons\boat_f.pbo - 86857
+22:57:47 addons\boat_f_beta.pbo - 83805
+22:57:47 addons\boat_f_epc.pbo - 82564
+22:57:47 addons\boat_f_gamma.pbo - 85687
+22:57:47 addons\cargoposes_f.pbo - 86243
+22:57:47 addons\characters_f.pbo - 86837
+22:57:47 addons\characters_f_beta.pbo - 86837
+22:57:47 addons\characters_f_bootcamp.pbo - 86933
+22:57:47 addons\characters_f_epa.pbo - 83523
+22:57:47 addons\characters_f_epb.pbo - 85686
+22:57:47 addons\characters_f_epc.pbo - 84064
+22:57:47 addons\characters_f_gamma.pbo - 85675
+22:57:47 addons\data_f.pbo - 86909
+22:57:47 addons\data_f_bootcamp.pbo - 76960
+22:57:47 addons\data_f_exp_b.pbo - 86189
+22:57:47 addons\drones_f.pbo - 86861
+22:57:47 addons\dubbing_f.pbo - 73106
+22:57:47 addons\dubbing_f_beta.pbo - 73106
+22:57:47 addons\dubbing_f_bootcamp.pbo - 73106
+22:57:47 addons\dubbing_f_epa.pbo - 73106
+22:57:47 addons\dubbing_f_epb.pbo - 76110
+22:57:47 addons\dubbing_f_epc.pbo - 87001
+22:57:47 addons\dubbing_f_gamma.pbo - 73106
+22:57:47 addons\dubbing_radio_f.pbo - 86797
+22:57:47 addons\dubbing_radio_f_data.pbo - 78762
+22:57:47 addons\editor_f.pbo - 82563
+22:57:47 addons\functions_f.pbo - 87002
+22:57:47 addons\functions_f_bootcamp.pbo - 86767
+22:57:47 addons\functions_f_epa.pbo - 84402
+22:57:47 addons\functions_f_epc.pbo - 84400
+22:57:47 addons\languagemissions_f.pbo - 86295
+22:57:47 addons\languagemissions_f_beta.pbo - 46919
+22:57:47 addons\languagemissions_f_bootcamp.pbo - 65850
+22:57:47 addons\languagemissions_f_epa.pbo - 86933
+22:57:47 addons\languagemissions_f_epb.pbo - 86841
+22:57:47 addons\languagemissions_f_epc.pbo - 51076
+22:57:47 addons\languagemissions_f_gamma.pbo - 46919
+22:57:47 addons\language_f.pbo - 86295
+22:57:47 addons\language_f_beta.pbo - 86792
+22:57:47 addons\language_f_bootcamp.pbo - 86648
+22:57:47 addons\language_f_epa.pbo - 86295
+22:57:47 addons\language_f_epb.pbo - 86651
+22:57:47 addons\language_f_epc.pbo - 86295
+22:57:47 addons\language_f_gamma.pbo - 86295
+22:57:47 addons\map_altis.pbo - 85518
+22:57:47 addons\map_altis_data.pbo - 80737
+22:57:47 addons\map_altis_data_layers.pbo - 79087
+22:57:47 addons\map_altis_data_layers_00_00.pbo - 79087
+22:57:47 addons\map_altis_data_layers_00_01.pbo - 79087
+22:57:47 addons\map_altis_data_layers_01_00.pbo - 79087
+22:57:47 addons\map_altis_data_layers_01_01.pbo - 79087
+22:57:47 addons\map_altis_scenes_f.pbo - 73106
+22:57:47 addons\map_data.pbo - 81846
+22:57:47 addons\map_stratis.pbo - 85518
+22:57:47 addons\map_stratis_data.pbo - 80737
+22:57:47 addons\map_stratis_data_layers.pbo - 79082
+22:57:47 addons\map_stratis_scenes_f.pbo - 73106
+22:57:47 addons\map_vr.pbo - 82252
+22:57:47 addons\map_vr_scenes_f.pbo - 82252
+22:57:47 addons\misc_f.pbo - 85025
+22:57:47 addons\missions_f.pbo - 86453
+22:57:47 addons\missions_f_beta.pbo - 86721
+22:57:47 addons\missions_f_beta_data.pbo - 85005
+22:57:47 addons\missions_f_beta_video.pbo - 73106
+22:57:47 addons\missions_f_bootcamp.pbo - 86895
+22:57:47 addons\missions_f_bootcamp_data.pbo - 72362
+22:57:47 addons\missions_f_bootcamp_video.pbo - 75065
+22:57:47 addons\missions_f_data.pbo - 73106
+22:57:47 addons\missions_f_epa.pbo - 87085
+22:57:47 addons\missions_f_epa_data.pbo - 73106
+22:57:47 addons\missions_f_epa_video.pbo - 73106
+22:57:47 addons\missions_f_epb.pbo - 86791
+22:57:47 addons\missions_f_epb_data.pbo - 73106
+22:57:47 addons\missions_f_epb_video.pbo - 73106
+22:57:47 addons\missions_f_epc.pbo - 87002
+22:57:47 addons\missions_f_epc_data.pbo - 84724
+22:57:47 addons\missions_f_epc_video.pbo - 84725
+22:57:47 addons\missions_f_gamma.pbo - 86941
+22:57:47 addons\missions_f_gamma_data.pbo - 86243
+22:57:47 addons\missions_f_gamma_video.pbo - 73106
+22:57:47 addons\missions_f_video.pbo - 73106
+22:57:47 addons\modules_f.pbo - 86933
+22:57:47 addons\modules_f_beta.pbo - 86933
+22:57:47 addons\modules_f_beta_data.pbo - 80976
+22:57:47 addons\modules_f_bootcamp.pbo - 79398
+22:57:47 addons\modules_f_data.pbo - 85167
+22:57:47 addons\modules_f_epb.pbo - 79398
+22:57:47 addons\music_f.pbo - 73106
+22:57:47 addons\music_f_bootcamp.pbo - 73106
+22:57:47 addons\music_f_bootcamp_music.pbo - 73106
+22:57:47 addons\music_f_epa.pbo - 73106
+22:57:47 addons\music_f_epa_music.pbo - 73106
+22:57:47 addons\music_f_epb.pbo - 73106
+22:57:47 addons\music_f_epb_music.pbo - 73106
+22:57:47 addons\music_f_epc.pbo - 84723
+22:57:47 addons\music_f_epc_music.pbo - 73106
+22:57:47 addons\music_f_music.pbo - 73106
+22:57:47 addons\plants_f.pbo - 85827
+22:57:47 addons\roads_f.pbo - 82537
+22:57:47 addons\rocks_f.pbo - 84519
+22:57:47 addons\signs_f.pbo - 82967
+22:57:47 addons\soft_f.pbo - 86906
+22:57:47 addons\soft_f_beta.pbo - 85752
+22:57:47 addons\soft_f_bootcamp.pbo - 85752
+22:57:47 addons\soft_f_epc.pbo - 86934
+22:57:47 addons\soft_f_gamma.pbo - 87002
+22:57:47 addons\sounds_f.pbo - 87079
+22:57:47 addons\sounds_f_bootcamp.pbo - 82576
+22:57:47 addons\sounds_f_epb.pbo - 79398
+22:57:47 addons\sounds_f_epc.pbo - 86933
+22:57:47 addons\sounds_f_vehicles.pbo - 85560
+22:57:47 addons\sounds_f_weapons.pbo - 84865
+22:57:47 addons\static_f.pbo - 85125
+22:57:47 addons\static_f_beta.pbo - 79398
+22:57:47 addons\static_f_gamma.pbo - 82090
+22:57:47 addons\structures_f.pbo - 86067
+22:57:47 addons\structures_f_bootcamp.pbo - 85075
+22:57:47 addons\structures_f_data.pbo - 85075
+22:57:47 addons\structures_f_epa.pbo - 85075
+22:57:47 addons\structures_f_epb.pbo - 85075
+22:57:47 addons\structures_f_epc.pbo - 85252
+22:57:47 addons\structures_f_households.pbo - 86882
+22:57:47 addons\structures_f_ind.pbo - 85517
+22:57:47 addons\structures_f_mil.pbo - 85518
+22:57:47 addons\structures_f_wrecks.pbo - 85075
+22:57:47 addons\uifonts_f.pbo - 73106
+22:57:47 addons\uifonts_f_data.pbo - 73106
+22:57:47 addons\ui_f.pbo - 87002
+22:57:47 addons\ui_f_bootcamp.pbo - 76325
+22:57:47 addons\ui_f_data.pbo - 86284
+22:57:47 addons\weapons_f.pbo - 87081
+22:57:47 addons\weapons_f_beta.pbo - 86067
+22:57:47 addons\weapons_f_bootcamp.pbo - 86841
+22:57:47 addons\weapons_f_epa.pbo - 83667
+22:57:47 addons\weapons_f_epb.pbo - 80958
+22:57:47 addons\weapons_f_epc.pbo - 80374
+22:57:47 addons\weapons_f_gamma.pbo - 83947
+22:57:47 
+22:57:47 =======================
+22:57:47 
+22:57:47 Global namespace not passed during: false
+22:57:47 Global namespace not passed during: false
+22:57:47 Error in expression <false>
+22:57:47   Error position: <false>
+22:57:47   Error Local variable in global space
+22:57:47 Global namespace not passed during: false
+22:57:47 Global namespace not passed during: false
+22:57:47 Error in expression <false>
+22:57:47   Error position: <false>
+22:57:47   Error Local variable in global space
+22:57:47 Global namespace not passed during: false
+22:57:47 Global namespace not passed during: false
+22:57:47 Error in expression <false>
+22:57:47   Error position: <false>
+22:57:47   Error Local variable in global space
+22:57:47 Global namespace not passed during: false
+22:57:47 Global namespace not passed during: false
+22:57:47 Error in expression <false>
+22:57:47   Error position: <false>
+22:57:47   Error Local variable in global space
+22:57:47 ============================================================================================= List of mods ===============================================================================================
+22:57:47 modsReadOnly = true
+22:57:47 safeModsActivated = false
+22:57:47 customMods = true
+22:57:47 hash = '0960BACBCBC4FB40E90ACB4854D65B577E6A1A96'
+22:57:47 hashShort = 'cfe6947'
+22:57:47                                               name |               modDir |    default |               origin |                                     hash | hashShort | fullPath
+22:57:47 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+22:57:47                                  Bornholm, Denmark |            @Bornholm |      false |             GAME DIR | c6b67271f9db3407e61ec52c2142453ef53ae3c9 |  3a724fae | D:\Servers\ArmA 3 General Server\@Bornholm
+22:57:47                             CUP Weapons Pack 1.2.1 |         @CUP_Weapons |      false |             GAME DIR | 538f185386384d284e4a4170cff3fe9b85b9f9d3 |  7809fcd4 | D:\Servers\ArmA 3 General Server\@CUP_Weapons
+22:57:47                          RHS: United States Forces |              @RHSUSF |      false |             GAME DIR | 15f900825844d4c2035a58faa60023fd88e3ad6b |  5ee1aab9 | D:\Servers\ArmA 3 General Server\@RHSUSF
+22:57:47        RHS: Armed Forces of the Russian Federation |             @RHSAFRF |      false |             GAME DIR | d29a831efec2bd3a285de7b0168f6454074a667e |  5c5468da | D:\Servers\ArmA 3 General Server\@RHSAFRF
+22:57:47                                           @ASDG_JR |             @ASDG_JR |      false |             GAME DIR | b5af2bb81646a1a5e978dee93cadf4cb5e20b5f9 |  12ea1b47 | D:\Servers\ArmA 3 General Server\@ASDG_JR
+22:57:47                                          Exile Mod |               @Exile |      false |             GAME DIR | 750e766ed22d89d018ea7f1bef43c34619f1559e |  b4857d0a | D:\Servers\ArmA 3 General Server\@Exile
+22:57:47                                  Arma 3 DLC Bundle |            dlcbundle |       true |            NOT FOUND |                                          |           | 
+22:57:47                                    Arma 3 Marksmen |                 mark |       true |             GAME DIR | 72dafe7fb444b4ca8438eb4a18bb963f04451f1c |  d80931de | D:\Servers\ArmA 3 General Server\mark
+22:57:47                                 Arma 3 Helicopters |                 heli |       true |             GAME DIR | d501ad2cecf1acdf8df830a3c4c82c549508a1f0 |  54e1c164 | D:\Servers\ArmA 3 General Server\heli
+22:57:47                                       Arma 3 Karts |                 kart |       true |             GAME DIR | ff5d4beff64aa06e5291ee726dba99122de0c9be |    3d3c6d | D:\Servers\ArmA 3 General Server\kart
+22:57:47                                        Arma 3 Zeus |              curator |       true |             GAME DIR | 13fd3ee42f34a3437b91fcb413b4f9469c6e9781 |  6dbbef82 | D:\Servers\ArmA 3 General Server\curator
+22:57:47                                             Arma 3 |                   A3 |       true |            NOT FOUND |                                          |           | 
+22:57:47                                               @ZEU |                 @ZEU |      false |             GAME DIR | da39a3ee5e6b4b0d3255bfef95601890afd80709 |  11fdd19c | D:\Servers\ArmA 3 General Server\@ZEU
+22:57:47                                             @marma |               @marma |      false |             GAME DIR | da39a3ee5e6b4b0d3255bfef95601890afd80709 |  11fdd19c | D:\Servers\ArmA 3 General Server\@marma
+22:57:47                                    @infiSTAR_Exile |      @infiSTAR_Exile |      false |             GAME DIR | da39a3ee5e6b4b0d3255bfef95601890afd80709 |  11fdd19c | D:\Servers\ArmA 3 General Server\@infiSTAR_Exile
+22:57:47                                       @ExileServer |         @ExileServer |      false |             GAME DIR | da39a3ee5e6b4b0d3255bfef95601890afd80709 |  11fdd19c | D:\Servers\ArmA 3 General Server\@ExileServer
+22:57:47 ==========================================================================================================================================================================================================
+22:57:47 Clutter names value count different in bin\config.bin/CfgSurfaceCharacters/BOWoodsClutter/ (13!=12)
+22:57:47 InitSound ...
+22:57:47 InitSound - complete
+22:57:47 PhysX3 SDK Init started ...
+22:57:47 PhysX3 SDK Init ended.
+22:57:48 Attempt to override final function - rscminimap_script
+22:57:48 Attempt to override final function - rscdisplayloading_script
+22:57:48 Attempt to override final function - rscdisplayloading_script
+22:57:48 Attempt to override final function - rscdisplayloading_script
+22:57:48 Attempt to override final function - rscdiary_script
+22:57:48 Attempt to override final function - rscdisplaysinglemission_script
+22:57:48 Attempt to override final function - rscdiary_script
+22:57:48 Attempt to override final function - rscdisplayremotemissions_script
+22:57:48 Attempt to override final function - rscdisplayloading_script
+22:57:48 Attempt to override final function - rscdiary_script
+22:57:48 Attempt to override final function - rscdiary_script
+22:57:48 Attempt to override final function - rscdisplaystrategicmap_script
+22:57:48 Attempt to override final function - rscdisplaycommon_script
+22:57:48 Attempt to override final function - rscdisplayloading_script
+22:57:49 Attempt to override final function - rscdisplaycurator_script
+22:57:49 Attempt to override final function - rscdisplayattributes_script
+22:57:49 Attempt to override final function - rscdisplayattributes_script
+22:57:49 Attempt to override final function - rscdisplayattributes_script
+22:57:49 Attempt to override final function - rscdisplaycommon_script
+22:57:49 Attempt to override final function - rscdisplaydebriefing_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:49 Attempt to override final function - rscunitinfo_script
+22:57:50 Warning Message: Error: creating weapon rhs_weap_M107 with scope=private
+22:57:50 Global namespace not passed during: false
+22:57:50 Global namespace not passed during: false
+22:57:50 Error in expression <false>
+22:57:50   Error position: <false>
+22:57:50   Error Local variable in global space
+22:57:50 Global namespace not passed during: false
+22:57:50 Global namespace not passed during: false
+22:57:50 Error in expression <false>
+22:57:50   Error position: <false>
+22:57:50   Error Local variable in global space
+22:57:50 Global namespace not passed during: false
+22:57:50 Global namespace not passed during: false
+22:57:50 Error in expression <false>
+22:57:50   Error position: <false>
+22:57:50   Error Local variable in global space
+22:57:50 Global namespace not passed during: false
+22:57:50 Global namespace not passed during: false
+22:57:50 Error in expression <false>
+22:57:50   Error position: <false>
+22:57:50   Error Local variable in global space
+22:57:50 VoteThreshold must be in 0..1 range. Defaulting to 0.5
+22:57:50 Initializing Steam server - Game Port: 2340, Steam Query Port: 2341
+22:57:50 File mpmissions\__cur_mp.Bornholm\config.cpp, line 1309: '/CfgExileArsenal/CUP_srifle_AS50.price': Missing ';' prior '}'
+22:57:51 Mission Exile.Bornholm: Number of roles (100) is different from 'description.ext::Header::maxPlayer' (50)
+22:57:51 Starting mission:
+22:57:51  Mission file: Exile (__cur_mp)
+22:57:51  Mission world: Bornholm
+22:57:51  Mission directory: mpmissions\__cur_mp.Bornholm\
+22:57:51 File mpmissions\__cur_mp.Bornholm\config.cpp, line 1309: '/CfgExileArsenal/CUP_srifle_AS50.price': Missing ';' prior '}'
+22:57:51 File mpmissions\__cur_mp.Bornholm\config.cpp, line 1309: '/CfgExileArsenal/CUP_srifle_AS50.price': Missing ';' prior '}'
+22:58:00 No more slot to add connection at 034969 (3428.7,19461.1)
+22:58:00 No more slot to add connection at 069814 (6932.5,3983.0)
+22:58:00 No more slot to add connection at 115922 (11533.8,14814.2)
+22:58:00 No more slot to add connection at 119876 (11998.7,10219.4)
+22:58:00 No more slot to add connection at 167801 (16711.9,2652.0)
+22:58:01 Bad simulation shipX, type Land_BuoyBig_F (class=vehicle), a3\structures_f\naval\buoys\buoybig_f.p3d
+22:58:01 Bad simulation shipX, type Land_BuoyBig_F (class=vehicle), a3\structures_f\naval\buoys\buoybig_f.p3d
+22:58:01 Bad simulation shipX, type Land_BuoyBig_F (class=vehicle), a3\structures_f\naval\buoys\buoybig_f.p3d
+22:58:01 Bad simulation shipX, type Land_BuoyBig_F (class=vehicle), a3\structures_f\naval\buoys\buoybig_f.p3d
+22:58:02 Cannot create object with abstract type Land_bo_A_TVTower_Top (scope = private?)
+22:58:02 Cannot create object with abstract type Land_bo_A_TVTower_Mid (scope = private?)
+22:58:02 Bad simulation fire, type Land_Campfire_F (class=house), a3\structures_f\civ\camping\campfire_f.p3d
+22:58:02 a3\structures_f\training\target_f.p3d: vehicle, config class missing
+22:58:02 a3\structures_f\training\target_f.p3d: vehicle, config class missing
+22:58:02 a3\structures_f\training\target_f.p3d: vehicle, config class missing
+22:58:02 a3\structures_f\training\target_f.p3d: vehicle, config class missing
+22:58:02 a3\structures_f\training\target_f.p3d: vehicle, config class missing
+22:58:02 Bad simulation fire, type Land_FirePlace_F (class=house), a3\structures_f\civ\camping\fireplace_f.p3d
+22:58:02 Bad simulation shipX, type Land_BuoyBig_F (class=vehicle), a3\structures_f\naval\buoys\buoybig_f.p3d
+22:58:03 Attempt to override final function - bis_functions_list
+22:58:03 Attempt to override final function - bis_functions_listpreinit
+22:58:03 Attempt to override final function - bis_functions_listpostinit
+22:58:03 Attempt to override final function - bis_functions_listrecompile
+22:58:03 "Exile/BIS_fnc_log: [BIS_fnc_preload] ----- Initializing scripts in Exile -----"
+22:58:03 "Exile/BIS_fnc_log: [recompile] recompile BIS_fnc_missionTasksLocal"
+22:58:03 Attempt to override final function - bis_fnc_missiontaskslocal
+22:58:03 "Exile/BIS_fnc_log: [recompile] recompile BIS_fnc_missionConversationsLocal"
+22:58:03 Attempt to override final function - bis_fnc_missionconversationslocal
+22:58:03 "Exile/BIS_fnc_log: [recompile] recompile BIS_fnc_missionFlow"
+22:58:03 Attempt to override final function - bis_fnc_missionflow
+22:58:03 "Exile/BIS_fnc_log: [recompile] recompile RHS_fnc_findAngle"
+22:58:03 Attempt to override final function - rhs_fnc_findangle
+22:58:03 "Exile/BIS_fnc_log: [recompile] recompile RHS_fnc_calcBalistic"
+22:58:03 Attempt to override final function - rhs_fnc_calcbalistic
+22:58:03 "Exile/BIS_fnc_log: [preInit] BIS_fnc_diagKey (0 ms)"
+22:58:03 "Exile/BIS_fnc_log: [preInit] BIS_fnc_feedbackMain (0 ms)"
+22:58:03 "Exile/BIS_fnc_log: [preInit] BIS_fnc_missionHandlers (0 ms)"
+22:58:03 "<infiSTAR.de> 0 - run.sqf - including AdminTools"
+22:58:03 "<infiSTAR.de> 0 - run.sqf - AdminTools included!"
+22:58:03 "<infiSTAR.de> 0 - run.sqf - including AntiHack"
+22:58:03 "<infiSTAR.de> VERSION: 18102015 infiSTAR.de AHAT (v0015D)"
+22:58:03 "<infiSTAR.de> 0 - STARTING"
+22:58:03 "<infiSTAR.de> _fnc_RandomGen: {
+_fnc_actualGen = {
+_abc = ['z','y','x','w','v','u','t','s','r','q','p','o','n','m','l','k','j','i','h','g','f','e','d','c','b','a'];
+_gen = _abc select (random ((count _abc)-1));
+_arr = ['w','Z','R','Z','M','E','a','l','y','J','D','U','S','l','k','m','Z','r','z','c','z','z','r','U','G','l','u','K','d','E'];
+_arrL = count _arr;_arrL = _arrL - 1;
+_randmax = {((round(random _randminval)) + (round(random _randmaxval))) max _randminval};
+for '_i' from 0 to (call _randmax)do
+{
+_gen = _gen + str(ceil(random 9)) + (_arr select (floor(random _arrL)));
+};
+};
+_gen = '';
+while{_gen=='' || _gen in _allRandomGenVars}do{
+call _fnc_actualGen;
+};
+_allRandomGenVars pushBack _gen;
+_gen
+}"
+22:58:03 Unable to get file version size: .\ARMA_LOG.dll
+22:58:03 "<infiSTAR.de>RandomVarLog| ----START-LINE----   (18102015-(v0015D)) (v0015D)"
+22:58:03 "<infiSTAR.de>RandomVarLog| _FNC_AH_KICKLOG: f6z7l6Z2E2l3z8u8M2U2M7G4M1r4u2K3y7E6G (v0015D)"
+22:58:03 "<infiSTAR.de>RandomVarLog| _FNC_AH_KICKLOGSPAWN: n8z9z1r6r5r5d9S6z (v0015D)"
+22:58:03 "<infiSTAR.de>RandomVarLog| _BigTokenArray: j2d5Z3U7G8c3U3Z4k9K8D2l3Z (v0015D)"
+22:58:03 "<infiSTAR.de>RandomVarLog| _replaceOnCD: o7w6Z2l1l9E3R3r6k5r9J4z5z8z8Z3S8R5k7U8R (v0015D)"
+22:58:03 "<infiSTAR.de>RandomVarLog| _onPlayerConnected: y1a9w4Z7r3l7c1k1D (v0015D)"
+22:58:03 "<infiSTAR.de>RandomVarLog| _server_setTokenR: r6K9R6a1r6Z8S7c2K (v0015D)"
+22:58:03 "<infiSTAR.de>RandomVarLog| _fnc_pvc_token: b4z6r4Z8U5r7k4Z3U2r9Z3c5R7U7Z2u7D (v0015D)"
+22:58:03 "<infiSTAR.de>RandomVarLog| _server_checkTokenR: z6r3U9z6J1w1w5z4l4J4d3G4l (v0015D)"
+22:58:03 "<infiSTAR.de>RandomVarLog| _TokenCT: k4k9d5u5R4J9U3l6K7w2m3y4w1r9r9D5z1l6l5z8m (v0015D)"
+22:58:03 "<infiSTAR.de>RandomVarLog| _adminStartupCode: m2S2k4S3d3K1l2m7w5r6M6M5S1Z7Z1z8M8l1l (v0015D)"
+22:58:03 "<infiSTAR.de>RandomVarLog| _AH_MAIN_BLOCK: b4S9k5J6y1R6z8U6r6z1z7D3Z9U6y2k6r7y5z (v0015D)"
+22:58:03 "<infiSTAR.de>RandomVarLog| _AHKickOFF: x3U1U6Z7l2m1U2w1l7U4u (v0015D)"
+22:58:03 "<infiSTAR.de>RandomVarLog| _AHKickLog: s1r4u9y3m7D4z2k6z4z5m4Z6Z1m1z2K1R3E5z9u8E (v0015D)"
+22:58:03 "<infiSTAR.de>RandomVarLog| _AH_RunCheckENDVAR: x6Z8z2l7r8l9u2z8M4r5z (v0015D)"
+22:58:03 "<infiSTAR.de>RandomVarLog| _AH_RunCheck: x3Z9r3Z5Z2m8k4r1d2r8z2l7R (v0015D)"
+22:58:03 "<infiSTAR.de>RandomVarLog| _AH_HackLogArrayRND: r4l1K4d5J4a4M5w3w7z3K7D7U5z9M4l2c6K3d6r5d5w (v0015D)"
+22:58:03 "<infiSTAR.de>RandomVarLog| _AH_SurvLogArrayRND: y9r9w5y4Z3G4E6K7G2m (v0015D)"
+22:58:03 "<infiSTAR.de>RandomVarLog| _AH_AdmiLogArrayRND: n9D7z9r5y4u6Z6d3w8l3R3z3U6d3a7z9M7u (v0015D)"
+22:58:03 "<infiSTAR.de>RandomVarLog| _TMPBAN: q6c3z5E7M5r8u8w8U5U8y9D4l5z (v0015D)"
+22:58:03 "<infiSTAR.de>RandomVarLog| _AHpos: i7k8R1z5a6w6l1a5E1m8a6l5r7U4k6G2S9S3u8l2J3M (v0015D)"
+22:58:03 "<infiSTAR.de>RandomVarLog| _adminsA: b7z5d3U1J9G8z6K4U5y3d7z (v0015D)"
+22:58:03 "<infiSTAR.de>RandomVarLog| _MCS: k4y7z8w2D9G2d2d3G9z6u3E (v0015D)"
+22:58:03 "<infiSTAR.de>RandomVarLog| _vartc: c1z4l4d4r8K3D5U8S7K6M5k7l3m7y9m9E9U4D4r2a9Z5D1w (v0015D)"
+22:58:03 "<infiSTAR.de>RandomVarLog| _LogicVariable: z3E4Z4Z4l3E6U8z8Z7k1E8k6c8z2S2k2m (v0015D)"
+22:58:03 "<infiSTAR.de>RandomVarLog| _vehicle_needs_check: t8G4l6U3S7z2Z8K7R (v0015D)"
+22:58:03 "<infiSTAR.de>RandomVarLog| _t1: s8S9z7z7E5D5U3U8Z8E6G5a6J1G5G7r5m9U1Z6G9m5S8z (v0015D)"
+22:58:03 "<infiSTAR.de>RandomVarLog| _t2: j7c8Z1Z6Z9Z1z7G6U6y6S9d6l4l2k4a9z4Z (v0015D)"
+22:58:03 "<infiSTAR.de>RandomVarLog| _t3: m2J3w5Z1Z9y6K9z4y5a4a6J9w8M5G5D5m (v0015D)"
+22:58:03 "<infiSTAR.de>RandomVarLog| _t4: q3c6c7K2Z9U6l8c9U8z8J4r6r1Z6r (v0015D)"
+22:58:03 "<infiSTAR.de>RandomVarLog| _t5: i3r3G9D6l1m9m9Z3Z4U3z6l1Z3Z6d7r1M8d8l3c (v0015D)"
+22:58:03 "<infiSTAR.de>RandomVarLog| _t6: s8J3y2l6u8U4c3y3a4k2l7m (v0015D)"
+22:58:03 "<infiSTAR.de>RandomVarLog| _AH_KICKLOG: PVAHR_4z2s0i6s6r0s (v0015D)"
+22:58:03 "<infiSTAR.de>RandomVarLog| ----END-LINE----   (18102015-(v0015D)) (v0015D)"
+22:58:03 "<infiSTAR.de> 0 - loading AntiHack.."
+22:58:03 "<infiSTAR.de> 0 - Thread BEFORE MAIN: compiling now!"
+22:58:03 "<infiSTAR.de> 0 - Thread BEFORE MAIN: still compiling..."
+22:58:03 "<infiSTAR.de> 0 - Thread BEFORE MAIN: compiled !"
+22:58:03 "<infiSTAR.de> 0 - Thread MAIN: starting!"
+22:58:03 "<infiSTAR.de> 0 - Thread MAIN: loading...!"
+22:58:03 "<infiSTAR.de> 0 - Thread MAIN: compiling and/or sending none-threaded code!"
+22:58:03 "<infiSTAR.de> 0 - Thread MAIN: none-threaded code compiled and/or sent!"
+22:58:03 "<infiSTAR.de> 0 - AntiHack loaded!"
+22:58:03 "<infiSTAR.de> 0 - run.sqf - AntiHack included!"
+22:58:03 "Exile/BIS_fnc_log: [preInit] a3_infiSTAR_Exile_fnc_preInit (66.9994 ms)"
+22:58:04 "mARMA Updater: No Update Needed"
+22:58:04 "mARMA Debug: Arma3"
+22:58:04 "mARMA Debug: Addon Version: 0.2"
+22:58:04 "mARMA Debug: Extension Version: 37"
+22:58:04 "Exile/BIS_fnc_log: [preInit] MAR_fnc_init (1070 ms)"
+22:58:04 Ref to nonnetwork object L Alpha 1-2:<No leader>
+22:58:04 Client: Nonnetwork object 49552400.
+22:58:04 "Exile/BIS_fnc_log: [preInit] ZEU_fnc_MarkerloggingInit (5.00107 ms)"
+22:58:04 "Exile/BIS_fnc_log: [preInit] BIS_fnc_getServerVariable (0 ms)"
+22:58:04 "Exile/BIS_fnc_log: [preInit] RHS_fnc_init (0 ms)"
+22:58:04 "Exile/BIS_fnc_log: [preInit] ExileClient_fnc_preInit (80.9994 ms)"
+22:58:04 "ExileServer - Server is loading..."
+22:58:04 "ExileServer - ServerPassword MATCH! server locked for init"
+22:58:04 Client: Nonnetwork object 4893a500.
+22:58:04 "ExileServer - Installed extDB2 version: 65"
+22:58:04 "ExileServer - Connected to database!"
+22:58:04 "ExileServer - Database protocol initialized!"
+22:58:04 "Exile/BIS_fnc_log: [preInit] ExileServer_fnc_preInit (55.0003 ms)"
+22:58:04 "Exile/BIS_fnc_log: [preInit] DMS_fnc_DMS_preInit (2.00081 ms)"
+22:58:05 Connected to Steam servers
+22:58:05 "Exile/BIS_fnc_log: [script] initServer.sqf"
+22:58:05 "Exile/BIS_fnc_log: [postInit] BIS_fnc_missionFlow (0 ms)"
+22:58:05 "Exile/BIS_fnc_log: [postInit] BIS_fnc_initParams (0 ms)"
+22:58:05 "Exile/BIS_fnc_log: [postInit] BIS_fnc_initRespawn (0 ms)"
+22:58:05 "Exile/BIS_fnc_log: [postInit] BIS_fnc_sharedObjectives (0 ms)"
+22:58:05 "Exile/BIS_fnc_log: [postInit] BIS_fnc_3dMarkers (0 ms)"
+22:58:05 "Loading Heli Crashes"
+22:58:05 NetServer::finishDestroyPlayer(1959429357): DESTROY immediately after CREATE, both cancelled
+22:58:05 NetServer::finishDestroyPlayer(1105049591): DESTROY immediately after CREATE, both cancelled
+22:58:05 NetServer::finishDestroyPlayer(417370820): DESTROY immediately after CREATE, both cancelled
+22:58:05 NetServer::finishDestroyPlayer(85823152): DESTROY immediately after CREATE, both cancelled
+22:58:05 NetServer::finishDestroyPlayer(108579441): DESTROY immediately after CREATE, both cancelled
+22:58:05 NetServer::finishDestroyPlayer(196868669): DESTROY immediately after CREATE, both cancelled
+22:58:05 NetServer::finishDestroyPlayer(1693976586): DESTROY immediately after CREATE, both cancelled
+22:58:05 NetServer::finishDestroyPlayer(1312818191): DESTROY immediately after CREATE, both cancelled
+22:58:05 NetServer::finishDestroyPlayer(741939042): DESTROY immediately after CREATE, both cancelled
+22:58:05 NetServer::finishDestroyPlayer(1370528163): DESTROY immediately after CREATE, both cancelled
+22:58:05 NetServer::finishDestroyPlayer(881867192): DESTROY immediately after CREATE, both cancelled
+22:58:05 NetServer::finishDestroyPlayer(202222870): DESTROY immediately after CREATE, both cancelled
+22:58:06 c:\w\stable\futura\lib\network\networkserver.cpp ClearNetServer:NOT IMPLEMENTED - briefing!
+22:58:07 Extensions:
+22:58:07   ARMA_LOG (.\ARMA_LOG.dll) [] []
+
+22:58:07   marma-debug (D:\Servers\ArmA 3 General Server\@marma\marma-debug.dll) [0.0.0.37] [0.0.0.37]
+
+22:58:07   marma-updater (D:\Servers\ArmA 3 General Server\@marma\marma-updater.dll) [0.0.0.5] [0.0.0.5]
+
+22:58:07   extDB2 (D:\Servers\ArmA 3 General Server\@ExileServer\extDB2.dll) [65.0.0.0] [65.0.0.0]
+

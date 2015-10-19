@@ -1388,7 +1388,9 @@ class CfgExileArsenal
     class CUP_optic_PSO_3						    { quality = 1; price = 260; };
     class CUP_optic_Kobra						    { quality = 1; price = 150; };
 	class CUP_optic_SMAW_Scope						{ quality = 1; price = 300; };
- 
+	class CUP_optic_AN_PVS_10						{ quality = 1; price = 1100;};
+	class CUP_optic_AN_PVS_4						{ quality = 1; price = 800; };
+	class CUP_optic_MAAWS_Scope						{ quality = 1; price = 200; };
  
     ///////////////////////////////////////////////////////////////////////////////////
     /// RHS Optic attachmens
@@ -1441,6 +1443,8 @@ class CfgExileArsenal
     class CUP_SMAW_HEAA_M							    { quality = 1; price = 900;  };
     class rhs_weap_igla								    { quality = 1; price = 2500; };
     class rhs_mag_9k38_rocket						    { quality = 1; price = 1000; };
+	class CUP_launch_MAAWS								{ quality = 1; price = 2000; };
+	class CUP_MAAWS_HEAT_M								{ quality = 1; price = 500;  };
  
     ///////////////////////////////////////////////////////////////////////////////
     // UAVS
@@ -1911,7 +1915,11 @@ class CfgExileArsenal
 class CfgExileCustomCode 
 {
 	ExileServer_system_rcon_thread_check = "restart\ExileServer_system_rcon_thread_check.sqf";//restart module
-
+	ExileServer_object_vehicle_database_load = "overwrites\exile_server\code\ExileServer_object_vehicle_database_load.sqf"; //unlocks Vehciles in safe zones
+	ExileClient_gui_wasteDumpDialog_show = "fixes\ExileClient_gui_wasteDumpDialog_show.sqf";       //this one fix selling tanks
+    ExileClient_gui_traderDialog_updateInventoryDropdown = "fixes\ExileClient_gui_traderDialog_updateInventoryDropdown.sqf"; //selling items form tank
+	ExileClient_object_player_event_onEnterSafezone = "fixes\ExileClient_object_player_event_onEnterSafezone.sqf"; //taru pods igiload script
+	ExileClient_system_trading_network_purchaseVehicleResponse = "addons\ExileClient_system_trading_network_purchaseVehicleResponse.sqf"; //purchase taru pods
 };
 class CfgExileMusic
 {
@@ -1967,7 +1975,7 @@ class CfgTerritories
 	// Defines the period in days where protection money needs to be payed.
 	// Every time you pay the protection money, the "due date" will be
 	// pro-longed by that period too.
-	protectionPeriod = 21; 
+	protectionPeriod = 10; 
 
 	// Amount of pop tabs or respect per object to pay
 	popTabAmountPerObject = 10;
@@ -2354,6 +2362,8 @@ class PointerAttachments
             "optic_LRPS",
             "optic_MRCO",
             "optic_MRD",
+			"CUP_optic_AN_PVS_10",						
+			"CUP_optic_AN_PVS_4",
             //"optic_Nightstalker",
             "optic_NVS",
             "optic_SOS",
@@ -2382,7 +2392,9 @@ class PointerAttachments
             "rhs_acc_pkas",
             "rhs_acc_pso1m2",
 			"CUP_optic_SMAW_Scope",
-			"rhs_acc_tgpv"
+			"rhs_acc_tgpv",
+			"CUP_optic_MAAWS_Scope"
+			
         };
     };
 
@@ -2682,6 +2694,9 @@ class PointerAttachments
             "CUP_SMAW_HEAA_M",
             "rhs_weap_igla",
             "rhs_mag_9k38_rocket",
+			"CUP_launch_MAAWS",
+			"CUP_optic_MAAWS_Scope",
+			"CUP_MAAWS_HEAT_M",
 			"APERSBoundingMine_Range_Mag",
 			"APERSMine_Range_Mag",
 			"APERSTripMine_Wire_Mag",

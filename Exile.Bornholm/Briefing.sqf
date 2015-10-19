@@ -111,6 +111,8 @@ player createDiarySubject ["infos3", "More Info"];
                                 
                                 <br/>* There are very aggressive AI characters that spawn with most missions and will protect the mission objectives with deadly force, be aware of them.
 								
+								<br/>* For Missles and Rockets. Purchase straight into Vehicles. DO NOT try and purchase to Self. YOU WILL LOSE YOUR MONEY!!!!!
+								
 								<br/>* Pay attention to the Admin team and the announcements.  If you lose property because you didn't pay attention you can only blame yourself!
                                 "
     ]
