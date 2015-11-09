@@ -4,7 +4,7 @@ if (!hasInterface) exitWith {};
 waitUntil {!isNil "ExileClientLoadedIn"};
  // Waits for Exile to finish up
 
-player createDiarySubject ["rules", "Server Rules"];
+player createDiarySubject ["Rules", "Server Rules"];
 player createDiarySubject ["ts3", "Website"];
 player createDiarySubject ["officers", "Server Admins"];
 player createDiarySubject ["infos", "Useful Info"];
@@ -18,38 +18,63 @@ player createDiarySubject ["infos3", "More Info"];
                                 <br/>Falcon911
                                 <br/>Moore
                                 <br/>Cannon
-                                <br/>Lewis
                                 <br/>Ford
                                 <br/>KingHeavy
                                 <br/>Sage
 								<br/>Optima
-								<br/>Lewis
-                                <br/>
+								<br/>7=Temp
+								<br/>
                                 "
             ]
 
 ];
 
-    player createDiaryRecord ["rules",
+    player createDiaryRecord ["Rules",
             [
                 "Server Rules",
-                                "
-                                <br/>**All of the following rules are punishable offences.**
-                                <br/>
-                                <br/>No Building AT ALL within 500m of all Military Outposts</p>
-                                <br/>No Crying in Chat, No Racism, No Harrassment</p>
-                                <br/>No Building within 1000 Meters of ANY Traders</p>
-                                <br/>No Trolling,Stealing Directly From Players, or Griefing in SafeZones</p>
-                                <br/>Vehicles Left in SafeZones Spawn Unlocked and are Free to Take</p>
-                                <br/>No Camping or Shooting into SafeZones</p>
-                                <br/>No Base Kamikaze w/ Aircraft or Sling Stealing in Safe Zones</p>
-                                <br/>Report any glitches or greifing on TS or post proof to Forums. Rewards for finding Hackers!!!</p>
-                                <br/>Glitching, Exploiting, and Hacking will get you Banned!</p>
-                                <br/>While compensations are rare, they will be considered on a case-by-case basis.</p>
+                
+				"
+				<br/>No Building AT ALL within 500m of all Military Outposts.</p>
 
-                                "
+				<br/>No trolling.</p>
+
+				<br/>No crying in sidechat.</p>
+
+				<br/>No stealing in safezones.</p>
+
+				<br/>No Building within 1000 meters of ANY safezones.</p>
+ 
+				<br/>No Camping or Shooting within 1000 meters of a safezone.</p>
+
+				<br/>No base kamikaze with aircraft or sling stealing in safezones.</p>
+
+				<br/>Report any glitches or greifing on TS or post proof to Forums. Rewards for finding Hackers!!!!</p>
+
+				<br/>Glitching, exploiting, and hacking will get you Banned!</p>
+
+				<br/>Vehicles left unattended in the safezone will be deleted without notice!</p>
+				"
             ]
+];
+	
+	player createDiaryRecord ["Rules",
+			[
+				"Rules for Compensations",
+				
+				"				
+				<br/>Comps will only happen in case of:</p>
 
+				<br/>Server breakdown.</p>
+
+				<br/>Restarts with no warning.</p>
+
+				<br/>Hacker attacks.</p>
+
+				<br/>Admin mistakes.</p>
+
+				<br/>To be eligeble for comp, you must be able to show some kind of proof, whether it being video or pictures.</p>
+				"
+			]
 ];
 
     player createDiaryRecord ["ts3",

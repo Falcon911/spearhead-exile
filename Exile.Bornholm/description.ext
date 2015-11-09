@@ -2,7 +2,7 @@
 forceRotorLibSimulation = 2;
 
 // https://community.bistudio.com/wiki/Description.ext#disableChannels
-disableChannels[] = {0, 2};
+disableChannels[] = {0,2,6};
 
 author = "Exile Mod Team";
 loadScreen = "exile_client\texture\mod\logo.paa"; 
@@ -16,7 +16,7 @@ class Header
 {
 	gameType = Sandbox;
 	minPlayers = 1;
-	maxPlayers = 50;
+	maxPlayers = 100;
 };
 
 // DO NOT CHANGE THIS! +
@@ -24,7 +24,7 @@ showHUD[] =
 {
     true,   // Scripted HUD (same as showHUD command)
     true,   // Vehicle + soldier info
-    true,   // Vehicle radar 
+    false,   // Vehicle radar 
     true,   // Vehicle compass
     true,   // Tank direction indicator
     true,   // Commanding menu
@@ -37,7 +37,7 @@ class RscTitles
 };
 
 respawn = "BASE";
-respawnDelay = 120;
+respawnDelay = 30;
 respawnDialog = 0;
 respawnOnStart = 0;
 respawnButton = 1; 

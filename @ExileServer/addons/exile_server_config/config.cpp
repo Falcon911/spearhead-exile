@@ -2659,7 +2659,7 @@ class CfgSettings
 		*/
 
 		// This needs to match config.cfg serverCommandPassword
-		serverPassword = "PASSword";
+		serverPassword = "PAssword";
 
 		// Autolocks server until its ready to accept players
 		useAutoLock = 1;

@@ -1,2 +1,2 @@
 //new
-! "" !="I_UAV_AI" !="Exile_Unit_Player" !"NVG_Target" !="Exile_Construction_Safe_Preview" !="Exile_Construction_WoodFloorPort_Preview" !=Exile_Construction_WoodWindow_Preview" 
+7 "" !"NVG_Target" !"Shot" !"Exile_Unit_Player" !"_Preview" !=I_UAV_AI"!=

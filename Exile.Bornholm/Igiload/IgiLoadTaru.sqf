@@ -10,10 +10,10 @@ Rewrite and Epoch adaptation: Slayer
 IL_Taru_DevMod = false;
 
 //above this altitude dropping with parachute
-IL_Taru_Parachute_Altitude = 250;
+IL_Taru_Parachute_Altitude = 70;
 
 //open parachute when altitude is less or equal this parameter
-IL_Taru_Parachute_Open_Altitude = 250;
+IL_Taru_Parachute_Open_Altitude = 60;
 //IL_Taru_Parachute_Altitude must be greater then IL_Taru_Parachute_Open_Altitude
 
 IL_Taru_Disable_Deattaching_Altitude = 3;

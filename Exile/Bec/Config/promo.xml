@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<Scheduler>
+
+
+		
+<job id='0'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>003500</start>
+		<runtime>003500</runtime>
+		<loop>-1</loop>
+		<cmd>say Welcome to the SpearHead Gaming Epoch Server</cmd>
+	</job>
+<job id='1'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>003505</start>
+		<runtime>003505</runtime>
+		<loop>-1</loop>
+		<cmd>say -1 Visit us on our Website: SpearHeadGaming.net</cmd>
+	</job>
+<job id='2'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>003510</start>
+		<runtime>003510</runtime>
+		<loop>-1</loop>
+		<cmd>say -1 Teamspeak:ts.spearheadgaming.net </cmd>
+	</job>
+<job id='3'>
+        <day>1,2,3,4,5,6,7</day>
+        <start>003515</start>
+        <runtime>003515</runtime>
+        <loop>-1</loop>
+        <cmd>say -1 Donate to the server https://goo.gl/oqxUGx</cmd>
+   </job>
+<job id='4'>
+        <day>1,2,3,4,5,6,7</day>
+        <start>003520</start>
+        <runtime>003520</runtime>
+        <loop>-1</loop>
+        <cmd>say -1 Rules are located on the Map. Upper left</cmd>		
+   </job>
+<job id='5'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>003530</start>
+		<runtime>003530</runtime>
+		<loop>-1</loop>
+		<cmd> say -1 Recruiting for Mil-Sim.. See Anyone with a Tag on the Teamspeak. </cmd>
+	</job>
+
+</Scheduler>

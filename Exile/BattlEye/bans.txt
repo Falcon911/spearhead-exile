@@ -143,6 +143,12 @@ af9a49709875b1610af715dfdcbe704c -1 : GH #38 ban w.s.
 e58589fcde68eead9bc8467c5fa17b85 -1 : GH #38 ban w.s. 
 fed121d263b3772f2b10faaacb4ff05a -1 [BCP] Dupping
 e9d4cfbb2a90ab948736eacef773419d -1 [BCP] Spamming and calling admins cunts
+f1160747300be9de500a954c6b21b7fa -1 Stolen Valor
+bffee2a0fca84ed7f5deb97b462ac701 -1 [BCP] not welcone here anymore
+d4d119d898f8dab0e01a3e82ff3baa61 -1 [BCP] NOT WELCOME HERE
+9cdec72afe8c84f89c593ad707dad731 -1 BEC : GameHack #38
+aae6db4a2736b7d19a45cbfd64ca7b6f -1 BEC : GameHack #38
 108.223.102.6 -1 Hacking attenpt Anderson
 77.99.188.131 -1 Feyzi
 85.167.35.251 -1 Rex Hacking
+68.184.8.94 -1 Stolen Valor

@@ -1,9 +1,17 @@
 ///////////////////////////////////////////////////////////////////////////////
 // Static Objects
 ///////////////////////////////////////////////////////////////////////////////
+[] execVM "HC\init.sqf";
 #include "initServer.sqf"
-[] execVM "addons\statusBar\statusbar.sqf"; 
+
 if (!hasInterface || isServer) exitWith {};
+
+if (!isDedicated and hasInterface) then 
+{           
+        call compileFinal preprocessFileLineNumbers "addons\statusBar\statusbar.sqf";
+};
+
+//to fix HC spamming logs
 
 ///////////////////////////////////////////////////////////////////////////
 // Hardware Trader

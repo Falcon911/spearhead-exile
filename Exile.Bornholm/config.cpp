@@ -880,7 +880,92 @@ class CfgExileArsenal
 	class H_HelmetLeaderO_ocamo						{ quality = 3; price = 200; };
 	class H_HelmetLeaderO_oucamo					{ quality = 3; price = 200; };
 
-	 ///////////////////////////////////////////////////////////////////////////////
+        //VESTS
+        class rhs_6sh92                                                             { quality = 2; price = 50; };
+        class rhs_6sh92_radio                                                   { quality = 2; price = 50; };
+        class rhs_6sh92_vog                                                             { quality = 2; price = 50; };
+        class rhs_6sh92_vog_headset                                             { quality = 2; price = 50; };
+        class rhs_6sh92_headset                                                 { quality = 2; price = 50; };
+        class rhs_6sh92_digi                                                    { quality = 2; price = 50; };
+        class rhs_6sh92_digi_radio                                          { quality = 2; price = 50; };
+        class rhs_6sh92_digi_vog                                                { quality = 2; price = 50; };
+        class rhs_6sh92_digi_vog_headset                                { quality = 2; price = 50; };
+        class rhs_6sh92_digi_headset                                    { quality = 2; price = 50; };
+        class rhs_6b23                                                              { quality = 2; price = 50; };
+        class rhs_6b23_crew                                                         { quality = 2; price = 50; };
+        class rhs_6b23_crewofficer                                              { quality = 2; price = 50; };
+        class rhs_6b23_engineer                                         { quality = 2; price = 50; };
+        class rhs_6b23_medic                                                    { quality = 2; price = 50; };
+        class rhs_6b23_rifleman                                                 { quality = 2; price = 50; };
+        class rhs_6b23_sniper                                                   { quality = 2; price = 50; };
+        class rhs_6b23_6sh92                                                    { quality = 2; price = 50; };
+        class rhs_6b23_6sh92_radio                                              { quality = 2; price = 50; };
+        class rhs_6b23_6sh92_vog                                                { quality = 2; price = 50; };
+        class rhs_6b23_6sh92_vog_headset                                { quality = 2; price = 50; };
+        class rhs_6b23_6sh92_headset                                    { quality = 2; price = 50; };
+        class rhs_6b23_6sh92_headset_mapcase                    { quality = 2; price = 50; };
+        class rhs_6b23_digi                                                             { quality = 2; price = 50; };
+        class rhs_6b23_digi_crew                                                { quality = 2; price = 50; };
+        class rhs_6b23_digi_crewofficer                                 { quality = 2; price = 50; };
+        class rhs_6b23_digi_engineer                                    { quality = 2; price = 50; };
+        class rhs_6b23_digi_medic                                           { quality = 2; price = 50; };
+        class rhs_6b23_digi_rifleman                                    { quality = 2; price = 50; };
+        class rhs_6b23_digi_sniper                                              { quality = 2; price = 50; };
+        class rhs_6b23_digi_6sh92                                               { quality = 2; price = 50; };
+        class rhs_6b23_digi_6sh92_radio                                 { quality = 2; price = 50; };
+        class rhs_6b23_digi_6sh92_vog                               { quality = 2; price = 50; };
+        class rhs_6b23_digi_6sh92_vog_headset                   { quality = 2; price = 50; };
+        class rhs_6b23_digi_6sh92_headset                               { quality = 2; price = 50; };
+        class rhs_6b23_digi_6sh92_headset_mapcase               { quality = 2; price = 50; };
+        class rhs_6b23_ML                                                           { quality = 2; price = 50; };
+        class rhs_6b23_ML_crew                                                  { quality = 2; price = 50; };
+        class rhs_6b23_ML_crewofficer                                   { quality = 2; price = 50; };
+        class rhs_6b23_ML_engineer                                              { quality = 2; price = 50; };
+        class rhs_6b23_ML_medic                                                 { quality = 2; price = 50; };
+        class rhs_6b23_ML_rifleman                                          { quality = 2; price = 50; };
+        class rhs_6b23_ML_sniper                                                { quality = 2; price = 50; };
+        class rhs_6b23_ML_6sh92                                                 { quality = 2; price = 50; };
+        class rhs_6b23_ML_6sh92_radio                                   { quality = 2; price = 50; };
+        class rhs_6b23_ML_6sh92_vog                                             { quality = 2; price = 50; };
+        class rhs_6b23_ML_6sh92_vog_headset                             { quality = 2; price = 50; };
+        class rhs_6b23_ML_6sh92_headset                                 { quality = 2; price = 50; };
+        class rhs_6b23_ML_6sh92_headset_mapcase                 { quality = 2; price = 50; };
+        class rhs_6sh46                                                             { quality = 2; price = 50; };
+        class rhs_vest_commander                                                { quality = 2; price = 50; };
+        class rhs_vydra_3m                                                              { quality = 2; price = 50; };
+        class rhsusf_iotv_ucp                                                   { quality = 2; price = 450; };
+        class rhsusf_iotv_ucp_grenadier                                 { quality = 2; price = 450; };
+        class rhsusf_iotv_ucp_medic                                             { quality = 2; price = 450; };
+        class rhsusf_iotv_ucp_repair                                    { quality = 2; price = 450; };
+        class rhsusf_iotv_ucp_rifleman                                  { quality = 2; price = 450; };
+        class rhsusf_iotv_ucp_SAW                                               { quality = 2; price = 450; };
+        class rhsusf_iotv_ucp_squadleader                               { quality = 2; price = 450; };
+        class rhsusf_iotv_ucp_teamleader                                { quality = 2; price = 450; };
+        class rhsusf_iotv_ocp                                                   { quality = 2; price = 450; };
+        class rhsusf_iotv_ocp_grenadier                                 { quality = 2; price = 450; };
+        class rhsusf_iotv_ocp_medic                                         { quality = 2; price = 450; };
+        class rhsusf_iotv_ocp_repair                                    { quality = 2; price = 450; };
+        class rhsusf_iotv_ocp_rifleman                                  { quality = 2; price = 450; };
+        class rhsusf_iotv_ocp_SAW                                               { quality = 2; price = 450; };
+        class rhsusf_iotv_ocp_squadleader                               { quality = 2; price = 450; };
+        class rhsusf_iotv_ocp_teamleader                                { quality = 2; price = 450; };
+        class rhsusf_spc                                                    { quality = 2; price = 450; };
+       
+        //HELMETS
+        class rhs_6b27m_digi                                                    { quality = 1; price = 40; };
+        class rhs_6b27m_digi_ess                                                { quality = 1; price = 40; };
+        class rhs_6b27m_digi_bala                                               { quality = 2; price = 60; };
+        class rhs_6b27m_digi_ess_bala                                   { quality = 2; price = 60; };
+        class rhs_6b27m                                                                 { quality = 1; price = 40; };
+        class rhs_6b27m_ess                                                             { quality = 1; price = 40; };
+        class rhs_6b27m_bala                                                    { quality = 2; price = 60; };
+        class rhs_6b27m_ess_bala                                                { quality = 2; price = 60; };
+        class rhs_6b27m_ml                                                              { quality = 1; price = 40; };
+        class rhs_6b27m_ml_ess                                                  { quality = 1; price = 40; };
+        class rhs_6b27m_ml_bala                                                 { quality = 2; price = 60; };
+        class rhs_6b27m_ML_ess_bala                                             { quality = 2; price = 60; };
+	
+	///////////////////////////////////////////////////////////////////////////////
     // Bipod Attachments
     ///////////////////////////////////////////////////////////////////////////////
     class bipod_01_F_blk                            { quality = 1; price = 10; };
@@ -1445,6 +1530,9 @@ class CfgExileArsenal
     class rhs_mag_9k38_rocket						    { quality = 1; price = 1000; };
 	class CUP_launch_MAAWS								{ quality = 1; price = 2000; };
 	class CUP_MAAWS_HEAT_M								{ quality = 1; price = 500;  };
+	class rhs_weap_fim92								{ quality = 1; price = 2000; };
+	class rhs_fim92_mag									{ quality = 1; price = 200; };
+	
  
     ///////////////////////////////////////////////////////////////////////////////
     // UAVS
@@ -1872,26 +1960,25 @@ class CfgExileArsenal
     class RHS_UH1Y_UNARMED_d                            { quality = 1; price = 8000; };
     class RHS_UH60M_MEV_d                               { quality = 1; price = 10000;};
 	class RHS_Mi24V_FAB_vvs								{ quality = 1; price = 35000;};
-    class  rhsusf_m998_w_2dr_fulltop                    { quality = 1; price = 3750; };     
+    class rhsusf_m998_w_2dr_fulltop                    { quality = 1; price = 3750; };     
     class rhs_Ural_Flat_MSV_01                          { quality = 1; price = 2250; };
     class rhs_uaz_open_MSV_01                           { quality = 1; price = 2500; };
     class rhsusf_m998_w_s_2dr                           { quality = 1; price = 3250; };
     class rhs_btr60_vmf									{ quality  =1; price = 40000;};
     class rhs_prp3_tv								    { quality  =1; price = 30000; };
 	class rhs_9k79										{ quality = 1; price = 60000; };
-	
-    ///////////////////////////////////////////////////////////////////////////////////
-    /// RHS Backpack
-    ///////////////////////////////////////////////////////////////////////////////////
-    class rhsusf_assault_eagleaiii_coy                  { quality = 1; price = 30;  };
+	//class RHS_AH64D_wd									{ quality = 1; price = 50000; };
+	class rhs_bm21_chdkz								{ quality = 1; price = 50000; };
+	class RHS_AH1Z_GS									{ quality = 1; price = 50000; };
+	   
 	    ///////////////////////////////////////////////////////////////////////////////
     // Camo Taru Pods
     ///////////////////////////////////////////////////////////////////////////////
     class Land_Pod_Heli_Transport_04_covered_F            { quality = 1; price = 1000; };
-    class Land_Pod_Heli_Transport_04_fuel_F                  { quality = 1; price = 1000; };
+    class Land_Pod_Heli_Transport_04_fuel_F                  { quality = 1; price = 50000; };
     class Land_Pod_Heli_Transport_04_box_F                  { quality = 1; price = 1000; };
     class Land_Pod_Heli_Transport_04_repair_F              { quality = 1; price = 1000; };
-    class Land_Pod_Heli_Transport_04_medevac_F         { quality = 1; price = 1000; };
+    //class Land_Pod_Heli_Transport_04_medevac_F         { quality = 1; price = 1000; };
     class Land_Pod_Heli_Transport_04_bench_F             { quality = 1; price = 1000; };
     ///////////////////////////////////////////////////////////////////////////////
     // Black Taru Pods  Actually not Working!!!!!!!!! show only the camo variants
@@ -1906,16 +1993,16 @@ class CfgExileArsenal
     // Huron Pods Beta not lockable!!
     ///////////////////////////////////////////////////////////////////////////////
     class B_Slingload_01_Cargo_F                        { quality = 1; price = 1000; };
-    class B_Slingload_01_Fuel_F                            { quality = 1; price = 1000; };
-    class B_Slingload_01_Ammo_F                            { quality = 1; price = 1000; };
-    class B_Slingload_01_Medevac_F                        { quality = 1; price = 1000; };
+    class B_Slingload_01_Fuel_F                            { quality = 1; price = 10000; };
+    class B_Slingload_01_Ammo_F                            { quality = 1; price = 50000; };
+    //class B_Slingload_01_Medevac_F                        { quality = 1; price = 1000; };
     class B_Slingload_01_Repair_F                        { quality = 1; price = 1000; };
 	
 };
 class CfgExileCustomCode 
 {
 	ExileServer_system_rcon_thread_check = "restart\ExileServer_system_rcon_thread_check.sqf";//restart module
-	ExileServer_object_vehicle_database_load = "overwrites\exile_server\code\ExileServer_object_vehicle_database_load.sqf"; //unlocks Vehciles in safe zones
+	//ExileServer_object_vehicle_database_load = "overwrites\exile_server\code\ExileServer_object_vehicle_database_load.sqf"; //unlocks Vehciles in safe zones
 	ExileClient_gui_wasteDumpDialog_show = "fixes\ExileClient_gui_wasteDumpDialog_show.sqf";       //this one fix selling tanks
     ExileClient_gui_traderDialog_updateInventoryDropdown = "fixes\ExileClient_gui_traderDialog_updateInventoryDropdown.sqf"; //selling items form tank
 	ExileClient_object_player_event_onEnterSafezone = "fixes\ExileClient_object_player_event_onEnterSafezone.sqf"; //taru pods igiload script
@@ -2122,7 +2209,96 @@ class CfgTraderCategories
 			"V_PlateCarrierSpec_rgr"
 		};
 	};
+	///////////////////////////////////////////////
+	/// RHS Custom Stuff
+	//////////////////////////////////////////////
+    class RHSVests
+        {
+                name = "RHS Vests";
+                icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\vest_ca.paa";
+                items[] =
+                {
+                        "rhs_6sh92_headset",
+                        "rhs_6sh92_radio",
+                        "rhs_6sh92_vog",
+                        "rhs_6sh92_vog_headset",
+                        "rhs_vydra_3m",
+                        "rhs_6sh92_digi",
+                        "rhs_6b13_6sh92_vog",
+                        "rhs_6b13_6sh92_radio",
+                        "rhs_6b23_digi_6sh92_vog_headset",
+                        "rhs_6b13_Flora",
+                        "rhs_6b13_Flora_6sh92",
+                        "rhs_6b13_Flora_6sh92_headset_mapcase",
+                        "rhs_6b13_Flora_6sh92_vog",
+                        "rhs_6b13_Flora_crewofficer",
+                        "rhs_6b23",
+                        "rhs_6b23_6sh92",
+                        "rhs_6b23_6sh92_headset",
+                        "rhs_6b23_6sh92_headset_mapcase",
+                        "rhs_6b23_6sh92_radio",
+                        "rhs_6b23_6sh92_vog",
+                        "rhs_6b23_6sh92_vog_headset",
+                        "rhs_6b23_crew",
+                        "rhs_6b23_engineer",
+                        "rhs_6b23_rifleman",
+                        "rhs_6b23_sniper",
+                        "rhs_6b23_ML",
+                        "rhs_6b23_ML_6sh92",
+                        "rhs_6b23_ML_6sh92_headset",
+                        "rhs_6b23_ML_6sh92_headset_mapcase",
+                        "rhs_6b23_ML_6sh92_radio",
+                        "rhs_6b23_ML_6sh92_vog",
+                        "rhs_6b23_ML_6sh92_vog_headset",
+                        "rhs_6b23_ML_crewofficer",
+                        "rhs_6b23_ML_crew",
+                        "rhs_6b23_ML_engineer",
+                        "rhs_6b23_ML_rifleman",
+                        "rhs_6b23_ML_sniper",
+                        "rhs_6sh46",
+                        "rhsusf_iotv_ocp",
+                        "rhsusf_iotv_ucp",
+                        "rhsusf_iotv_ocp_Medic",
+                        "rhsusf_iotv_ucp_Medic",
+                        "rhsusf_iotv_ocp_Repair",
+                        "rhsusf_iotv_ucp_Repair",
+                        "rhsusf_iotv_ocp_Rifleman",
+                        "rhsusf_iotv_ucp_Rifleman",
+                        "rhsusf_iotv_ocp_SAW",
+                        "rhsusf_iotv_ucp_SAW",
+                        "rhsusf_iotv_ocp_Squadleader",
+                        "rhsusf_iotv_ucp_Squadleader",
+                        "rhsusf_iotv_ocp_Teamleader",
+                        "rhsusf_iotv_ucp_Teamleader",
+                        "rhsusf_iotv_ocp_Grenadier",
+                        "rhsusf_iotv_ucp_Grenadier"
+                };
+        };
+  class RHSHeadgear
+        {
+                name = "RHS Headgear";
+                icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\headgear_ca.paa";
+                items[] =
+                {
+                        "rhs_6b27m_digi",
+                        "rhs_6b27m_digi_bala",
+                        "rhs_6b27m_digi_ess",
+                        "rhs_6b27m_digi_ess_bala",
+                        "rhs_6b27m",
+                        "rhs_6b27m_ess",
+                        "rhs_6b27m_bala",
+                        "rhs_6b27m_ess_bala",
+                        "rhs_6b27m_ml",
+                        "rhs_6b27m_ml_bala",
+                        "rhs_6b27m_ml_ess",
+                        "rhs_6b27m_ML_ess_bala"
+                };
+        };
+ 
 
+	
+	
+	
 	class Headgear 
 	{
 		name = "Headgear";
@@ -2531,8 +2707,8 @@ class PointerAttachments
 			"B_TacticalPack_mcamo",
 			"B_TacticalPack_ocamo",
 			"B_TacticalPack_oli",
-			"B_TacticalPack_rgr",
-			"rhsusf_assault_eagleaiii_coy"
+			"B_TacticalPack_rgr"
+			
 		};
 	};
 
@@ -2697,6 +2873,9 @@ class PointerAttachments
 			"CUP_launch_MAAWS",
 			"CUP_optic_MAAWS_Scope",
 			"CUP_MAAWS_HEAT_M",
+			"rhs_fim92_mag",
+			"rhs_weap_fim92",
+			
 			"APERSBoundingMine_Range_Mag",
 			"APERSMine_Range_Mag",
 			"APERSTripMine_Wire_Mag",
@@ -2898,7 +3077,6 @@ class PointerAttachments
             "CUP_srifle_M24_wdl",
             "CUP_srifle_M40A3",
 			"CUP_srifle_VSSVintorez",
-            "CUP_srifle_DMR",
             "CUP_srifle_Mk12SPR_LeupoldM3LR",
             "CUP_srifle_M110",
             "CUP_srifle_M14",
@@ -3106,6 +3284,7 @@ class PointerAttachments
             "rhs_btr60_vmf",	
             "rhs_prp3_tv",
 			"rhs_9k79",
+			"rhs_bm21_chdkz",
 			"B_Slingload_01_Cargo_F",
 			"B_Slingload_01_Fuel_F",                      
 			"B_Slingload_01_Ammo_F",                          
@@ -3133,6 +3312,8 @@ class PointerAttachments
             "RHS_UH1Y_UNARMED_d",
             "RHS_CH_47F",
             "RHS_UH60M",
+			//"RHS_AH64D_wd",
+			"RHS_AH1Z_GS",
             "RHS_Mi24V_FAB_vvs",
             "RHS_Mi8amt_civilian",
 			"Land_Pod_Heli_Transport_04_covered_F",          
@@ -3231,8 +3412,10 @@ class CfgTraders
 		categories[] = 
 		{
 			"Headgear",
+			"RHSHeadgear",
 			"Uniforms",
 			"Vests",
+			"RHSVests",
 			"Backpacks",
 			"Tools",
 			"FirstAid"

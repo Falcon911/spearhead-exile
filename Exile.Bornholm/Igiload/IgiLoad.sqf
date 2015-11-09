@@ -27,13 +27,13 @@ if (isnil "IL_Variables") then
 {
 	IL_Variables = true;
 	//Check new vehicles time
-	IL_Check_Veh_Min = 30;
-	IL_Check_Veh_Max = 60;
+	IL_Check_Veh_Min = 15;
+	IL_Check_Veh_Max = 30;
 	//Dealing with cargo damage
 	//-1 - do nothing
 	//0 - set to 0
 	//1 - keep such as before loading/unloading
-	IL_CDamage = 1;
+	IL_CDamage = -1;   /// fix for repair car by load/unload
 	//AddAction menu position
 	IL_Action_LU_Priority = 30; //Load and (para)unload
 	IL_Action_O_Priority = 0;	//Open and close
@@ -168,14 +168,16 @@ if (isnil "IL_Variables") then
 		"Exile_Car_Zamak",
 		"rhsusf_M1078A1P2_B_M2_wd_fmtv_usarmy",
 		"RHS_Ural_Flat_MSV_01"
+		
 	];
 	IL_Supported_Vehicles_TEMPEST = ["Exile_Car_Tempest"];
-	IL_Supported_Vehicles_MOHAWK = ["Exile_Chopper_Mohawk_FIA"];
+	IL_Supported_Vehicles_MOHAWK = ["Exile_Chopper_Mohawk_FIA","RHS_CH_47F"];
 	IL_Supported_Vehicles_CHINOOK = 
 	[
 		"Exile_Chopper_Huron_Black",
 		"Exile_Chopper_Huron_Green",
 		"RHS_CH_47F"
+		
 	];
 	IL_Supported_Vehicles_MH9 = 
 	[
@@ -196,7 +198,8 @@ if (isnil "IL_Variables") then
 		"Exile_Chopper_Hummingbird_Civillian_Sunset",
 		"Exile_Chopper_Hummingbird_Civillian_Vrana",
 		"Exile_Chopper_Hummingbird_Civillian_Wasp",
-		"Exile_Chopper_Hummingbird_Civillian_Wave"
+		"Exile_Chopper_Hummingbird_Civillian_Wave",
+		"RHS_UH60M"
 	];
 
 	IL_Supported_Vehicles_All = IL_Supported_Vehicles_MH9 + IL_Supported_Vehicles_MOHAWK + IL_Supported_Vehicles_KAMAZ + IL_Supported_Vehicles_TEMPEST + IL_Supported_Vehicles_HEMTT + IL_Supported_Vehicles_VAN + IL_Supported_Vehicles_OFFROAD + IL_Supported_Vehicles_CHINOOK;
@@ -384,7 +387,8 @@ if (isnil "IL_Variables") then
 		"IG_supplyCrate_F",
 		"O_supplyCrate_F",
 		"I_supplyCrate_F",
-		"C_supplyCrate_F"
+		"C_supplyCrate_F",
+		"Exile_Container_Storagecrate"
 	];
 	IL_Supported_Veh_Ammo = 
 	[
@@ -447,7 +451,8 @@ if (isnil "IL_Variables") then
 		"Box_mas_us_rifle_Wps_F",
 		"Box_mas_ru_rifle_Wps_F",
 		"Box_mas_mar_NATO_equip_F",
-		"Box_mas_mar_NATO_Wps_F"
+		"Box_mas_mar_NATO_Wps_F",
+		"Exile_Container_Storagecrate"
 	];
 	IL_Supported_Box_H2 = 
 	[
@@ -463,6 +468,7 @@ if (isnil "IL_Variables") then
 		"Box_IND_Support_F",
 		"Box_East_Support_F",
 		"Box_NATO_Support_F"
+		
 	];
 	IL_Supported_Cargo20 = 
 	[
@@ -478,6 +484,7 @@ if (isnil "IL_Variables") then
 		"Land_Cargo20_sand_F",
 		"Land_Cargo20_white_F",
 		"Land_Cargo20_yellow_F"
+		
 	];
 	IL_Supported_TaruPods = 
 	[
@@ -494,7 +501,8 @@ if (isnil "IL_Variables") then
 		"B_Slingload_01_Repair_F",
 		"B_Slingload_01_Cargo_F"
 	];
-	
+	//needed for the new Initialization, put all supported Vehicles & all supported Cargo in!!!
+	IL_Supported_Init_All = IL_Supported_Vehicles_OFFROAD + IL_Supported_Vehicles_VAN + IL_Supported_Vehicles_HEMTT + IL_Supported_Vehicles_KAMAZ + IL_Supported_Vehicles_TEMPEST + IL_Supported_Vehicles_MOHAWK + IL_Supported_Vehicles_CHINOOK + IL_Supported_Vehicles_MH9 + IL_Supported_Bicycles + IL_Supported_Karts + IL_Supported_HEMTT + IL_Supported_KAMAZ + IL_Supported_TEMPEST + IL_Supported_Strider + IL_Supported_Hunter + IL_Supported_Ifrit + IL_Supported_UGV + IL_Supported_VAN + IL_Supported_OFFROAD + IL_Supported_SUV + IL_Supported_Hatchback + IL_Supported_Quadbike + IL_Supported_Supply_Crate + IL_Supported_Veh_Ammo + IL_Supported_Barrel + IL_Supported_Tank + IL_Supported_Rubberboat + IL_Supported_SDV + IL_Supported_Box_H1 + IL_Supported_Box_H2 + IL_Supported_Cargo20 + IL_Supported_TaruPods;
 	
 	IL_Supported_Cargo_MH9 = IL_Supported_Supply_Crate + IL_Supported_Barrel; 
 
@@ -1355,6 +1363,7 @@ if (isnil "IL_Procedures") then
 						};
 
 						_IL_noti = getText(configFile >> "cfgVehicles" >> typeOf _x >> "displayName");
+						_x call ExileServer_object_vehicle_database_update;
                         ["Success", format ["%1 successfully loaded!",_IL_noti]] call ExileClient_gui_notification_event_addNotification;
 						[Player, IL_Load_Score] call IL_Score;
 						};
