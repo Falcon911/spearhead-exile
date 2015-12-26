@@ -1,6 +1,10 @@
 //new
-1 "" !="slots_num_r" !="slots_num_l" !="zload"!="Load_Offset" !="Default_Mass" !="box_num" !="exilexm8isonline" !="bis_fnc_selectrespawntemplate_respawned" !="can_load" !="doors"!="holder_in_use" !="can_load" !="box_num" !="default_mass" !="doors" !="attachedpos" !="slots_num" !="can_copilot" !="zload" !="can_outside" !="load_offset" !="usable_ramp" !="zload_cargo" !="cargo_offset" !="attachedtruck" !="bis_fnc_selectrespawntemplate_respawned" !="mymoneyval"
+1 "" !="exilexm8isonline" !="bis_fnc_selectrespawntemplate_respawned" !="can_load" !="doors"!="holder_in_use" !="can_load" !="box_num" !="default_mass" !="doors" !="attachedpos" !="slots_num" !="can_copilot" !="zload" !="can_outside" !="load_offset" !="usable_ramp" !="zload_cargo" !="cargo_offset" !="attachedtruck" !="bis_fnc_selectrespawntemplate_respawned" !="mymoneyval"
+1 "can_load"
+1 "attachedpos" 
+1 "attachTruck"
+1 "doors" 
+1 "slots" 
+1 "cargo_offset"
 7 "ExileScore"
 7 "ExileMoney"
-7 "realname"
-7  "[+;,{(|&=:!%[]"

@@ -9,7 +9,7 @@
 		<start>003500</start>
 		<runtime>003500</runtime>
 		<loop>-1</loop>
-		<cmd>say Welcome to the SpearHead Gaming Epoch Server</cmd>
+		<cmd>say Welcome to the SpearHead Gaming Exile Server</cmd>
 	</job>
 <job id='1'>
 		<day>1,2,3,4,5,6,7</day>
@@ -30,7 +30,7 @@
         <start>003515</start>
         <runtime>003515</runtime>
         <loop>-1</loop>
-        <cmd>say -1 Donate to the server https://goo.gl/oqxUGx</cmd>
+        <cmd>say -1 Donate to the server See the Boards at the traders for info!!</cmd>
    </job>
 <job id='4'>
         <day>1,2,3,4,5,6,7</day>

@@ -1,13 +1,2 @@
 //new
-7 "" !="ZEU_MkLog_MrkOpPV" !="IL_CLient_Pod_Manager" !="IL_SetScore" !"IL_" !="FuMS_Admin_SpawnMission" !="FuMS_GetPlayerIndex" !=""FuMS_CaptiveAction" !="FuMS_StartPlayerEncounter" !="FuMS_AdminMenuOpen" !="FuMS_AdminUpdateData"
-7 "call"
-7 "spawn"
-7 "compile"
-7 "exec"
-7 "config"
-7 "toString"
-7 "toArray"
-7 "loadFile"
-7 "preprocess"
-1 "ZEU_MkLog_MrkOpPV"
-
+1 "" !="IL_SetScore" !="PublicMessage" !="PVAHR_[a-z,0-9]{10,16}" !="PVAH_AdminReq" !="IL_CLient_Pod_Manager"

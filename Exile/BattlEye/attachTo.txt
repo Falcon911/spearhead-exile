@@ -1,2 +1,2 @@
 //new
-1 "" !"NVG_TargetG" !="Box_NATO_Wps_F" !="Exile_Bike_QuadBike_Guerilla02" !="Exile_" !="Box_"
+1 "" !"NVG_TargetG" !="Box_NATO_Wps_F"

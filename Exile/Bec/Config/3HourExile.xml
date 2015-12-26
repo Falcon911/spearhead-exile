@@ -872,25 +872,68 @@
 		
 <job id='56'>
 		<day>1,2,3,4,5,6,7</day>
-		<start>000500</start>
-		<runtime>000500</runtime>
+		<start>003500</start>
+		<runtime>003500</runtime>
 		<loop>-1</loop>
 		<cmd>say Welcome to the SpearHead Gaming Epoch Server</cmd>
 	</job>
 <job id='57'>
 		<day>1,2,3,4,5,6,7</day>
-		<start>000505</start>
-		<runtime>040000</runtime>
+		<start>003505</start>
+		<runtime>003505</runtime>
 		<loop>-1</loop>
 		<cmd>say -1 Visit us on our Website: SpearHeadGaming.net</cmd>
 	</job>
 <job id='58'>
 		<day>1,2,3,4,5,6,7</day>
-		<start>000510</start>
-		<runtime>040000</runtime>
+		<start>003510</start>
+		<runtime>003510</runtime>
 		<loop>-1</loop>
 		<cmd>say -1 Teamspeak:ts.spearheadgaming.net </cmd>
 	</job>
+<job id='59'>
+        <day>1,2,3,4,5,6,7</day>
+        <start>003515</start>
+        <runtime>003515</runtime>
+        <loop>-1</loop>
+        <cmd>say -1 Donate to the server!! See sign at traders for info</cmd>
+   </job>
+<job id='60'>
+        <day>1,2,3,4,5,6,7</day>
+        <start>003520</start>
+        <runtime>003520</runtime>
+        <loop>-1</loop>
+        <cmd>say -1 Rules are located on the Map. Upper left</cmd>		
+   </job>
+<job id='61'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>003530</start>
+		<runtime>003530</runtime>
+		<loop>-1</loop>
+		<cmd> say -1 Recruiting for Mil-Sim.. See Anyone with a Tag on the Teamspeak. </cmd>
+	</job>
+<job id='62'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>003535</start>
+		<runtime>003535</runtime>
+		<loop>-1</loop>
+		<cmd> say -1 Territory payment due every 21 days. If not, anything in there will be delete automatically</cmd>
+	</job>
+<job id='63'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>003530</start>
+		<runtime>003530</runtime>
+		<loop>-1</loop>
+		<cmd> say -1 Vehicles will delete every 8 days is not used for moved. </cmd>
+	</job>
+<job id='64'>
+		<day>1,2,3,4,5,6,7</day>
+		<start>003530</start>
+		<runtime>003530</runtime>
+		<loop>-1</loop>
+		<cmd> say -1 Any contruction objects will be deleted every 8 days of not inside your terrirory.</cmd>
+	</job>
+   
    
    
 

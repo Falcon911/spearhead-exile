@@ -1,5 +1,5 @@
 //new
-7 "" !="true" !="vehicle this land 'LAND'" !="exileserver_system_network_dispatchincomingmessage.*" !"fnc_AdminReq" !="rhs_fnc_cminterface\n0" !="rhs_fnc_cminterface 0" !=""rhs_fnc_cminterface 1"
+7 "" !="true" !="vehicle this land 'LAND'" !="exileserver_system_network_dispatchincomingmessage.*" !"fnc_AdminReq" !="rhs_fnc_cminterface\n0"!="remoteExecCall ["ExileServer_lottery_network_request\"," !"ExileServer_lottery_network_request"
 7 "ExileClient_system_network_dispatchIncomingMessage"
 7 "FN_infiSTAR_C"
 1 "call"
@@ -11,4 +11,3 @@
 1 "toArray"
 1 "loadFile"
 1 "preprocess"
-
