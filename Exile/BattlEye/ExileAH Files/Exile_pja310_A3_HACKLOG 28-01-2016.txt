@@ -1,0 +1,184 @@
+28-01-2016 07:22:39 infiSTAR.de | 0h 2min 42s | JSOC(76561198037520939) | ChatMenu Found: 7 should be 4 () [FPS: 49.8442|SERVERTHREADS: 33] (v0029)
+28-01-2016 07:22:40 infiSTAR.de | 0h 2min 42s | JSOC(76561198037520939) | ChatMenu Found: 5 should be 7 () [FPS: 43.3604|SERVERTHREADS: 33] (v0029)
+28-01-2016 07:22:40 infiSTAR.de | 0h 2min 42s | JSOC(76561198037520939) | ChatMenu Found: 4 should be 5 () [FPS: 43.3604|SERVERTHREADS: 33] (v0029)
+28-01-2016 08:19:58 infiSTAR.de | 0h 59min 52s | xAm_d(76561198061128228) | ChatMenu Found: 5 should be 3 () [FPS: 26.0586|SERVERTHREADS: 36] (v0029)
+28-01-2016 08:19:58 infiSTAR.de | 0h 59min 52s | xAm_d(76561198061128228) | ChatMenu Found: 0 should be 2 () [FPS: 23.9163|SERVERTHREADS: 36] (v0029)
+28-01-2016 08:45:28 infiSTAR.de | 1h 25min 15s | JoshH(76561198219015717) | ChatMenu Found: 7 should be 5 () [FPS: 19.975|SERVERTHREADS: 36] (v0029)
+28-01-2016 09:01:47 infiSTAR.de | 1h 41min 29s | Azimut(76561198091808373) | ChatMenu Found: 11 should be 6 () [FPS: 17.8771|SERVERTHREADS: 36] (v0029)
+28-01-2016 09:01:48 infiSTAR.de | 1h 41min 29s | Azimut(76561198091808373) | ChatMenu Found: 4 should be 6 () [FPS: 17.8771|SERVERTHREADS: 36] (v0029)
+28-01-2016 09:01:48 infiSTAR.de | 1h 41min 29s | Azimut(76561198091808373) | ChatMenu Found: 1 should be 4 () [FPS: 17.2043|SERVERTHREADS: 36] (v0029)
+28-01-2016 09:01:48 infiSTAR.de | 1h 41min 29s | Azimut(76561198091808373) | ChatMenu Found: 9 should be 6 () [FPS: 17.2043|SERVERTHREADS: 36] (v0029)
+28-01-2016 14:27:10 infiSTAR.de | 0h 21min 56s | Chapi(76561198078981149) | BadVariableContent in missionNamespace: [waitUntil {inputAction ] in [rhs_fnc_fold_ak]\r\n {
+	_fnc_scriptnameparenttemp = if !(isnil '_fnc_scriptname') then {_fnc_scriptname} else {'rhs_fnc_fold_ak'};
+	private ['_fnc_scriptnameparent'];
+	_fnc_scriptnameparent = _fnc_scriptnameparenttemp;
+	_fnc_scriptnameparenttemp = nil;
+
+	private ['_fnc_scriptname'];
+	_fnc_scriptname = 'rhs_fnc_fold_ak';
+	scriptname _fnc_scriptname;
+#line 1 "rhsafrf\addons\rhs_c_weapons\scripts\rhs_fold.sqf"
+
+
+
+_this spawn
+{
+sleep 0.3;
+
+if(not(isnil "rhs_fold_action"))exitwith{};
+rhs_fold_action=true;
+uinamespace setvariable ["rhs_ak74_ctrl",_this select 0];
+
+private ["_t","_c","_a","_m","_wu","_wf","_p"];
+
+disableserialization;
+_c = uinamespace getvariable "rhs_ak74_ctrl";
+_z = (_c displayctrl 168);
+
+rhs_key_wpn_int_glb=(profilenamespace getvariable ["rhs_key_wpn_int","nextcm"]);
+
+
+_p=call rhs_fnc_findplayer;
+_t =primaryweapon _p;
+
+_wf=(gettext (configfile >> "cfgweapons" >> _t >> "rhs_fold"));
+if(_wf=="")exitwith{_p globalchat "nagły koniec";rhs_fold_action = nil;uinamespace setvariable ["rhs_ak74_ctrl",displaynull];};
+_wu=(gettext (configfile >> "cfgweapons" >> _wf >> "rhs_fold"));
+
+while{not(isnull _z)}do
+{
+_p=call rhs_fnc_findplayer;
+
+
+if( (inputaction rhs_key_wpn_int_glb >0) and {(_p hasweapon _t) or (_p hasweapon _wf)})then
+{
+waituntil {inputaction rhs_key_wpn_int_glb == 0};
+if(currentweapon _p == primaryweapon _p and (_p == vehicle _p))then
+{
+_i=primaryweaponitems _p;
+
+if((_i select 2) isequalto "")then{
+_a= _p ammo currentweapon _p;
+_m = currentmagazine _p;
+
+_p addmagazine _m;
+if(currentweapon _p isequalto _wf)then{
+_p addweapon _wu;
+_p selectweapon _wu;
+_t=_wu;
+
+}else{
+_p addweapon _wf;
+_p selectweapon _wf;
+
+};
+
+_p playmove "mountoptic";
+
+if(not((_i select 0) isequalto ""))then{ _p addprimaryweaponitem (_i select 0)};
+_p setammo [(currentweapon _p), _a];
+sleep 3;
+};
+};
+};
+sleep 0.1;
+};
+
+
+rhs_fold_action = nil;
+uinamespace setvariable ["rhs_ak74_ctrl",displaynull];
+};} [FPS: 13.913|SERVERTHREADS: 38] (v0029)
+28-01-2016 14:32:10 infiSTAR.de | 0h 26min 50s | Chapi(76561198078981149) | BadVariableContent in missionNamespace: [waitUntil {inputAction ] in [rhs_fnc_sight_kobra]\r\n {
+	_fnc_scriptnameparenttemp = if !(isnil '_fnc_scriptname') then {_fnc_scriptname} else {'rhs_fnc_sight_kobra'};
+	private ['_fnc_scriptnameparent'];
+	_fnc_scriptnameparent = _fnc_scriptnameparenttemp;
+	_fnc_scriptnameparenttemp = nil;
+
+	private ['_fnc_scriptname'];
+	_fnc_scriptname = 'rhs_fnc_sight_kobra';
+	scriptname _fnc_scriptname;
+#line 1 "rhsafrf\addons\rhs_c_weapons\scripts\rhs_abrakadabra.sqf"
+
+
+
+
+
+[] spawn
+{
+private["_a","_i"];
+
+_a=["rhs_acc_ekp1","rhs_acc_ekp1b","rhs_acc_ekp1c","rhs_acc_ekp1d"];
+
+
+
+rhs_key_opt_int_glb=(profilenamespace getvariable ["rhs_key_opt_int","opticsmode"]);
+
+
+_p=(call rhs_fnc_findplayer);
+{
+_i= primaryweaponitems _p find _x;
+if(_i >=0)exitwith{
+_i = _a find ((primaryweaponitems _p) select _i);
+};
+}foreach _a;
+
+while{(_a select _i) in primaryweaponitems _p}do
+{
+_p=(call rhs_fnc_findplayer);
+if(inputaction rhs_key_opt_int_glb > 0)then
+{
+waituntil {inputaction rhs_key_opt_int_glb == 0};
+if(_i==3)then{_i=0}else{_i=_i+1};
+_p addprimaryweaponitem (_a select _i);
+};
+sleep 0.01;
+};
+};
+} [FPS: 11.5108|SERVERTHREADS: 38] (v0029)
+28-01-2016 14:36:30 infiSTAR.de | 0h 31min 5s | Chapi(76561198078981149) | BadVariableContent in missionNamespace: [waitUntil {inputAction ] in [rhs_fnc_sight_kobra]\r\n {
+	_fnc_scriptnameparenttemp = if !(isnil '_fnc_scriptname') then {_fnc_scriptname} else {'rhs_fnc_sight_kobra'};
+	private ['_fnc_scriptnameparent'];
+	_fnc_scriptnameparent = _fnc_scriptnameparenttemp;
+	_fnc_scriptnameparenttemp = nil;
+
+	private ['_fnc_scriptname'];
+	_fnc_scriptname = 'rhs_fnc_sight_kobra';
+	scriptname _fnc_scriptname;
+#line 1 "rhsafrf\addons\rhs_c_weapons\scripts\rhs_abrakadabra.sqf"
+
+
+
+
+
+[] spawn
+{
+private["_a","_i"];
+
+_a=["rhs_acc_ekp1","rhs_acc_ekp1b","rhs_acc_ekp1c","rhs_acc_ekp1d"];
+
+
+
+rhs_key_opt_int_glb=(profilenamespace getvariable ["rhs_key_opt_int","opticsmode"]);
+
+
+_p=(call rhs_fnc_findplayer);
+{
+_i= primaryweaponitems _p find _x;
+if(_i >=0)exitwith{
+_i = _a find ((primaryweaponitems _p) select _i);
+};
+}foreach _a;
+
+while{(_a select _i) in primaryweaponitems _p}do
+{
+_p=(call rhs_fnc_findplayer);
+if(inputaction rhs_key_opt_int_glb > 0)then
+{
+waituntil {inputaction rhs_key_opt_int_glb == 0};
+if(_i==3)then{_i=0}else{_i=_i+1};
+_p addprimaryweaponitem (_a select _i);
+};
+sleep 0.01;
+};
+};
+} [FPS: 10.7889|SERVERTHREADS: 38] (v0029)

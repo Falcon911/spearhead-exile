@@ -3,7 +3,7 @@
 ///////////////////////////////////////////////////////////////////////////////
 
 ////
-//[] execVM "addons\statusBar\statusbar.sqf"; 
+[] execVM "addons\statusBar\statusbar.sqf"; 
 ////
 #include "initServer.sqf"
 

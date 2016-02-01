@@ -1,6 +1,6 @@
 # spearhead-exile
 
-Modded mission created by Jawdan. Was given full permission to clone and reuse this mission. 
+Modded mission created by Tim Cannon. Was given full permission to clone and reuse this mission. 
 
 Features:
 

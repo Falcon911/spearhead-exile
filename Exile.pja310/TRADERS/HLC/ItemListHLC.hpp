@@ -35,9 +35,11 @@
 	///////////////////////////////////////////////////////////////////////////////
 	// Ammunition
 	///////////////////////////////////////////////////////////////////////////////
-	class	hlc_100Rnd_762x51_B_M60E4				{ quality = 1; price = 30; };
-	class	hlc_100Rnd_762x51_T_M60E4				{ quality = 1; price = 30; };	
-	class	hlc_100Rnd_762x51_M_M60E4				{ quality = 1; price = 30; };
+	class   hlc_200rnd_556x45_T_SAW 				{ quality = 1; price = 300;	};	
+	class 	hlc_200rnd_556x45_B_SAW					{ quality = 1; price = 300; };
+	class	hlc_100Rnd_762x51_B_M60E4				{ quality = 1; price = 200; };
+	class	hlc_100Rnd_762x51_T_M60E4				{ quality = 1; price = 200; };	
+	class	hlc_100Rnd_762x51_M_M60E4				{ quality = 1; price = 200; };
 	class   hlc_5rnd_300WM_SBT_AWM                  { quality = 1; price = 100;};
 	class   hlc_5rnd_300WM_AP_AWM                   { quality = 1; price = 100;};
 	class   hlc_5rnd_300WM_BTSP_AWM                 { quality = 1; price = 100;};
@@ -116,6 +118,7 @@
 	class	hlc_rifle_rpk							{ quality = 3; price = 800; };
 	class	hlc_lmg_m60								{ quality = 3; price = 800; };
 	class	hlc_lmg_M60E4							{ quality = 3; price = 800; };
+	class	hlc_m249_pip4							{ quality = 1; price = 900; };
 	
 	///////////////////////////////////////////////////////////////////////////////
 	// Assault Rifles

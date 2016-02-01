@@ -228,7 +228,7 @@
 	-->
 	<command id="8">
 		<name>!ban</name>
-		<group>0</group>
+		<group>2</group>
 		<cmd>ban</cmd>
 		<time>518400</time>
 		<text>You got a ban by : _name_ , come back _time_</text>
@@ -265,7 +265,7 @@
 	<!-- Ban based on BeId -->
 	<command id="10">
 		<name>!bid</name>
-		<group>0</group>
+		<group>2</group>
 		<cmd>bid</cmd>
 		<time>0</time>
 		<text>Admins Decision!</text>
@@ -374,7 +374,7 @@
 	-->
 	<command id="18">
 		<name>!raf</name>
-		<group>0</group>
+		<group>2</group>
 		<cmd>loadadmins</cmd>
 		<time></time>
 		<text></text>
@@ -388,7 +388,7 @@
 	-->
 	<command id="19">
 		<name>!rcf</name>
-		<group>0</group>
+		<group>2</group>
 		<cmd>loadcommands</cmd>
 		<time></time>
 		<text></text>

@@ -144,8 +144,10 @@ e58589fcde68eead9bc8467c5fa17b85 -1 : GH #38 ban w.s.
 ed8d3302e904c9eac77e1ae9fa59f849 -1 [BCP] Combat logging
 fed121d263b3772f2b10faaacb4ff05a -1 [BCP] Dupping
 6bc476dd815dd14a0a8321fd65d7be55 -1 BEC : GameHack #38
-31c460cd841483210aa6ba3d72bfc5f3 1451166035 BAD WORDS
-108.223.102.6 -1 Hacking attenpt Anderson
-77.99.188.131 -1 Feyzi
-85.167.35.251 -1 Rex Hacking
-184.155.214.149 1451166035 BAD WORDS
+f6b3339ba254cfc94d612c29e724d58c -1 BEC : GameHack #38
+47b1f5f93f890ad29282cfb81cc7ed46 -1 BEC : GameHack #38
+23ab38657f2560cf54a566fad2a01821 -1 Birddawg. disrespectful
+c4038224e138c309db061b665e1d9899 -1 [BCP] Troll
+5acbd1cdfa1eec651e8fe2792856fe31 -1 BEC : GameHack #38
+73.213.215.166 -1 Birddawg. disrespectful
+37.4.80.126 -1 [BCP] Troll

@@ -86,11 +86,11 @@
 	///////////////////////////////////////////////////////////////////////////////
 	// Ammunition
 	///////////////////////////////////////////////////////////////////////////////
-	class CUP_100Rnd_556x45_BetaCMag    					{ quality = 2; price = 20; };
-    class CUP_100Rnd_TE4_Green_Tracer_556x45_M249    		{ quality = 2; price = 20; };
-    class CUP_100Rnd_TE4_LRT4_Red_Tracer_762x51_Belt_M    	{ quality = 2; price = 20; };
-    class CUP_100Rnd_TE4_LRT4_762x54_PK_Tracer_Green_M    	{ quality = 2; price = 20; };
-	class CUP_100Rnd_TE4_LRT4_White_Tracer_762x51_Belt_M    { quality = 1; price = 20; };
+	class CUP_100Rnd_556x45_BetaCMag    					{ quality = 2; price = 200; };
+    class CUP_100Rnd_TE4_Green_Tracer_556x45_M249    		{ quality = 2; price = 200; };
+    class CUP_100Rnd_TE4_LRT4_Red_Tracer_762x51_Belt_M    	{ quality = 2; price = 200; };
+    class CUP_100Rnd_TE4_LRT4_762x54_PK_Tracer_Green_M    	{ quality = 2; price = 200; };
+	class CUP_100Rnd_TE4_LRT4_White_Tracer_762x51_Belt_M    { quality = 1; price = 200; };
 	class CUP_10Rnd_762x51_CZ750    						{ quality = 2; price = 20; };
     class CUP_10Rnd_762x54_SVD_M    						{ quality = 2; price = 20; };
     class CUP_10Rnd_9x19_Compact    						{ quality = 2; price = 20; };
@@ -106,7 +106,7 @@
     class CUP_1Rnd_SmokeGreen_M203    						{ quality = 2; price = 20; };
     class CUP_1Rnd_SmokeRed_M203    						{ quality = 2; price = 20; };
     class CUP_1Rnd_SmokeYellow_M203    						{ quality = 2; price = 20; };
-	class CUP_10Rnd_127x99_m107								{ quality = 2; price = 75; };
+	class CUP_10Rnd_127x99_m107								{ quality = 2; price = 150; };
     class CUP_200Rnd_TE4_Green_Tracer_556x45_L110A1    		{ quality = 2; price = 20; };
     class CUP_200Rnd_TE4_Green_Tracer_556x45_M249    		{ quality = 2; price = 20; };
     class CUP_20Rnd_762x51_DMR    							{ quality = 2; price = 20; };
@@ -125,14 +125,14 @@
     class CUP_30Rnd_762x39_AK47_M    						{ quality = 2; price = 20; };
     class CUP_30Rnd_Sa58_M    								{ quality = 2; price = 20; };
     class CUP_30Rnd_9x19_MP5    							{ quality = 2; price = 20; };
-    class CUP_5Rnd_127x108_KSVK_M    						{ quality = 2; price = 20; };
-    class CUP_5Rnd_127x99_as50_M    						{ quality = 2; price = 20; };
+    class CUP_5Rnd_127x108_KSVK_M    						{ quality = 2; price = 100; };
+    class CUP_5Rnd_127x99_as50_M    						{ quality = 2; price = 150; };
     class CUP_5Rnd_762x51_M24    							{ quality = 2; price = 20; };
-    class CUP_5Rnd_86x70_L115A1    							{ quality = 2; price = 20; };
+    class CUP_5Rnd_86x70_L115A1    							{ quality = 2; price = 60; };
     class CUP_5x_22_LR_17_HMR_M    							{ quality = 2; price = 20; };
     class CUP_64Rnd_9x19_Bizon_M    						{ quality = 2; price = 20; };
     class CUP_6Rnd_45ACP_M    								{ quality = 2; price = 20; };
-    class CUP_75Rnd_TE4_LRT4_Green_Tracer_545x39_RPK_M    	{ quality = 2; price = 20; };
+    class CUP_75Rnd_TE4_LRT4_Green_Tracer_545x39_RPK_M    	{ quality = 2; price = 125; };
     class CUP_7Rnd_45ACP_1911    							{ quality = 2; price = 20; };
     class CUP_8Rnd_9x18_Makarov_M    						{ quality = 2; price = 20; };
     class CUP_8Rnd_9x18_MakarovSD_M    						{ quality = 2; price = 20; };
@@ -150,8 +150,8 @@
     class CUP_HandGrenade_M67    							{ quality = 2; price = 20; };
 	class CUP_6Rnd_HE_M203    								{ quality = 2; price = 120; };
 	class CUP_1Rnd_HE_M203    								{ quality = 2; price = 40; };
-    class CUP_Mine_M   										{ quality = 2; price = 100; };
-    class CUP_PipeBomb_M    								{ quality = 2; price = 100; };
+    class CUP_Mine_M   										{ quality = 2; price = 1000; };
+    class CUP_PipeBomb_M    								{ quality = 2; price = 1000; };
 
 	
 
@@ -289,7 +289,7 @@
 	///////////////////////////////////////////////////////////////////////////////	
     class CUP_srifle_SVD_wdl_ghillie 				{ quality = 1; price = 1900; };
     class CUP_srifle_SVD_des_ghillie_pso 			{ quality = 1; price = 1900; };
-    class CUP_srifle_DMR 							{ quality = 1; price = 1825; };
+    //class CUP_srifle_DMR 							{ quality = 1; price = 1825; };
     class CUP_srifle_ksvk 							{ quality = 1; price = 2000; };
     class CUP_srifle_M110 							{ quality = 1; price = 1200; };
     class CUP_srifle_M14 							{ quality = 1; price = 1200; };

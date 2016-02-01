@@ -1,6 +1,6 @@
-
 null =[] execVM "Briefing.sqf"; // Briefing and Rules
 [] execVM "RoamingTrader.sqf";
+[] execVM "Custom\EnigmaRevive\init.sqf";
 
 [] spawn {
 	private ["_opticsAllowed","_specialisedOptics"];
@@ -27,4 +27,21 @@ null =[] execVM "Briefing.sqf"; // Briefing and Rules
 		};
 		uiSleep 4;
 	};
+};
+if (isServer) then {
+	systemChat(format["Start looking for Gas Stations"]);
+	{ _x setFuelCargo 1; } forEach (nearestObjects [getMarkerPos "center", ["Land_Ind_FuelStation_feed_EP1"], 15000]); 
+	systemChat(format["Finished looking for Gas Stations"]);	
+
+};
+//Admin Hunt
+if(!isDedicated) then {
+ "GlobalAdminHint" addPublicVariableEventHandler {
+  hint parseText format ["%1", ((_this select 1) select 0)];
+	};
+
+	[] spawn {	
+		waitUntil{vehicle player == player && time > 5};
+		[] execVM "scripts\add_action_menu.sqf";
+	};	
 };

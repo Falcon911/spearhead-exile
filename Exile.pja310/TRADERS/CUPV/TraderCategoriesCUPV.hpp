@@ -126,6 +126,7 @@
 			"CUP_B_HMMWV_MK19_USA",
 			"CUP_B_HMMWV_Crows_MK19_USA",
 			"CUP_B_HMMWV_SOV_USA",
+			"CUP_B_HMMWV_Avenger_USA",
 			"CUP_B_BRDM2_HQ_CDF",
 			"CUP_O_BRDM2_HQ_SLA",
 			"CUP_I_BRDM2_HQ_UN",
@@ -141,8 +142,8 @@
 			"CUP_I_BRDM2_UN",
 			"CUP_B_BRDM2_CDF",
 			"CUP_I_T55_TK_GUE",
-			"CUP_I_SUV_Armored_ION",
 			"CUP_B_LAV25_HQ_USMC",
+			"CUP_B_BM21_CDF",
 			"CUP_I_M113_RACS"
 		};
 	};
@@ -167,6 +168,7 @@
 		{
 			"CUP_B_CH53E_USMC",
 			"CUP_B_UH1Y_UNA_F",
+			"CUP_B_MI24_D_MEV_CDF",
 			"CUP_B_UH1Y_MEV_F",
 			"CUP_C_Mi17_Civilian_RU",
 			"CUP_B_Mi17_CDF",
@@ -199,6 +201,6 @@
 			"CUP_I_UH60L_Unarmed_FFV_Racs",
 			"CUP_I_UH60L_Unarmed_FFV_MEV_Racs",
 			"CUP_B_MV22_USMC",
-			"CUP_B_AH1Z_NoWeapons"
+			//"CUP_B_AH1Z_NoWeapons"
 		};
 	};

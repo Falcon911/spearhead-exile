@@ -1,0 +1,6 @@
+23-01-2016 02:58:02 infiSTAR.de | 0h 11min 2s | Katana(76561197982462238) | ChatMenu Found: 8 should be 5 () [FPS: 48.6322|SERVERTHREADS: 35] (v0028)
+23-01-2016 03:00:12 infiSTAR.de | 0h 13min 11s | MrOffline(76561198147690117) | ChatMenu Found: 13 should be 7 () [FPS: 32.3232|SERVERTHREADS: 35] (v0028)
+23-01-2016 11:58:34 infiSTAR.de | 0h 9min 53s | Bambi Hero(76561198062249606) | ChatMenu Found: 12 should be 6 () [FPS: 17.9372|SERVERTHREADS: 33] (v0028)
+23-01-2016 14:34:45 infiSTAR.de | 1h 57min 55s | mohammad ali jinnah(76561198067305067) | ChatMenu Found: 7 should be 1 () [FPS: 6.74252|SERVERTHREADS: 33] (v0028)
+23-01-2016 16:55:38 infiSTAR.de | 1h 44min 47s | Bifi(76561197963349350) | TP with AI as driver..  Moved 11m in 0.156738s (from [17696.7,18449.2,0.0482724] to [17686,18445.4,0.00542808]). TopSpeed of CUP_B_UAZ_Unarmed_CDF is 120 speed was 259.559. Player FPS: 10.877. [FPS: 6.92641|SERVERTHREADS: 35] (v0028)
+23-01-2016 18:23:41 infiSTAR.de | 0h 12min 58s | MrOffline(76561198147690117) | ChatMenu Found: 7 should be 6 () [FPS: 9.92556|SERVERTHREADS: 34] (v0029)

@@ -313,7 +313,7 @@
 		{
 	"CUP_srifle_SVD_wdl_ghillie",
 	"CUP_srifle_SVD_des_ghillie_pso",
-	"CUP_srifle_DMR",
+	//"CUP_srifle_DMR",
 	"CUP_srifle_ksvk",
 	"CUP_srifle_M110",
 	"CUP_srifle_M14",
@@ -331,7 +331,7 @@
 	"CUP_srifle_CZ550",
 	"CUP_srifle_LeeEnfield",
 	"CUP_srifle_M40A3",
-	"CUP_srifle_M107_LeupoldVX3",
+	"CUP_srifle_M107_base",
 	"CUP_srifle_M24_ghillie_bipod"
 	
 		};

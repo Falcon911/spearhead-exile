@@ -1,2 +1,2 @@
 //new
-1 "" !="IL_SetScore" !="PublicMessage" !="PVAHR_[a-z,0-9]{10,16}" !="PVAH_AdminReq" !="IL_CLient_Pod_Manager"
+1 "" !="Ares_oneshotCodeBlock" !="SERVER_REQ_INFI_CLIENT" !="CLIENT_PING" !="Ares_" !="Ares_FireArtilleryFunction"

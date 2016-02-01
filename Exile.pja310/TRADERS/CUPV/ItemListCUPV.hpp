@@ -128,14 +128,15 @@
 	class CUP_B_HMMWV_Crows_M2_USA	        { quality = 1; price = 25000; };
 	class CUP_B_HMMWV_M2_GPK_USA	        { quality = 1; price = 26500; };
 	class CUP_B_HMMWV_M2_USA	            { quality = 1; price = 26500; };
-	class CUP_B_HMMWV_DSHKM_GPK_ACR	        { quality = 1; price = 9500; };
+	class CUP_B_HMMWV_DSHKM_GPK_ACR	        { quality = 1; price = 29500; };
 	class CUP_B_HMMWV_AGS_GPK_ACR	        { quality = 1; price = 29500; };
 	class CUP_B_HMMWV_MK19_USMC	            { quality = 1; price = 29500; };
 	class CUP_B_HMMWV_MK19_USA	            { quality = 1; price = 29500; };
 	class CUP_B_HMMWV_Crows_MK19_USA	    { quality = 1; price = 29500; };
 	class CUP_B_HMMWV_SOV_USA	            { quality = 1; price = 28500; };
-	class CUP_I_SUV_Armored_ION				{ quality = 1; price = 20000; };
 	class CUP_B_LAV25_HQ_USMC				{ quality = 1; price = 20000; };
+	class CUP_B_BM21_CDF					{ quality = 1; price = 120000; };
+	class CUP_B_HMMWV_Avenger_USA			{ quality = 1; price = 135000; };
 	
 	
 	///////////////////////////////////////////////////////////////////////////////
@@ -144,6 +145,7 @@
 	class CUP_B_CH53E_USMC	                { quality = 1; price = 75000; };
 	class CUP_B_UH1Y_UNA_F	                { quality = 1; price = 7000; };
 	class CUP_B_UH1Y_MEV_F	                { quality = 1; price = 7000; };
+	class CUP_B_MI24_D_MEV_CDF				{ quality = 1; price = 35000; };
 	class CUP_C_Mi17_Civilian_RU	        { quality = 1; price = 20000; };
 	class CUP_B_Mi17_CDF	                { quality = 1; price = 30000; };
 	class CUP_O_Mi17_TK	                    { quality = 1; price = 30000; };
@@ -174,7 +176,7 @@
 	class CUP_I_UH60L_Unarmed_RACS	        { quality = 1; price = 17000; };
 	class CUP_I_UH60L_Unarmed_FFV_Racs	    { quality = 1; price = 17000; };
 	class CUP_I_UH60L_Unarmed_FFV_MEV_Racs	{ quality = 1; price = 17000; };
-	class CUP_B_AH1Z_NoWeapons				{ quality = 1; price = 75000; };
+	//class CUP_B_AH1Z_NoWeapons				{ quality = 1; price = 75000; };
 	
 	
 	///////////////////////////////////////////////////////////////////////////////
@@ -189,7 +191,7 @@
 	// CUP Tracked Vehicles
 	///////////////////////////////////////////////////////////////////////////////
 
-	class CUP_I_T55_TK_GUE                 			{ quality = 1; price = 58000; }; // T-55 MBT
+	class CUP_I_T55_TK_GUE                 			{ quality = 1; price = 85000; }; // T-55 MBT
 
 	
 	///////////////////////////////////////////////////////////////////////////////
@@ -197,6 +199,6 @@
 	///////////////////////////////////////////////////////////////////////////////
 
 	class CUP_C_Fishing_Boat_Chernarus                		{ quality = 1; price = 1700; };
-	class CUP_B_Seafox_USV_USMC                      		{ quality = 1; price = 1000; };
+	//class CUP_B_Seafox_USV_USMC                      		{ quality = 1; price = 1000; };
 	class CUP_B_RHIB_USMC                                   { quality = 1; price = 1200; };
 	

@@ -1,0 +1,8 @@
+13-01-2016 06:10:56 infiSTAR.de | 1h 9min 15s | corey(76561198124890347) | Player is BADTYPE (invisible hack?): Exile_Unit_GhostPlayer - R Bravo 2-1:1 (corey) R Bravo 2-1:1 (corey) @[1779.25,1073.74,0.881727] 017113(KICKED) [FPS: 30.4183|SERVERTHREADS: 37] (v0027A)
+13-01-2016 07:14:54 infiSTAR.de | 2h 13min 10s | MrOffline(76561198147690117) | BadText on Chat: well you can say hitler and nazi and isis [isis] [FPS: 27.7296|SERVERTHREADS: 37] (v0027A)
+13-01-2016 13:58:39 infiSTAR.de | 2h 47min 23s | Archangel(76561198007097252) | may have tried to disconnect dupe @016185 [FPS: 13.0506|SERVERTHREADS: 43] (v0027A)
+13-01-2016 13:59:29 infiSTAR.de | 2h 48min 13s | Rhys(76561198094754646) | may have tried to disconnect dupe @016184 [FPS: 18.7793|SERVERTHREADS: 54] (v0027A)
+13-01-2016 13:59:30 infiSTAR.de | 2h 48min 13s | Luke(76561197990449590) | may have tried to disconnect dupe @171197 [FPS: 18.9798|SERVERTHREADS: 54] (v0027A)
+13-01-2016 14:54:05 infiSTAR.de | 0h 48min 44s | Spaztron42(76561198071775835) | may have tried to disconnect dupe @146135 [FPS: 8.70038|SERVERTHREADS: 38] (v0027A)
+13-01-2016 14:54:14 infiSTAR.de | 0h 48min 51s | Spaztron42(76561198071775835) | may have tried to disconnect dupe @146135 [FPS: 8.23045|SERVERTHREADS: 38] (v0027A)
+13-01-2016 20:39:28 infiSTAR.de | 0h 34min 18s | AlphaVirus(76561198082373256) | may have tried to disconnect dupe @122147 [FPS: 10.2433|SERVERTHREADS: 38] (v0027A)

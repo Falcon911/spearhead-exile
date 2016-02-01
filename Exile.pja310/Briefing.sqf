@@ -18,11 +18,14 @@ player createDiarySubject ["infos3", "More Info"];
                                 <br/>Falcon911
                                 <br/>Moore
                                 <br/>Cannon
-                                <br/>Ford
+                                <br/>Zheky
+								<br/>AustinHale
                                 <br/>KingHeavy
                                 <br/>Sage
 								<br/>Optima
+								<br/>De Gone
 								<br/>Lewis
+								<br/>DoubleA
 								<br/>7=Temp
 								<br/>
                                 "
@@ -43,15 +46,23 @@ player createDiarySubject ["infos3", "More Info"];
 
 				<br/>No stealing in safezones.</p>
 
-				<br/>No Building within 1000 meters of ANY safezones.</p>
- 
-				<br/>No Camping or Shooting within 1000 meters of a safezone.</p>
+				<br/>No Building within the Blue Circles</p>
+				
+				<br/>No Camping or Shooting within any Blue Circle in a trader zone. </p>
 
-				<br/>No base kamikaze with aircraft or sling stealing in safezones.</p>
+				<br/>No base kamikaze with aircraft or sling stealing in safezones</p>
 
 				<br/>Report any glitches or greifing on TS or post proof to Forums. Rewards for finding Hackers!!!!</p>
 
 				<br/>Glitching, exploiting, and hacking will get you Banned!</p>
+				
+				<br/>Interfearing with Dave or his vehicle will get you banned</p>
+				
+				<br/>Territory Payement are due every 10 days</p>
+				
+				<br/>Vehicles not used in 3 days will be deleted</p>
+				
+				<br/>Any objectes outside of your territory will be delted every 3 days</p>
 
 				<br/>Vehicles left unattended in the safezone will be unlocked upon reboot!</p>
 				"
@@ -91,6 +102,9 @@ player createDiarySubject ["infos3", "More Info"];
                                 <br/>You can join the teamspeak server at the following addresses!
                                 <br/>
                                 <br/>ts.spearheadgaming.net
+								<br/>
+								<br/>Takes money to run the server. Please donate!!
+								<br/>https://spearheadgaming.net/donate
                                 "
             ]
 
@@ -110,6 +124,8 @@ player createDiarySubject ["infos3", "More Info"];
                                 <br/>N - NVG's if you have them
                                 <br/>
                                 <br/>V - While sprinting allows jumping.
+								<br/>
+								<br/>Custome Key 1 = lock/unlock vehicles (normally U key) 
                                 <br/>
                                 <br/>Build or Consume - Open your inventory and double click on the item
                                 "
@@ -137,6 +153,8 @@ player createDiarySubject ["infos3", "More Info"];
                                 
                                 <br/>* There are very aggressive AI characters that spawn with most missions and will protect the mission objectives with deadly force, be aware of them.
 								
+								<br/>* DAVE is the mobile trader...Just dont get in front of him..he has a hard time seeing you...
+								
 								<br/>* For Missles and Rockets. Purchase straight into Vehicles. DO NOT try and purchase to Self. YOU WILL LOSE YOUR MONEY!!!!!
 								
 								<br/>* Pay attention to the Admin team and the announcements.  If you lose property because you didn't pay attention you can only blame yourself!
@@ -161,7 +179,7 @@ player createDiarySubject ["infos3", "More Info"];
                                 <br/>A. Weapons are found in one of three places, first in ammo crates that come as rewards from missions, inside of buildings, and second, Traders throughout the map. The last place to find a gun would be on the dead of players whose bodies have not yet been looted.
                                 <br/>
                                 <br/>Q. What are the blue circles on the map?
-                                <br/>A. The circles represent trader limits. If friendly soldiers are in a town, you can spawn there from the re-spawn menu; however if there is an enemy presence, you will not be able to spawn there.
+                                <br/>A. The circles represent trader No kill area limits. 
                                 <br/>
                                 <br/>Q. Why is it so dark, I cant see.
                                 <br/>A. The server has a day/night cycle just like in the real world, and as such, night time is a factor in your survival. It is recommended that you find sources of light or use your Nightvision Goggles as the darkness sets in.

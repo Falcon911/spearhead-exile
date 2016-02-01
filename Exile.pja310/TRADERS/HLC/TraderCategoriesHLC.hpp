@@ -47,7 +47,8 @@
 		"hlc_rifle_RPK12",
 		"hlc_rifle_rpk",
 		"hlc_lmg_m60",
-		"hlc_lmg_M60E4"
+		"hlc_lmg_M60E4",
+		"hlc_m249_pip4"
 		};
 	};
 	class HLCSubMachineGuns
@@ -147,6 +148,8 @@
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
 		items[]=
 		{
+			"hlc_200rnd_556x45_T_SAW",
+			"hlc_200rnd_556x45_B_SAW",
 			"hlc_100Rnd_762x51_B_M60E4",
 			"hlc_100Rnd_762x51_T_M60E4",	
 			"hlc_100Rnd_762x51_M_M60E4",

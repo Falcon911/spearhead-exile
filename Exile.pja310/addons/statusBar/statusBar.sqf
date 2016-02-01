@@ -20,26 +20,26 @@ disableSerialization;
 		//set the color values.
 		//Additional color codes can be found here:  http://html-color-codes.com/
 		_colourDefault 	= parseText "#adadad"; //set your default colour here
-		_colour108		= parseText "#F8F8FF";
-		_colour107		= parseText "#F8F8FF";
-		_colour106		= parseText "#F8F8FF";
-		_colour105		= parseText "#F8F8FF";
-		_colour104		= parseText "#F8F8FF";
-		_colour103		= parseText	"#F8F8FF";
-		_colour102		= parseText "#F8F8FF";
-		_colour101		= parseText "#F8F8FF";
-		_colour100 		= parseText "#F8F8FF";
-		_colour90 		= parseText "#F8F8FF";
-		_colour80 		= parseText "#F8F8FF";
-		_colour70 		= parseText "#F8F8FF";
-		_colour60 		= parseText "#F8F8FF";
-		_colour50 		= parseText "#F8F8FF";
-		_colour40 		= parseText "#F8F8FF";
-		_colour30 		= parseText "#F8F8FF";
-		_colour20 		= parseText "#F8F8FF";
-		_colour10 		= parseText "#F8F8FF";
-		_colour0 		= parseText "#F8F8FF";
-		_colourDead 	= parseText "#F8F8FF";
+		_colour108		= parseText "#FF7000";
+		_colour107		= parseText "#FF9000";
+		_colour106		= parseText "#FFBB00";
+		_colour105		= parseText "#FFCC00";
+		_colour104		= parseText "#81CCDD";
+		_colour103		= parseText	"#33AACC";
+		_colour102		= parseText "#3388CC";
+		_colour101		= parseText "#3366CC";
+		_colour100 		= parseText "#336600";
+		_colour90 		= parseText "#339900";
+		_colour80 		= parseText "#33CC00";
+		_colour70 		= parseText "#33FF00";
+		_colour60 		= parseText "#66FF00";
+		_colour50 		= parseText "#CCFF00";
+		_colour40 		= parseText "#CCCC00";
+		_colour30 		= parseText "#CC9900";
+		_colour20 		= parseText "#CC6600";
+		_colour10 		= parseText "#CC3300";
+		_colour0 		= parseText "#CC0000";
+		_colourDead 	= parseText "#000000";
 		_uid = getPlayerUID player;	
 	
 		

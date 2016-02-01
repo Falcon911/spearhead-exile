@@ -1,0 +1,8 @@
+29-01-2016 02:25:00 infiSTAR.de | 0h 17min 48s | [UN] Sgt. B. Simmons(76561198087497864) | may have tried to disconnect dupe @157201 [FPS: 30.2457|SERVERTHREADS: 37] (v0029)
+29-01-2016 03:10:49 infiSTAR.de | 1h 3min 18s | ToothPickDick(76561198149695963) | may have tried to disconnect dupe @199191 [FPS: 17.5246|SERVERTHREADS: 38] (v0029)
+29-01-2016 12:07:07 infiSTAR.de | 0h 57min 31s | Michael(76561198049175586) | may have tried to disconnect dupe @038198 [FPS: 12.2418|SERVERTHREADS: 37] (v0029)
+29-01-2016 13:13:48 infiSTAR.de | 2h 1min 10s | xAm_d(76561198061128228) | may have tried to disconnect dupe @181275 [FPS: 8.47458|SERVERTHREADS: 37] (v0029)
+29-01-2016 16:45:35 infiSTAR.de | 2h 29min 15s | |Ez| TTspringfield(76561198041488811) | BadText on Chat: nigger [nigger] [FPS: 10.0756|SERVERTHREADS: 41] (v0029)
+29-01-2016 17:19:07 infiSTAR.de | 0h 8min 31s | AlexWJD(76561198170420898) | Player Rating Check Thread not running 100000 - Exile_Unit_Player - @[7355.29,20308.8,0.00119495] 073305 [FPS: 29.5749|SERVERTHREADS: 39] (v0029)
+29-01-2016 21:57:34 infiSTAR.de | 1h 36min 54s | Batio(76561198079214195) | Player Rating Check Thread not running 0 - Exile_Unit_Player - @[17794.4,2199.39,0.00144458] 177124 [FPS: 8.35073|SERVERTHREADS: 39] (v0029)
+29-01-2016 22:42:06 infiSTAR.de | 2h 14min 44s | Batio(76561198079214195) | Player Rating Check Thread not running 0 - Exile_Unit_Player - @[19172.9,2521.89,0.918512] 191127 [FPS: 9.10125|SERVERTHREADS: 38] (v0029)

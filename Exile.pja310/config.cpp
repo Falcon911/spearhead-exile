@@ -1121,7 +1121,7 @@ class CfgExileArsenal
 	class Exile_Item_InstaDoc                       { quality = 1; price = 1250; };
 	class Exile_Item_Vishpirin						{ quality = 1; price = 300; };
 	class Exile_Item_Bandage	                    { quality = 1; price = 100; };
-	//class Exile_Item_Defibrillator				{ quality = 1; price = 7500; };
+	class Exile_Item_Defibrillator					{ quality = 1; price = 7500; };
 	
 	///////////////////////////////////////////////////////////////////////////////
 	// Tools
@@ -1155,9 +1155,9 @@ class CfgExileArsenal
 	class ItemRadio									{ quality = 1; price = 400; };
 	class Binocular									{ quality = 1; price = 40; };
 	class Rangefinder								{ quality = 2; price = 200; };
-	class Laserdesignator							{ quality = 3; price = 750; };
-	class Laserdesignator_02						{ quality = 3; price = 750; };
-	class Laserdesignator_03						{ quality = 3; price = 750; };
+	//class Laserdesignator							{ quality = 3; price = 750; };
+	//class Laserdesignator_02						{ quality = 3; price = 750; };
+	//class Laserdesignator_03						{ quality = 3; price = 750; };
 	class NVGoggles									{ quality = 2; price = 100; };
 	class NVGoggles_INDEP							{ quality = 2; price = 100; };
 	class NVGoggles_OPFOR							{ quality = 2; price = 100; };
@@ -1429,15 +1429,15 @@ class CfgExileArsenal
 	///////////////////////////////////////////////////////////////////////////////
 	// QUAD BIKES
 	///////////////////////////////////////////////////////////////////////////////
-	class Exile_Bike_QuadBike_Black					{ quality = 1; price = 2500; };
-	class Exile_Bike_QuadBike_Blue					{ quality = 1; price = 2500; };
-	class Exile_Bike_QuadBike_Red					{ quality = 1; price = 2500; };
-	class Exile_Bike_QuadBike_White					{ quality = 1; price = 2500; };
-	class Exile_Bike_QuadBike_Nato					{ quality = 1; price = 2500; };
-	class Exile_Bike_QuadBike_Csat					{ quality = 1; price = 2500; };
-	class Exile_Bike_QuadBike_Fia					{ quality = 1; price = 2500; };
-	class Exile_Bike_QuadBike_Guerilla01			{ quality = 1; price = 2500; };
-	class Exile_Bike_QuadBike_Guerilla02			{ quality = 1; price = 2500; };
+	class Exile_Bike_QuadBike_Black					{ quality = 1; price = 900; };
+	class Exile_Bike_QuadBike_Blue					{ quality = 1; price = 900; };
+	class Exile_Bike_QuadBike_Red					{ quality = 1; price = 900; };
+	class Exile_Bike_QuadBike_White					{ quality = 1; price = 900; };
+	class Exile_Bike_QuadBike_Nato					{ quality = 1; price = 900; };
+	class Exile_Bike_QuadBike_Csat					{ quality = 1; price = 900; };
+	class Exile_Bike_QuadBike_Fia					{ quality = 1; price = 900; };
+	class Exile_Bike_QuadBike_Guerilla01			{ quality = 1; price = 900; };
+	class Exile_Bike_QuadBike_Guerilla02			{ quality = 1; price = 900; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// KARTS
@@ -1760,7 +1760,9 @@ class CfgExileCustomCode
 	ExileClient_util_playerEquipment_add = 		"addons\ExileClient_util_playerEquipment_add.sqf";
 	ExileClient_object_item_craft = "overrides\ExileClient_object_item_craft.sqf";
 	ExileServer_object_tree_network_chopTreeRequest = "overrides\ExileServer_object_tree_network_chopTreeRequest.sqf";
-
+	ExileClient_object_player_death_startBleedingOut = "custom\EnigmaRevive\ExileClient_object_player_death_startBleedingOut.sqf"; //Happys Revive
+    ExileClient_object_player_event_onInventoryOpened = "custom\EnigmaRevive\ExileClient_object_player_event_onInventoryOpened.sqf"; //Happys Revive AntiDupe ---NEW with v0.65
+    	
 };
 class CfgExileHUD
 {
@@ -2299,7 +2301,17 @@ class CfgInteractionMenus
 				title = "Identify Body";
 				condition = "!(alive ExileClientInteractionObject)";
 				action = "_this call ExileClient_object_player_identifyBody";
-			};
+			}; 
+			
+			//////////////Added by [_ZEN_]happydayz/////////////////
+
+			class Revive: ExileAbstractAction
+			{
+				title = "Perform CPR";
+				condition = "(!(alive ExileClientInteractionObject) && (ExileClientInteractionObject getVariable ['EnigmaRevivePermitted', true]) && (magazines player find 'Exile_Item_Defibrillator' >= 0))";
+				action = "_this spawn Enigma_RevivePlyr";
+			};          
+			
 		};
 	};
 };
@@ -3076,9 +3088,9 @@ class CfgTraderCategories
 			"Exile_Item_ZipTie",		
 			"Binocular",
 			"Rangefinder",
-			"Laserdesignator",
-			"Laserdesignator_02",
-			"Laserdesignator_03",
+			//"Laserdesignator",
+			//"Laserdesignator_02",
+			//"Laserdesignator_03",
 			"NVGoggles",
 			"NVGoggles_INDEP",
 			"NVGoggles_OPFOR",
@@ -3099,10 +3111,8 @@ class CfgTraderCategories
 		{
 			"Exile_Item_InstaDoc",
 			"Exile_Item_Bandage",
-			"Exile_Item_Vishpirin"
-
-			// Not available in 0.9.4!
-			//"Exile_Item_Defibrillator"
+			"Exile_Item_Vishpirin",
+			"Exile_Item_Defibrillator"
 		};
 	};
 	class Navigation
@@ -3487,7 +3497,7 @@ class CfgTraderCategories
 			"Exile_Boat_SDV_Digital",
 			"Exile_Boat_SDV_Grey",
 			"CUP_C_Fishing_Boat_Chernarus",
-			"CUP_B_Seafox_USV_USMC",
+			//"CUP_B_Seafox_USV_USMC",
 			"CUP_B_RHIB_USMC"
 		};
 	};
