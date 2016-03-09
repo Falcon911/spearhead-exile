@@ -1,0 +1,17 @@
+Author: shix  http://www.exilemod.com/profile/4566-shix/
+
+Use: Allow Sever admins to set up a info page accessable from XM8 Apps
+
+Installation
+Move the Info Page folder to the Apps folder
+
+inside XM8Apps_Init.sqf change the app you want to use to 
+
+
+//App 1
+_app1Text = "Info";
+_app1Logo = "\exile_assets\texture\ui\xm8_app_cosa_nostra_ca.paa";
+app1_action = {
+  execVM "xm8Apps\Apps\Info Page\InfoPage.sqf";
+};
+

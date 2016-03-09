@@ -46,12 +46,6 @@
 		<loop>-1</loop>
 		<cmd> say -1 Recruiting for Mil-Sim.. See Anyone with a Tag on the Teamspeak. </cmd>
 	</job>
-<job id='6'>
-		<day>1,2,3,4,5,6,7</day>
-		<start>004500</start>
-		<runtime>003530</runtime>
-		<loop>-1</loop>
-		<cmd> say -1 Jan 4 2016. Arma3Sync Repo will be dropped. Please use Steamworksop. Details on forums.</cmd>
-	</job>
+
 
 </Scheduler>

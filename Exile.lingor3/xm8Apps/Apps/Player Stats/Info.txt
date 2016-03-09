@@ -1,0 +1,16 @@
+Author: shix  http://www.exilemod.com/profile/4566-shix/
+
+Use: Allow players to view their stat such as kills deaths money respect and KD in game through the xm8
+
+Installation
+Move the Player Stats folder to the Apps folder
+
+inside XM8Apps_Init.sqf change the app you want to use to 
+
+//App 1
+_app1Text = "Player Stats";
+_app1Logo = "xm8Apps\Apps\Player Stats\Stats_IconWhite.paa";
+app1_action = {
+  execVM"xm8Apps\Apps\Player Stats\PlayerStats.sqf";
+};
+

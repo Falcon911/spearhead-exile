@@ -1,20 +1,14 @@
 # spearhead-exile
 
-Modded mission created by Tim Cannon. Was given full permission to clone and reuse this mission. 
+Modded mission created by Falcon911. Was given full permission to clone and reuse this mission. 
 
 Features:
 
 Community Update Project Weapons 
 Arma 2’s best weapons remade in high quality for Arma 3, loot and trade guns such as the Lee Enfield, CZ550, L85A2 and AS50.
 
-Al Rayak
-Survive, Build and Explore in the Vast Terrain that features tall vegetation and vast forests.
-
-Re-Worked Loot Tables 
-High End Snipers such as the GM6 Lynx and AS50 are now rare, if you find one; you better treasure it.
-
-Re-Worked Trader 
-Removed High End Snipers such as the GM6 Lynx from the Trader making them even rarer and increasing their value overall, additionally; all High End Weapons and Ammo have received a price increase meaning players are no longer walking Armories.
+Lingor Map
+Survive, Build and Explore in the Vast Terrain that features tall vegetation and vast forests and jungle.
 
 Added Additional Loot 
 Weapons from CUP such as the Lee Enfield, M16 and L85A2 are now new to Exile, however new loot such as First Aid Kits can now be found within Al Rayak
@@ -25,22 +19,57 @@ Exile: Features missions via VEMF, fight back for the towns that bandits have ta
 From VMEF dev it07 http://www.exilemod.com/topic/66-vemf-for-exile-by-it07/
 
 
-CUP Weaposn ADDED
+All in one Steam Workshop files: Spearhead Lingor Files  
 
+DO NOT USE CBA!!!!!!
 
-New Traders 
-Al Rayak has three traders within its lands; Airport trader, The Deserted Trader and The Coastal Trader. 
+Individual files if you do not want to download through steam. 
 
-Includes modified files for auto restart of the server from Bruiser : http://www.exilemod.com/topic/625-nevermind-went-another-routegood-script-editor-needed-should-be-easy-for-most-of-you/
+DO NOT USE CBA!!!!!!
+
+ASDG_JR
+
+CUP Weapons
+
+CUP Units
+
+CUP Vehicles
+
+CUP Terrains – Complete – v1.0.1
+
+NIKO Uniforms
+
+NIKO Vests
+
+Panthera
+
+Lingor Island
+
+Exile Mod
+
+Bell Helicopters
+
+MELB
+
+Additions:
+
+Reserve Slot system
+
+Exile, HLC and CUP Weapons 
+
+Exile and CUP Vehicles
+
+New Uniforms and Vests from Niko
+
+MK6 Mortar (you will need the base plate and the tube so this a two person operation) No more BM-21's
+
+New XM8 applications (Thanks to Shix for this)
 
 Download needed:
 Steam Workshop
-http://steamcommunity.com/sharedfiles/filedetails/?id=577132981
-
-
-
+http://steamcommunity.com/sharedfiles/filedetails/?id=620427110
 
 
 Change log 
-Moidifed for Exile 0.9.41
+Moidifed for Exile 0.9.6
 

@@ -1,6 +1,0 @@
-28-01-2016 11:42:10 infiSTAR.de | 1h 19min 7s | Zheky(76561198042363732) | may have tried to disconnect dupe @073305 [FPS: 10.4031|SERVERTHREADS: 37] (v0029)
-28-01-2016 11:42:19 infiSTAR.de | 1h 19min 15s | Zheky(76561198042363732) | may have tried to disconnect dupe @073305 [FPS: 10.596|SERVERTHREADS: 37] (v0029)
-28-01-2016 13:37:15 infiSTAR.de | 0h 16min 6s | Cuddles(76561198119519545) | may have tried to disconnect dupe @183152 [FPS: 18.4971|SERVERTHREADS: 38] (v0029)
-28-01-2016 14:13:15 infiSTAR.de | 0h 8min 8s | Scoobaruu(76561198183215247) | may have tried to disconnect dupe @037142 [FPS: 30.5344|SERVERTHREADS: 38] (v0029)
-28-01-2016 20:23:36 infiSTAR.de | 0h 17min 20s | Fallout3fan(76561198065083141) | may have tried to disconnect dupe @019183 [FPS: 14.8285|SERVERTHREADS: 38] (v0029)
-28-01-2016 22:06:28 infiSTAR.de | 1h 52min 51s | Fletcher(76561198152891032) | may have tried to disconnect dupe @177123 [FPS: 9.23254|SERVERTHREADS: 38] (v0029)

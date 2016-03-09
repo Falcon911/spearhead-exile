@@ -1,2 +1,0 @@
-30-01-2016 05:51:21 infiSTAR.de | 0h 38min 27s | DredNaugt(76561197990573008) | ChatMenu Found: 3 should be 2 () [FPS: 32.3887|SERVERTHREADS: 38] (v0029)
-30-01-2016 05:51:21 infiSTAR.de | 0h 38min 27s | DredNaugt(76561197990573008) | ChatMenu Found: 2 should be 3 () [FPS: 31.4961|SERVERTHREADS: 38] (v0029)

@@ -1,2 +1,6 @@
 //new
-1 "" !="Ares_oneshotCodeBlock" !="SERVER_REQ_INFI_CLIENT" !="CLIENT_PING" !="Ares_" !="Ares_FireArtilleryFunction"
+1 "" !="IL_SetScore" !="PublicMessage" !="PVAHR_[a-z,0-9]{10,16}" !="PVAH_AdminReq" !="IL_CLient_Pod_Manager" !="GlobalAdminHint"
+1 "Ares_FireArtilleryFunction"
+1 "#particlesource"
+1 "\A3\data_f\ParticleEffects\Universal\Universal_02"
+1 "Ares_"

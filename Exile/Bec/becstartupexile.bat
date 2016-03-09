@@ -1,0 +1,1 @@
+Bec.exe -f Config.cfg

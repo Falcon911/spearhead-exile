@@ -1,0 +1,18 @@
+Author: Andrew_S90  http://www.exilemod.com/profile/14063-andrew_s90/
+
+Use: Allows players to test the spot they are at to see if they can place their territory there
+
+Installation
+Move the Build here folder to the Apps folder
+
+inside XM8Apps_Init.sqf change the app you want to use to 
+
+//App 1 
+_app1Text = "Base Locator";
+_app1Logo = "\exile_assets\texture\ui\snap_blue_ca.paa";
+app1_action = {
+	private ["_position"];
+	_position = getPosATL player;
+	[_position] execVM "xm8Apps\Apps\Build Here\build_here.sqf";
+};
+

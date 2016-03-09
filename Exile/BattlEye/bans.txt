@@ -149,5 +149,46 @@ f6b3339ba254cfc94d612c29e724d58c -1 BEC : GameHack #38
 23ab38657f2560cf54a566fad2a01821 -1 Birddawg. disrespectful
 c4038224e138c309db061b665e1d9899 -1 [BCP] Troll
 5acbd1cdfa1eec651e8fe2792856fe31 -1 BEC : GameHack #38
+4f91ce50c0155268b25d9ed79966ebcf -1 Disrespect towards admins
+f2ed48e0f11d6ec15876ed19ef4562e1
+e582f2f974fd64ed327dbfe3213888ec -1 disrupotive
+a197a617216fc0b370b25cf9e74a2766 -1 Duping-
+2b309e4adefc421abadb0debb71e3ca0 -1 Duping
+fb8c8bfa15a92888c266a59311ea0973 -1 [BCP] Duping
+dd08deaa55a5a27dd3b953db019fca18 -1 Nortlin Trader abuse
+6b30f58619f74429f2b389df8a855330 -1 Donut - trader abuse
+586c629ef394c09c12c152b6b9999b63 -1 Marc campbell trader abuse
+4c917afc8c72a390f49dbe1d26e009f1 -1 Vriken Hacking
+b388e603aa00a09d9fd0f701ecf67e4d -1 Continued Asshat
+1d582bfbab91e4f0b4e2809a211db69f -1 Since our admins are such shit, I'll let you go find another ser
+6dbb8367ea8c907ec4d4c28009368709 -1 Let's play good cop, bad cop. Falcon is the good cop. Can you gu
+a87a2bc00af5c1be06a90e8151faec5b -1 Base Glitch
+ff004fe82652fda4f269cf640f52d7eb -1 Base Glitch
+e1eceaaa01abca5a1ca25f352f376b4c 1457542925 Duping/exploit 
+c823e97bc0f06059f1e87cbdb80f5846 1457543604 Duping/exploiting server
+33e2441cdb78e8339053141a8baf6770 1457544632 exploit 
+b010d476b541321b2e084480ad1e0128 1457645596 Exploit 
+579c818a1d1204f1ee58d7911b8fbcb7 -1 exploit group
 73.213.215.166 -1 Birddawg. disrespectful
 37.4.80.126 -1 [BCP] Troll
+212.120.126.117 -1 [BCP] Meijer
+50.100.58.171 -1 Disrespect towards admins
+184.90.139.191
+69.129.79.208 -1 disrupotive
+207.255.31.119 -1 Duping-
+99.118.83.96 -1 Duping
+109.232.74.7 -1 Nortlin Trader abuse
+212.130.135.231 -1 Donut - trader abuse
+109.232.74.4 -1 Marc campbell trader abuse
+31.211.195.137 -1 Vriken Hacking
+76.5.194.179 -1 Since our admins are such shit, I'll let you go find another ser
+99.113.93.207 -1 Let's play good cop, bad cop. Falcon is the good cop. I'll let y
+99.113.93.207 -1 Let's play good cop, bad cop. Falcon is the good cop. Can you gu
+108.19.211.167 -1 Base Glitch
+184.66.239.172 -1 Base Glitch
+93.197.187.56 -1 Base Glitch
+89.143.88.75 1457542925 Duping/exploit 
+24.22.84.232 1457543604 Duping/exploiting server
+78.80.254.82 1457544632 exploit 
+46.164.21.93 1457645596 Exploit 
+71.95.191.2 -1 exploit group

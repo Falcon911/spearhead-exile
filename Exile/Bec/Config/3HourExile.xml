@@ -917,7 +917,7 @@
 		<start>003535</start>
 		<runtime>003535</runtime>
 		<loop>-1</loop>
-		<cmd> say -1 Territory payment due every 21 days. If not, anything in there will be delete automatically</cmd>
+		<cmd> say -1 Territory payment due every 7 days. If not, anything in there will be delete automatically</cmd>
 	</job>
 <job id='63'>
 		<day>1,2,3,4,5,6,7</day>

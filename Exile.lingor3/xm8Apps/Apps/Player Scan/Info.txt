@@ -1,0 +1,17 @@
+Author: shix  http://www.exilemod.com/profile/4566-shix/
+
+Use: Allow players to scan for other players within a set area
+
+Installation
+Move the player scan folder to the Apps folder
+
+inside XM8Apps_Init.sqf change the app you want to use to 
+
+
+//App 1
+_app1Text = "Player Scan";
+_app1Logo = "xm8Apps\Apps\Player scan\radarLogo.paa";
+app1_action = {
+  execVM "xm8Apps\Apps\Player scan\playerScan.sqf";
+};
+
